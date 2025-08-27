@@ -47,7 +47,7 @@ df = sort_values(df)
 
 df[["month", "year"]] = df["stebejimo_laikas"].str.split("-", n=1, expand=True)
 
-df = df.drop(columns=["stoties_kodas", "stebejimo_laikas"])
+df = df.drop(columns=["stebejimo_laikas"])
 
 # print(df.to_string())
 df.to_csv("data/processed_meteo.csv", index=None)
