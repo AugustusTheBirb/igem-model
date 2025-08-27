@@ -1,0 +1,769 @@
+name,year,month,infection
+Alytaus r. sav.,2014,1,0
+Alytaus m. sav.,2014,1,1
+Druskininkų sav.,2014,1,0
+Lazdyjų r.,2014,1,0
+Varėnos r. sav.,2014,1,0
+Alytaus apskritis,2014,1,1
+Birštono sav.,2014,1,1
+Jonavos r. sav.,2014,1,1
+Kaišiadorių r. sav.,2014,1,3
+Kauno m. sav.,2014,1,7
+Kauno r. sav.,2014,1,1
+Kėdainių r. sav.,2014,1,1
+Prienų r. sav.,2014,1,0
+Raseinių r. sav.,2014,1,0
+Kauno apskritis,2014,1,14
+Klaipėdos m. sav.,2014,1,1
+Klaipėdos r. sav.,2014,1,0
+Kretingos r. sav.,2014,1,2
+Neringos sav.,2014,1,0
+Palangos m. sav.,2014,1,0
+Šilutės r. sav.,2014,1,1
+Skuodo r. sav.,2014,1,0
+Klaipėdos apskritis,2014,1,4
+Marijampolės r. sav.,2014,1,0
+Šakių r. sav.,2014,1,0
+Vilkaviškio r. sav.,2014,1,0
+Marijampolės apskritis,2014,1,0
+Biržų r. sav.,2014,1,0
+Kupiškio r. sav.,2014,1,1
+Panevėžio r. sav.,2014,1,3
+Panevėžio m. sav.,2014,1,2
+Pasvalio r. sav.,2014,1,0
+Rokiškio r. sav.,2014,1,2
+Panevėžio apskritis,2014,1,8
+Akmenės r. sav.,2014,1,0
+Joniškio r. sav.,2014,1,0
+Kelmės r. sav.,2014,1,0
+Radviliškio r. sav.,2014,1,0
+Šiaulių m. sav.,2014,1,2
+Šiaulių r. sav.,2014,1,0
+Šiaulių apskritis,2014,1,3
+Jurbarko r. sav.,2014,1,0
+Šilalės r. sav.,2014,1,0
+Tauragės r. sav.,2014,1,2
+Tauragės apskritis,2014,1,2
+Mažeikių r. sav.,2014,1,0
+Plungės r. sav.,2014,1,0
+Telšių r. sav.,2014,1,1
+Telšių apskritis,2014,1,1
+Anykščių r. sav.,2014,1,1
+Ignalinos r. sav.,2014,1,0
+Molėtų r. sav.,2014,1,0
+Utenos r. sav.,2014,1,2
+Visagino sav.,2014,1,1
+Zarasų r. sav.,2014,1,0
+Utenos apskritis,2014,1,4
+Šalčininkų r. sav.,2014,1,0
+Širvintų r. sav.,2014,1,0
+Švenčionių r. sav.,2014,1,2
+Trakų r. sav.,2014,1,1
+Ukmergės r. sav.,2014,1,3
+Vilniaus r. sav.,2014,1,1
+Vilniaus m. sav.,2014,1,12
+Vilniaus apskritis,2014,1,19
+Alytaus r. sav.,2014,2,0
+Alytaus m. sav.,2014,2,0
+Druskininkų sav.,2014,2,0
+Lazdyjų r.,2014,2,0
+Varėnos r. sav.,2014,2,2
+Alytaus apskritis,2014,2,2
+Birštono sav.,2014,2,0
+Jonavos r. sav.,2014,2,0
+Kaišiadorių r. sav.,2014,2,0
+Kauno m. sav.,2014,2,5
+Kauno r. sav.,2014,2,2
+Kėdainių r. sav.,2014,2,1
+Prienų r. sav.,2014,2,0
+Raseinių r. sav.,2014,2,0
+Kauno apskritis,2014,2,8
+Klaipėdos m. sav.,2014,2,0
+Klaipėdos r. sav.,2014,2,0
+Kretingos r. sav.,2014,2,0
+Neringos sav.,2014,2,0
+Palangos m. sav.,2014,2,0
+Šilutės r. sav.,2014,2,1
+Skuodo r. sav.,2014,2,0
+Klaipėdos apskritis,2014,2,1
+Marijampolės r. sav.,2014,2,0
+Šakių r. sav.,2014,2,0
+Vilkaviškio r. sav.,2014,2,0
+Marijampolės apskritis,2014,2,0
+Biržų r. sav.,2014,2,0
+Kupiškio r. sav.,2014,2,0
+Panevėžio r. sav.,2014,2,0
+Panevėžio m. sav.,2014,2,0
+Pasvalio r. sav.,2014,2,0
+Rokiškio r. sav.,2014,2,3
+Panevėžio apskritis,2014,2,3
+Akmenės r. sav.,2014,2,0
+Joniškio r. sav.,2014,2,0
+Kelmės r. sav.,2014,2,0
+Radviliškio r. sav.,2014,2,0
+Šiaulių m. sav.,2014,2,3
+Šiaulių r. sav.,2014,2,0
+Šiaulių apskritis,2014,2,3
+Jurbarko r. sav.,2014,2,0
+Šilalės r. sav.,2014,2,0
+Tauragės r. sav.,2014,2,0
+Tauragės apskritis,2014,2,0
+Mažeikių r. sav.,2014,2,3
+Plungės r. sav.,2014,2,0
+Telšių r. sav.,2014,2,2
+Telšių apskritis,2014,2,5
+Anykščių r. sav.,2014,2,0
+Ignalinos r. sav.,2014,2,0
+Molėtų r. sav.,2014,2,0
+Utenos r. sav.,2014,2,4
+Visagino sav.,2014,2,1
+Zarasų r. sav.,2014,2,1
+Utenos apskritis,2014,2,6
+Šalčininkų r. sav.,2014,2,0
+Širvintų r. sav.,2014,2,0
+Švenčionių r. sav.,2014,2,0
+Trakų r. sav.,2014,2,3
+Ukmergės r. sav.,2014,2,2
+Vilniaus r. sav.,2014,2,0
+Vilniaus m. sav.,2014,2,11
+Vilniaus apskritis,2014,2,16
+Alytaus r. sav.,2014,3,0
+Alytaus m. sav.,2014,3,0
+Druskininkų sav.,2014,3,0
+Lazdyjų r.,2014,3,0
+Varėnos r. sav.,2014,3,0
+Alytaus apskritis,2014,3,0
+Birštono sav.,2014,3,0
+Jonavos r. sav.,2014,3,1
+Kaišiadorių r. sav.,2014,3,0
+Kauno m. sav.,2014,3,4
+Kauno r. sav.,2014,3,0
+Kėdainių r. sav.,2014,3,0
+Prienų r. sav.,2014,3,0
+Raseinių r. sav.,2014,3,0
+Kauno apskritis,2014,3,5
+Klaipėdos m. sav.,2014,3,1
+Klaipėdos r. sav.,2014,3,0
+Kretingos r. sav.,2014,3,0
+Neringos sav.,2014,3,0
+Palangos m. sav.,2014,3,0
+Šilutės r. sav.,2014,3,1
+Skuodo r. sav.,2014,3,0
+Klaipėdos apskritis,2014,3,2
+Marijampolės r. sav.,2014,3,0
+Šakių r. sav.,2014,3,1
+Vilkaviškio r. sav.,2014,3,0
+Marijampolės apskritis,2014,3,1
+Biržų r. sav.,2014,3,1
+Kupiškio r. sav.,2014,3,1
+Panevėžio r. sav.,2014,3,0
+Panevėžio m. sav.,2014,3,0
+Pasvalio r. sav.,2014,3,0
+Rokiškio r. sav.,2014,3,0
+Panevėžio apskritis,2014,3,2
+Akmenės r. sav.,2014,3,0
+Joniškio r. sav.,2014,3,0
+Kelmės r. sav.,2014,3,0
+Radviliškio r. sav.,2014,3,2
+Šiaulių m. sav.,2014,3,1
+Šiaulių r. sav.,2014,3,0
+Šiaulių apskritis,2014,3,3
+Jurbarko r. sav.,2014,3,0
+Šilalės r. sav.,2014,3,0
+Tauragės r. sav.,2014,3,0
+Tauragės apskritis,2014,3,0
+Mažeikių r. sav.,2014,3,0
+Plungės r. sav.,2014,3,0
+Telšių r. sav.,2014,3,1
+Telšių apskritis,2014,3,1
+Anykščių r. sav.,2014,3,1
+Ignalinos r. sav.,2014,3,0
+Molėtų r. sav.,2014,3,0
+Utenos r. sav.,2014,3,0
+Visagino sav.,2014,3,0
+Zarasų r. sav.,2014,3,0
+Utenos apskritis,2014,3,1
+Šalčininkų r. sav.,2014,3,0
+Širvintų r. sav.,2014,3,0
+Švenčionių r. sav.,2014,3,0
+Trakų r. sav.,2014,3,0
+Ukmergės r. sav.,2014,3,0
+Vilniaus r. sav.,2014,3,3
+Vilniaus m. sav.,2014,3,8
+Vilniaus apskritis,2014,3,11
+Alytaus r. sav.,2014,4,0
+Alytaus m. sav.,2014,4,0
+Druskininkų sav.,2014,4,1
+Lazdyjų r.,2014,4,1
+Varėnos r. sav.,2014,4,0
+Alytaus apskritis,2014,4,2
+Birštono sav.,2014,4,0
+Jonavos r. sav.,2014,4,2
+Kaišiadorių r. sav.,2014,4,0
+Kauno m. sav.,2014,4,4
+Kauno r. sav.,2014,4,1
+Kėdainių r. sav.,2014,4,1
+Prienų r. sav.,2014,4,0
+Raseinių r. sav.,2014,4,0
+Kauno apskritis,2014,4,8
+Klaipėdos m. sav.,2014,4,0
+Klaipėdos r. sav.,2014,4,0
+Kretingos r. sav.,2014,4,0
+Neringos sav.,2014,4,0
+Palangos m. sav.,2014,4,0
+Šilutės r. sav.,2014,4,0
+Skuodo r. sav.,2014,4,1
+Klaipėdos apskritis,2014,4,1
+Marijampolės r. sav.,2014,4,0
+Šakių r. sav.,2014,4,0
+Vilkaviškio r. sav.,2014,4,0
+Marijampolės apskritis,2014,4,0
+Biržų r. sav.,2014,4,1
+Kupiškio r. sav.,2014,4,1
+Panevėžio r. sav.,2014,4,1
+Panevėžio m. sav.,2014,4,1
+Pasvalio r. sav.,2014,4,0
+Rokiškio r. sav.,2014,4,1
+Panevėžio apskritis,2014,4,5
+Akmenės r. sav.,2014,4,0
+Joniškio r. sav.,2014,4,0
+Kelmės r. sav.,2014,4,0
+Radviliškio r. sav.,2014,4,0
+Šiaulių m. sav.,2014,4,0
+Šiaulių r. sav.,2014,4,0
+Šiaulių apskritis,2014,4,1
+Jurbarko r. sav.,2014,4,0
+Šilalės r. sav.,2014,4,0
+Tauragės r. sav.,2014,4,1
+Tauragės apskritis,2014,4,1
+Mažeikių r. sav.,2014,4,0
+Plungės r. sav.,2014,4,0
+Telšių r. sav.,2014,4,0
+Telšių apskritis,2014,4,0
+Anykščių r. sav.,2014,4,0
+Ignalinos r. sav.,2014,4,0
+Molėtų r. sav.,2014,4,1
+Utenos r. sav.,2014,4,1
+Visagino sav.,2014,4,0
+Zarasų r. sav.,2014,4,0
+Utenos apskritis,2014,4,2
+Šalčininkų r. sav.,2014,4,2
+Širvintų r. sav.,2014,4,0
+Švenčionių r. sav.,2014,4,0
+Trakų r. sav.,2014,4,4
+Ukmergės r. sav.,2014,4,4
+Vilniaus r. sav.,2014,4,2
+Vilniaus m. sav.,2014,4,13
+Vilniaus apskritis,2014,4,25
+Alytaus r. sav.,2014,5,0
+Alytaus m. sav.,2014,5,1
+Druskininkų sav.,2014,5,0
+Lazdyjų r.,2014,5,0
+Varėnos r. sav.,2014,5,0
+Alytaus apskritis,2014,5,1
+Birštono sav.,2014,5,1
+Jonavos r. sav.,2014,5,3
+Kaišiadorių r. sav.,2014,5,4
+Kauno m. sav.,2014,5,26
+Kauno r. sav.,2014,5,3
+Kėdainių r. sav.,2014,5,2
+Prienų r. sav.,2014,5,0
+Raseinių r. sav.,2014,5,2
+Kauno apskritis,2014,5,41
+Klaipėdos m. sav.,2014,5,2
+Klaipėdos r. sav.,2014,5,1
+Kretingos r. sav.,2014,5,0
+Neringos sav.,2014,5,0
+Palangos m. sav.,2014,5,0
+Šilutės r. sav.,2014,5,1
+Skuodo r. sav.,2014,5,0
+Klaipėdos apskritis,2014,5,4
+Marijampolės r. sav.,2014,5,0
+Šakių r. sav.,2014,5,1
+Vilkaviškio r. sav.,2014,5,0
+Marijampolės apskritis,2014,5,1
+Biržų r. sav.,2014,5,0
+Kupiškio r. sav.,2014,5,2
+Panevėžio r. sav.,2014,5,0
+Panevėžio m. sav.,2014,5,3
+Pasvalio r. sav.,2014,5,0
+Rokiškio r. sav.,2014,5,0
+Panevėžio apskritis,2014,5,5
+Akmenės r. sav.,2014,5,0
+Joniškio r. sav.,2014,5,0
+Kelmės r. sav.,2014,5,0
+Radviliškio r. sav.,2014,5,1
+Šiaulių m. sav.,2014,5,4
+Šiaulių r. sav.,2014,5,1
+Šiaulių apskritis,2014,5,6
+Jurbarko r. sav.,2014,5,0
+Šilalės r. sav.,2014,5,2
+Tauragės r. sav.,2014,5,2
+Tauragės apskritis,2014,5,4
+Mažeikių r. sav.,2014,5,0
+Plungės r. sav.,2014,5,1
+Telšių r. sav.,2014,5,2
+Telšių apskritis,2014,5,3
+Anykščių r. sav.,2014,5,3
+Ignalinos r. sav.,2014,5,1
+Molėtų r. sav.,2014,5,0
+Utenos r. sav.,2014,5,4
+Visagino sav.,2014,5,0
+Zarasų r. sav.,2014,5,1
+Utenos apskritis,2014,5,9
+Šalčininkų r. sav.,2014,5,0
+Širvintų r. sav.,2014,5,0
+Švenčionių r. sav.,2014,5,1
+Trakų r. sav.,2014,5,1
+Ukmergės r. sav.,2014,5,3
+Vilniaus r. sav.,2014,5,0
+Vilniaus m. sav.,2014,5,27
+Vilniaus apskritis,2014,5,32
+Alytaus r. sav.,2014,6,2
+Alytaus m. sav.,2014,6,3
+Druskininkų sav.,2014,6,0
+Lazdyjų r.,2014,6,0
+Varėnos r. sav.,2014,6,2
+Alytaus apskritis,2014,6,7
+Birštono sav.,2014,6,1
+Jonavos r. sav.,2014,6,6
+Kaišiadorių r. sav.,2014,6,4
+Kauno m. sav.,2014,6,30
+Kauno r. sav.,2014,6,16
+Kėdainių r. sav.,2014,6,2
+Prienų r. sav.,2014,6,0
+Raseinių r. sav.,2014,6,3
+Kauno apskritis,2014,6,62
+Klaipėdos m. sav.,2014,6,1
+Klaipėdos r. sav.,2014,6,3
+Kretingos r. sav.,2014,6,1
+Neringos sav.,2014,6,0
+Palangos m. sav.,2014,6,2
+Šilutės r. sav.,2014,6,1
+Skuodo r. sav.,2014,6,0
+Klaipėdos apskritis,2014,6,8
+Marijampolės r. sav.,2014,6,0
+Šakių r. sav.,2014,6,2
+Vilkaviškio r. sav.,2014,6,1
+Marijampolės apskritis,2014,6,3
+Biržų r. sav.,2014,6,0
+Kupiškio r. sav.,2014,6,1
+Panevėžio r. sav.,2014,6,1
+Panevėžio m. sav.,2014,6,1
+Pasvalio r. sav.,2014,6,0
+Rokiškio r. sav.,2014,6,5
+Panevėžio apskritis,2014,6,8
+Akmenės r. sav.,2014,6,1
+Joniškio r. sav.,2014,6,0
+Kelmės r. sav.,2014,6,4
+Radviliškio r. sav.,2014,6,2
+Šiaulių m. sav.,2014,6,9
+Šiaulių r. sav.,2014,6,1
+Šiaulių apskritis,2014,6,17
+Jurbarko r. sav.,2014,6,0
+Šilalės r. sav.,2014,6,1
+Tauragės r. sav.,2014,6,5
+Tauragės apskritis,2014,6,6
+Mažeikių r. sav.,2014,6,0
+Plungės r. sav.,2014,6,0
+Telšių r. sav.,2014,6,4
+Telšių apskritis,2014,6,4
+Anykščių r. sav.,2014,6,1
+Ignalinos r. sav.,2014,6,1
+Molėtų r. sav.,2014,6,0
+Utenos r. sav.,2014,6,5
+Visagino sav.,2014,6,0
+Zarasų r. sav.,2014,6,2
+Utenos apskritis,2014,6,9
+Šalčininkų r. sav.,2014,6,1
+Širvintų r. sav.,2014,6,0
+Švenčionių r. sav.,2014,6,2
+Trakų r. sav.,2014,6,11
+Ukmergės r. sav.,2014,6,7
+Vilniaus r. sav.,2014,6,3
+Vilniaus m. sav.,2014,6,62
+Vilniaus apskritis,2014,6,86
+Alytaus r. sav.,2014,7,0
+Alytaus m. sav.,2014,7,0
+Druskininkų sav.,2014,7,3
+Lazdyjų r.,2014,7,1
+Varėnos r. sav.,2014,7,0
+Alytaus apskritis,2014,7,4
+Birštono sav.,2014,7,2
+Jonavos r. sav.,2014,7,10
+Kaišiadorių r. sav.,2014,7,3
+Kauno m. sav.,2014,7,53
+Kauno r. sav.,2014,7,17
+Kėdainių r. sav.,2014,7,9
+Prienų r. sav.,2014,7,1
+Raseinių r. sav.,2014,7,4
+Kauno apskritis,2014,7,99
+Klaipėdos m. sav.,2014,7,13
+Klaipėdos r. sav.,2014,7,4
+Kretingos r. sav.,2014,7,5
+Neringos sav.,2014,7,0
+Palangos m. sav.,2014,7,4
+Šilutės r. sav.,2014,7,3
+Skuodo r. sav.,2014,7,0
+Klaipėdos apskritis,2014,7,29
+Marijampolės r. sav.,2014,7,4
+Šakių r. sav.,2014,7,1
+Vilkaviškio r. sav.,2014,7,0
+Marijampolės apskritis,2014,7,5
+Biržų r. sav.,2014,7,2
+Kupiškio r. sav.,2014,7,0
+Panevėžio r. sav.,2014,7,2
+Panevėžio m. sav.,2014,7,9
+Pasvalio r. sav.,2014,7,2
+Rokiškio r. sav.,2014,7,5
+Panevėžio apskritis,2014,7,20
+Akmenės r. sav.,2014,7,0
+Joniškio r. sav.,2014,7,1
+Kelmės r. sav.,2014,7,2
+Radviliškio r. sav.,2014,7,4
+Šiaulių m. sav.,2014,7,22
+Šiaulių r. sav.,2014,7,8
+Šiaulių apskritis,2014,7,38
+Jurbarko r. sav.,2014,7,0
+Šilalės r. sav.,2014,7,2
+Tauragės r. sav.,2014,7,2
+Tauragės apskritis,2014,7,4
+Mažeikių r. sav.,2014,7,5
+Plungės r. sav.,2014,7,0
+Telšių r. sav.,2014,7,11
+Telšių apskritis,2014,7,16
+Anykščių r. sav.,2014,7,5
+Ignalinos r. sav.,2014,7,2
+Molėtų r. sav.,2014,7,0
+Utenos r. sav.,2014,7,8
+Visagino sav.,2014,7,0
+Zarasų r. sav.,2014,7,4
+Utenos apskritis,2014,7,19
+Šalčininkų r. sav.,2014,7,1
+Širvintų r. sav.,2014,7,3
+Švenčionių r. sav.,2014,7,4
+Trakų r. sav.,2014,7,15
+Ukmergės r. sav.,2014,7,5
+Vilniaus r. sav.,2014,7,14
+Vilniaus m. sav.,2014,7,94
+Vilniaus apskritis,2014,7,136
+Alytaus r. sav.,2014,8,1
+Alytaus m. sav.,2014,8,3
+Druskininkų sav.,2014,8,2
+Lazdyjų r.,2014,8,2
+Varėnos r. sav.,2014,8,1
+Alytaus apskritis,2014,8,9
+Birštono sav.,2014,8,0
+Jonavos r. sav.,2014,8,5
+Kaišiadorių r. sav.,2014,8,3
+Kauno m. sav.,2014,8,41
+Kauno r. sav.,2014,8,4
+Kėdainių r. sav.,2014,8,2
+Prienų r. sav.,2014,8,1
+Raseinių r. sav.,2014,8,0
+Kauno apskritis,2014,8,56
+Klaipėdos m. sav.,2014,8,13
+Klaipėdos r. sav.,2014,8,5
+Kretingos r. sav.,2014,8,5
+Neringos sav.,2014,8,0
+Palangos m. sav.,2014,8,3
+Šilutės r. sav.,2014,8,1
+Skuodo r. sav.,2014,8,3
+Klaipėdos apskritis,2014,8,30
+Marijampolės r. sav.,2014,8,0
+Šakių r. sav.,2014,8,1
+Vilkaviškio r. sav.,2014,8,1
+Marijampolės apskritis,2014,8,2
+Biržų r. sav.,2014,8,2
+Kupiškio r. sav.,2014,8,2
+Panevėžio r. sav.,2014,8,1
+Panevėžio m. sav.,2014,8,7
+Pasvalio r. sav.,2014,8,0
+Rokiškio r. sav.,2014,8,5
+Panevėžio apskritis,2014,8,17
+Akmenės r. sav.,2014,8,0
+Joniškio r. sav.,2014,8,0
+Kelmės r. sav.,2014,8,2
+Radviliškio r. sav.,2014,8,1
+Šiaulių m. sav.,2014,8,14
+Šiaulių r. sav.,2014,8,4
+Šiaulių apskritis,2014,8,26
+Jurbarko r. sav.,2014,8,2
+Šilalės r. sav.,2014,8,4
+Tauragės r. sav.,2014,8,10
+Tauragės apskritis,2014,8,16
+Mažeikių r. sav.,2014,8,2
+Plungės r. sav.,2014,8,1
+Telšių r. sav.,2014,8,8
+Telšių apskritis,2014,8,11
+Anykščių r. sav.,2014,8,5
+Ignalinos r. sav.,2014,8,1
+Molėtų r. sav.,2014,8,2
+Utenos r. sav.,2014,8,13
+Visagino sav.,2014,8,1
+Zarasų r. sav.,2014,8,2
+Utenos apskritis,2014,8,24
+Šalčininkų r. sav.,2014,8,1
+Širvintų r. sav.,2014,8,0
+Švenčionių r. sav.,2014,8,5
+Trakų r. sav.,2014,8,5
+Ukmergės r. sav.,2014,8,10
+Vilniaus r. sav.,2014,8,11
+Vilniaus m. sav.,2014,8,116
+Vilniaus apskritis,2014,8,148
+Alytaus r. sav.,2014,9,0
+Alytaus m. sav.,2014,9,0
+Druskininkų sav.,2014,9,0
+Lazdyjų r.,2014,9,1
+Varėnos r. sav.,2014,9,3
+Alytaus apskritis,2014,9,4
+Birštono sav.,2014,9,2
+Jonavos r. sav.,2014,9,6
+Kaišiadorių r. sav.,2014,9,0
+Kauno m. sav.,2014,9,50
+Kauno r. sav.,2014,9,12
+Kėdainių r. sav.,2014,9,4
+Prienų r. sav.,2014,9,7
+Raseinių r. sav.,2014,9,1
+Kauno apskritis,2014,9,82
+Klaipėdos m. sav.,2014,9,14
+Klaipėdos r. sav.,2014,9,2
+Kretingos r. sav.,2014,9,5
+Neringos sav.,2014,9,0
+Palangos m. sav.,2014,9,1
+Šilutės r. sav.,2014,9,2
+Skuodo r. sav.,2014,9,1
+Klaipėdos apskritis,2014,9,25
+Marijampolės r. sav.,2014,9,15
+Šakių r. sav.,2014,9,6
+Vilkaviškio r. sav.,2014,9,0
+Marijampolės apskritis,2014,9,21
+Biržų r. sav.,2014,9,4
+Kupiškio r. sav.,2014,9,2
+Panevėžio r. sav.,2014,9,2
+Panevėžio m. sav.,2014,9,15
+Pasvalio r. sav.,2014,9,0
+Rokiškio r. sav.,2014,9,5
+Panevėžio apskritis,2014,9,28
+Akmenės r. sav.,2014,9,2
+Joniškio r. sav.,2014,9,1
+Kelmės r. sav.,2014,9,3
+Radviliškio r. sav.,2014,9,8
+Šiaulių m. sav.,2014,9,16
+Šiaulių r. sav.,2014,9,9
+Šiaulių apskritis,2014,9,48
+Jurbarko r. sav.,2014,9,1
+Šilalės r. sav.,2014,9,2
+Tauragės r. sav.,2014,9,10
+Tauragės apskritis,2014,9,13
+Mažeikių r. sav.,2014,9,4
+Plungės r. sav.,2014,9,3
+Telšių r. sav.,2014,9,15
+Telšių apskritis,2014,9,22
+Anykščių r. sav.,2014,9,5
+Ignalinos r. sav.,2014,9,4
+Molėtų r. sav.,2014,9,0
+Utenos r. sav.,2014,9,3
+Visagino sav.,2014,9,4
+Zarasų r. sav.,2014,9,1
+Utenos apskritis,2014,9,17
+Šalčininkų r. sav.,2014,9,0
+Širvintų r. sav.,2014,9,3
+Švenčionių r. sav.,2014,9,4
+Trakų r. sav.,2014,9,6
+Ukmergės r. sav.,2014,9,5
+Vilniaus r. sav.,2014,9,14
+Vilniaus m. sav.,2014,9,86
+Vilniaus apskritis,2014,9,118
+Alytaus r. sav.,2014,10,1
+Alytaus m. sav.,2014,10,1
+Druskininkų sav.,2014,10,2
+Lazdyjų r.,2014,10,0
+Varėnos r. sav.,2014,10,4
+Alytaus apskritis,2014,10,8
+Birštono sav.,2014,10,0
+Jonavos r. sav.,2014,10,10
+Kaišiadorių r. sav.,2014,10,2
+Kauno m. sav.,2014,10,53
+Kauno r. sav.,2014,10,9
+Kėdainių r. sav.,2014,10,4
+Prienų r. sav.,2014,10,1
+Raseinių r. sav.,2014,10,1
+Kauno apskritis,2014,10,80
+Klaipėdos m. sav.,2014,10,3
+Klaipėdos r. sav.,2014,10,1
+Kretingos r. sav.,2014,10,5
+Neringos sav.,2014,10,0
+Palangos m. sav.,2014,10,1
+Šilutės r. sav.,2014,10,1
+Skuodo r. sav.,2014,10,1
+Klaipėdos apskritis,2014,10,12
+Marijampolės r. sav.,2014,10,4
+Šakių r. sav.,2014,10,6
+Vilkaviškio r. sav.,2014,10,1
+Marijampolės apskritis,2014,10,11
+Biržų r. sav.,2014,10,3
+Kupiškio r. sav.,2014,10,3
+Panevėžio r. sav.,2014,10,10
+Panevėžio m. sav.,2014,10,12
+Pasvalio r. sav.,2014,10,2
+Rokiškio r. sav.,2014,10,10
+Panevėžio apskritis,2014,10,40
+Akmenės r. sav.,2014,10,3
+Joniškio r. sav.,2014,10,0
+Kelmės r. sav.,2014,10,4
+Radviliškio r. sav.,2014,10,4
+Šiaulių m. sav.,2014,10,14
+Šiaulių r. sav.,2014,10,3
+Šiaulių apskritis,2014,10,31
+Jurbarko r. sav.,2014,10,3
+Šilalės r. sav.,2014,10,1
+Tauragės r. sav.,2014,10,10
+Tauragės apskritis,2014,10,14
+Mažeikių r. sav.,2014,10,2
+Plungės r. sav.,2014,10,8
+Telšių r. sav.,2014,10,15
+Telšių apskritis,2014,10,25
+Anykščių r. sav.,2014,10,4
+Ignalinos r. sav.,2014,10,4
+Molėtų r. sav.,2014,10,0
+Utenos r. sav.,2014,10,9
+Visagino sav.,2014,10,1
+Zarasų r. sav.,2014,10,5
+Utenos apskritis,2014,10,23
+Šalčininkų r. sav.,2014,10,2
+Širvintų r. sav.,2014,10,1
+Švenčionių r. sav.,2014,10,1
+Trakų r. sav.,2014,10,7
+Ukmergės r. sav.,2014,10,10
+Vilniaus r. sav.,2014,10,13
+Vilniaus m. sav.,2014,10,124
+Vilniaus apskritis,2014,10,158
+Alytaus r. sav.,2014,11,1
+Alytaus m. sav.,2014,11,0
+Druskininkų sav.,2014,11,0
+Lazdyjų r.,2014,11,0
+Varėnos r. sav.,2014,11,1
+Alytaus apskritis,2014,11,2
+Birštono sav.,2014,11,0
+Jonavos r. sav.,2014,11,3
+Kaišiadorių r. sav.,2014,11,2
+Kauno m. sav.,2014,11,14
+Kauno r. sav.,2014,11,6
+Kėdainių r. sav.,2014,11,3
+Prienų r. sav.,2014,11,1
+Raseinių r. sav.,2014,11,0
+Kauno apskritis,2014,11,29
+Klaipėdos m. sav.,2014,11,1
+Klaipėdos r. sav.,2014,11,5
+Kretingos r. sav.,2014,11,1
+Neringos sav.,2014,11,0
+Palangos m. sav.,2014,11,1
+Šilutės r. sav.,2014,11,1
+Skuodo r. sav.,2014,11,0
+Klaipėdos apskritis,2014,11,9
+Marijampolės r. sav.,2014,11,3
+Šakių r. sav.,2014,11,2
+Vilkaviškio r. sav.,2014,11,1
+Marijampolės apskritis,2014,11,6
+Biržų r. sav.,2014,11,0
+Kupiškio r. sav.,2014,11,3
+Panevėžio r. sav.,2014,11,8
+Panevėžio m. sav.,2014,11,19
+Pasvalio r. sav.,2014,11,1
+Rokiškio r. sav.,2014,11,4
+Panevėžio apskritis,2014,11,35
+Akmenės r. sav.,2014,11,2
+Joniškio r. sav.,2014,11,0
+Kelmės r. sav.,2014,11,2
+Radviliškio r. sav.,2014,11,1
+Šiaulių m. sav.,2014,11,6
+Šiaulių r. sav.,2014,11,2
+Šiaulių apskritis,2014,11,14
+Jurbarko r. sav.,2014,11,0
+Šilalės r. sav.,2014,11,1
+Tauragės r. sav.,2014,11,3
+Tauragės apskritis,2014,11,4
+Mažeikių r. sav.,2014,11,1
+Plungės r. sav.,2014,11,3
+Telšių r. sav.,2014,11,5
+Telšių apskritis,2014,11,9
+Anykščių r. sav.,2014,11,2
+Ignalinos r. sav.,2014,11,1
+Molėtų r. sav.,2014,11,0
+Utenos r. sav.,2014,11,2
+Visagino sav.,2014,11,2
+Zarasų r. sav.,2014,11,0
+Utenos apskritis,2014,11,7
+Šalčininkų r. sav.,2014,11,0
+Širvintų r. sav.,2014,11,0
+Švenčionių r. sav.,2014,11,3
+Trakų r. sav.,2014,11,3
+Ukmergės r. sav.,2014,11,6
+Vilniaus r. sav.,2014,11,5
+Vilniaus m. sav.,2014,11,44
+Vilniaus apskritis,2014,11,61
+Alytaus r. sav.,2014,12,0
+Alytaus m. sav.,2014,12,0
+Druskininkų sav.,2014,12,0
+Lazdyjų r.,2014,12,0
+Varėnos r. sav.,2014,12,0
+Alytaus apskritis,2014,12,0
+Birštono sav.,2014,12,0
+Jonavos r. sav.,2014,12,2
+Kaišiadorių r. sav.,2014,12,0
+Kauno m. sav.,2014,12,7
+Kauno r. sav.,2014,12,3
+Kėdainių r. sav.,2014,12,1
+Prienų r. sav.,2014,12,2
+Raseinių r. sav.,2014,12,1
+Kauno apskritis,2014,12,16
+Klaipėdos m. sav.,2014,12,1
+Klaipėdos r. sav.,2014,12,2
+Kretingos r. sav.,2014,12,0
+Neringos sav.,2014,12,0
+Palangos m. sav.,2014,12,0
+Šilutės r. sav.,2014,12,2
+Skuodo r. sav.,2014,12,0
+Klaipėdos apskritis,2014,12,5
+Marijampolės r. sav.,2014,12,1
+Šakių r. sav.,2014,12,0
+Vilkaviškio r. sav.,2014,12,2
+Marijampolės apskritis,2014,12,3
+Biržų r. sav.,2014,12,2
+Kupiškio r. sav.,2014,12,1
+Panevėžio r. sav.,2014,12,3
+Panevėžio m. sav.,2014,12,6
+Pasvalio r. sav.,2014,12,1
+Rokiškio r. sav.,2014,12,2
+Panevėžio apskritis,2014,12,15
+Akmenės r. sav.,2014,12,0
+Joniškio r. sav.,2014,12,0
+Kelmės r. sav.,2014,12,0
+Radviliškio r. sav.,2014,12,1
+Šiaulių m. sav.,2014,12,6
+Šiaulių r. sav.,2014,12,1
+Šiaulių apskritis,2014,12,10
+Jurbarko r. sav.,2014,12,0
+Šilalės r. sav.,2014,12,0
+Tauragės r. sav.,2014,12,2
+Tauragės apskritis,2014,12,2
+Mažeikių r. sav.,2014,12,2
+Plungės r. sav.,2014,12,3
+Telšių r. sav.,2014,12,4
+Telšių apskritis,2014,12,9
+Anykščių r. sav.,2014,12,0
+Ignalinos r. sav.,2014,12,0
+Molėtų r. sav.,2014,12,0
+Utenos r. sav.,2014,12,4
+Visagino sav.,2014,12,2
+Zarasų r. sav.,2014,12,0
+Utenos apskritis,2014,12,6
+Šalčininkų r. sav.,2014,12,0
+Širvintų r. sav.,2014,12,0
+Švenčionių r. sav.,2014,12,2
+Trakų r. sav.,2014,12,1
+Ukmergės r. sav.,2014,12,3
+Vilniaus r. sav.,2014,12,2
+Vilniaus m. sav.,2014,12,31
+Vilniaus apskritis,2014,12,39

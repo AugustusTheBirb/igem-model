@@ -1,0 +1,769 @@
+name,year,month,infection
+Alytaus r. sav.,2011,1,0
+Alytaus m. sav.,2011,1,0
+Druskininkų sav.,2011,1,0
+Lazdyjų r.,2011,1,0
+Varėnos r. sav.,2011,1,1
+Alytaus apskritis,2011,1,1
+Birštono sav.,2011,1,0
+Jonavos r. sav.,2011,1,2
+Kaišiadorių r. sav.,2011,1,0
+Kauno m. sav.,2011,1,4
+Kauno r. sav.,2011,1,1
+Kėdainių r. sav.,2011,1,1
+Prienų r. sav.,2011,1,1
+Raseinių r. sav.,2011,1,0
+Kauno apskritis,2011,1,9
+Klaipėdos m. sav.,2011,1,0
+Klaipėdos r. sav.,2011,1,1
+Kretingos r. sav.,2011,1,0
+Neringos sav.,2011,1,0
+Palangos m. sav.,2011,1,0
+Šilutės r. sav.,2011,1,0
+Skuodo r. sav.,2011,1,0
+Klaipėdos apskritis,2011,1,1
+Marijampolės r. sav.,2011,1,0
+Šakių r. sav.,2011,1,0
+Vilkaviškio r. sav.,2011,1,0
+Marijampolės apskritis,2011,1,0
+Biržų r. sav.,2011,1,0
+Kupiškio r. sav.,2011,1,1
+Panevėžio r. sav.,2011,1,3
+Panevėžio m. sav.,2011,1,9
+Pasvalio r. sav.,2011,1,0
+Rokiškio r. sav.,2011,1,0
+Panevėžio apskritis,2011,1,13
+Akmenės r. sav.,2011,1,0
+Joniškio r. sav.,2011,1,0
+Kelmės r. sav.,2011,1,1
+Radviliškio r. sav.,2011,1,0
+Šiaulių m. sav.,2011,1,1
+Šiaulių r. sav.,2011,1,0
+Šiaulių apskritis,2011,1,2
+Jurbarko r. sav.,2011,1,0
+Šilalės r. sav.,2011,1,0
+Tauragės r. sav.,2011,1,3
+Tauragės apskritis,2011,1,3
+Mažeikių r. sav.,2011,1,1
+Plungės r. sav.,2011,1,2
+Telšių r. sav.,2011,1,1
+Telšių apskritis,2011,1,4
+Anykščių r. sav.,2011,1,1
+Ignalinos r. sav.,2011,1,0
+Molėtų r. sav.,2011,1,1
+Utenos r. sav.,2011,1,1
+Visagino sav.,2011,1,0
+Zarasų r. sav.,2011,1,1
+Utenos apskritis,2011,1,4
+Šalčininkų r. sav.,2011,1,1
+Širvintų r. sav.,2011,1,1
+Švenčionių r. sav.,2011,1,1
+Trakų r. sav.,2011,1,1
+Ukmergės r. sav.,2011,1,1
+Vilniaus r. sav.,2011,1,1
+Vilniaus m. sav.,2011,1,20
+Vilniaus apskritis,2011,1,26
+Alytaus r. sav.,2011,2,1
+Alytaus m. sav.,2011,2,1
+Druskininkų sav.,2011,2,0
+Lazdyjų r.,2011,2,0
+Varėnos r. sav.,2011,2,0
+Alytaus apskritis,2011,2,2
+Birštono sav.,2011,2,0
+Jonavos r. sav.,2011,2,0
+Kaišiadorių r. sav.,2011,2,0
+Kauno m. sav.,2011,2,3
+Kauno r. sav.,2011,2,1
+Kėdainių r. sav.,2011,2,0
+Prienų r. sav.,2011,2,1
+Raseinių r. sav.,2011,2,0
+Kauno apskritis,2011,2,5
+Klaipėdos m. sav.,2011,2,1
+Klaipėdos r. sav.,2011,2,1
+Kretingos r. sav.,2011,2,0
+Neringos sav.,2011,2,0
+Palangos m. sav.,2011,2,0
+Šilutės r. sav.,2011,2,3
+Skuodo r. sav.,2011,2,0
+Klaipėdos apskritis,2011,2,5
+Marijampolės r. sav.,2011,2,1
+Šakių r. sav.,2011,2,0
+Vilkaviškio r. sav.,2011,2,0
+Marijampolės apskritis,2011,2,1
+Biržų r. sav.,2011,2,1
+Kupiškio r. sav.,2011,2,0
+Panevėžio r. sav.,2011,2,0
+Panevėžio m. sav.,2011,2,3
+Pasvalio r. sav.,2011,2,0
+Rokiškio r. sav.,2011,2,1
+Panevėžio apskritis,2011,2,5
+Akmenės r. sav.,2011,2,1
+Joniškio r. sav.,2011,2,0
+Kelmės r. sav.,2011,2,0
+Radviliškio r. sav.,2011,2,0
+Šiaulių m. sav.,2011,2,1
+Šiaulių r. sav.,2011,2,0
+Šiaulių apskritis,2011,2,2
+Jurbarko r. sav.,2011,2,0
+Šilalės r. sav.,2011,2,0
+Tauragės r. sav.,2011,2,0
+Tauragės apskritis,2011,2,0
+Mažeikių r. sav.,2011,2,0
+Plungės r. sav.,2011,2,0
+Telšių r. sav.,2011,2,2
+Telšių apskritis,2011,2,2
+Anykščių r. sav.,2011,2,1
+Ignalinos r. sav.,2011,2,0
+Molėtų r. sav.,2011,2,1
+Utenos r. sav.,2011,2,2
+Visagino sav.,2011,2,0
+Zarasų r. sav.,2011,2,1
+Utenos apskritis,2011,2,5
+Šalčininkų r. sav.,2011,2,0
+Širvintų r. sav.,2011,2,1
+Švenčionių r. sav.,2011,2,1
+Trakų r. sav.,2011,2,2
+Ukmergės r. sav.,2011,2,0
+Vilniaus r. sav.,2011,2,0
+Vilniaus m. sav.,2011,2,13
+Vilniaus apskritis,2011,2,17
+Alytaus r. sav.,2011,3,0
+Alytaus m. sav.,2011,3,0
+Druskininkų sav.,2011,3,0
+Lazdyjų r.,2011,3,0
+Varėnos r. sav.,2011,3,1
+Alytaus apskritis,2011,3,1
+Birštono sav.,2011,3,0
+Jonavos r. sav.,2011,3,1
+Kaišiadorių r. sav.,2011,3,0
+Kauno m. sav.,2011,3,3
+Kauno r. sav.,2011,3,0
+Kėdainių r. sav.,2011,3,0
+Prienų r. sav.,2011,3,1
+Raseinių r. sav.,2011,3,0
+Kauno apskritis,2011,3,5
+Klaipėdos m. sav.,2011,3,1
+Klaipėdos r. sav.,2011,3,0
+Kretingos r. sav.,2011,3,0
+Neringos sav.,2011,3,0
+Palangos m. sav.,2011,3,0
+Šilutės r. sav.,2011,3,0
+Skuodo r. sav.,2011,3,0
+Klaipėdos apskritis,2011,3,1
+Marijampolės r. sav.,2011,3,0
+Šakių r. sav.,2011,3,0
+Vilkaviškio r. sav.,2011,3,0
+Marijampolės apskritis,2011,3,0
+Biržų r. sav.,2011,3,1
+Kupiškio r. sav.,2011,3,0
+Panevėžio r. sav.,2011,3,2
+Panevėžio m. sav.,2011,3,1
+Pasvalio r. sav.,2011,3,0
+Rokiškio r. sav.,2011,3,0
+Panevėžio apskritis,2011,3,4
+Akmenės r. sav.,2011,3,0
+Joniškio r. sav.,2011,3,0
+Kelmės r. sav.,2011,3,1
+Radviliškio r. sav.,2011,3,1
+Šiaulių m. sav.,2011,3,1
+Šiaulių r. sav.,2011,3,0
+Šiaulių apskritis,2011,3,3
+Jurbarko r. sav.,2011,3,0
+Šilalės r. sav.,2011,3,0
+Tauragės r. sav.,2011,3,2
+Tauragės apskritis,2011,3,2
+Mažeikių r. sav.,2011,3,0
+Plungės r. sav.,2011,3,0
+Telšių r. sav.,2011,3,1
+Telšių apskritis,2011,3,1
+Anykščių r. sav.,2011,3,0
+Ignalinos r. sav.,2011,3,0
+Molėtų r. sav.,2011,3,1
+Utenos r. sav.,2011,3,2
+Visagino sav.,2011,3,0
+Zarasų r. sav.,2011,3,0
+Utenos apskritis,2011,3,3
+Šalčininkų r. sav.,2011,3,0
+Širvintų r. sav.,2011,3,0
+Švenčionių r. sav.,2011,3,0
+Trakų r. sav.,2011,3,0
+Ukmergės r. sav.,2011,3,0
+Vilniaus r. sav.,2011,3,1
+Vilniaus m. sav.,2011,3,17
+Vilniaus apskritis,2011,3,18
+Alytaus r. sav.,2011,4,0
+Alytaus m. sav.,2011,4,0
+Druskininkų sav.,2011,4,0
+Lazdyjų r.,2011,4,0
+Varėnos r. sav.,2011,4,0
+Alytaus apskritis,2011,4,0
+Birštono sav.,2011,4,0
+Jonavos r. sav.,2011,4,0
+Kaišiadorių r. sav.,2011,4,0
+Kauno m. sav.,2011,4,5
+Kauno r. sav.,2011,4,0
+Kėdainių r. sav.,2011,4,0
+Prienų r. sav.,2011,4,0
+Raseinių r. sav.,2011,4,0
+Kauno apskritis,2011,4,5
+Klaipėdos m. sav.,2011,4,0
+Klaipėdos r. sav.,2011,4,0
+Kretingos r. sav.,2011,4,1
+Neringos sav.,2011,4,0
+Palangos m. sav.,2011,4,0
+Šilutės r. sav.,2011,4,0
+Skuodo r. sav.,2011,4,0
+Klaipėdos apskritis,2011,4,1
+Marijampolės r. sav.,2011,4,3
+Šakių r. sav.,2011,4,0
+Vilkaviškio r. sav.,2011,4,0
+Marijampolės apskritis,2011,4,3
+Biržų r. sav.,2011,4,1
+Kupiškio r. sav.,2011,4,0
+Panevėžio r. sav.,2011,4,0
+Panevėžio m. sav.,2011,4,0
+Pasvalio r. sav.,2011,4,0
+Rokiškio r. sav.,2011,4,0
+Panevėžio apskritis,2011,4,1
+Akmenės r. sav.,2011,4,0
+Joniškio r. sav.,2011,4,0
+Kelmės r. sav.,2011,4,1
+Radviliškio r. sav.,2011,4,0
+Šiaulių m. sav.,2011,4,0
+Šiaulių r. sav.,2011,4,0
+Šiaulių apskritis,2011,4,1
+Jurbarko r. sav.,2011,4,0
+Šilalės r. sav.,2011,4,0
+Tauragės r. sav.,2011,4,2
+Tauragės apskritis,2011,4,2
+Mažeikių r. sav.,2011,4,0
+Plungės r. sav.,2011,4,0
+Telšių r. sav.,2011,4,1
+Telšių apskritis,2011,4,1
+Anykščių r. sav.,2011,4,1
+Ignalinos r. sav.,2011,4,0
+Molėtų r. sav.,2011,4,0
+Utenos r. sav.,2011,4,0
+Visagino sav.,2011,4,0
+Zarasų r. sav.,2011,4,1
+Utenos apskritis,2011,4,2
+Šalčininkų r. sav.,2011,4,0
+Širvintų r. sav.,2011,4,0
+Švenčionių r. sav.,2011,4,0
+Trakų r. sav.,2011,4,0
+Ukmergės r. sav.,2011,4,1
+Vilniaus r. sav.,2011,4,0
+Vilniaus m. sav.,2011,4,12
+Vilniaus apskritis,2011,4,13
+Alytaus r. sav.,2011,5,1
+Alytaus m. sav.,2011,5,1
+Druskininkų sav.,2011,5,0
+Lazdyjų r.,2011,5,0
+Varėnos r. sav.,2011,5,1
+Alytaus apskritis,2011,5,3
+Birštono sav.,2011,5,0
+Jonavos r. sav.,2011,5,2
+Kaišiadorių r. sav.,2011,5,2
+Kauno m. sav.,2011,5,16
+Kauno r. sav.,2011,5,0
+Kėdainių r. sav.,2011,5,0
+Prienų r. sav.,2011,5,0
+Raseinių r. sav.,2011,5,0
+Kauno apskritis,2011,5,20
+Klaipėdos m. sav.,2011,5,0
+Klaipėdos r. sav.,2011,5,1
+Kretingos r. sav.,2011,5,1
+Neringos sav.,2011,5,0
+Palangos m. sav.,2011,5,0
+Šilutės r. sav.,2011,5,0
+Skuodo r. sav.,2011,5,0
+Klaipėdos apskritis,2011,5,2
+Marijampolės r. sav.,2011,5,3
+Šakių r. sav.,2011,5,0
+Vilkaviškio r. sav.,2011,5,0
+Marijampolės apskritis,2011,5,3
+Biržų r. sav.,2011,5,0
+Kupiškio r. sav.,2011,5,0
+Panevėžio r. sav.,2011,5,2
+Panevėžio m. sav.,2011,5,4
+Pasvalio r. sav.,2011,5,0
+Rokiškio r. sav.,2011,5,1
+Panevėžio apskritis,2011,5,7
+Akmenės r. sav.,2011,5,0
+Joniškio r. sav.,2011,5,0
+Kelmės r. sav.,2011,5,1
+Radviliškio r. sav.,2011,5,0
+Šiaulių m. sav.,2011,5,1
+Šiaulių r. sav.,2011,5,0
+Šiaulių apskritis,2011,5,2
+Jurbarko r. sav.,2011,5,0
+Šilalės r. sav.,2011,5,2
+Tauragės r. sav.,2011,5,1
+Tauragės apskritis,2011,5,3
+Mažeikių r. sav.,2011,5,0
+Plungės r. sav.,2011,5,0
+Telšių r. sav.,2011,5,3
+Telšių apskritis,2011,5,3
+Anykščių r. sav.,2011,5,2
+Ignalinos r. sav.,2011,5,0
+Molėtų r. sav.,2011,5,1
+Utenos r. sav.,2011,5,2
+Visagino sav.,2011,5,0
+Zarasų r. sav.,2011,5,1
+Utenos apskritis,2011,5,6
+Šalčininkų r. sav.,2011,5,1
+Širvintų r. sav.,2011,5,0
+Švenčionių r. sav.,2011,5,1
+Trakų r. sav.,2011,5,2
+Ukmergės r. sav.,2011,5,3
+Vilniaus r. sav.,2011,5,4
+Vilniaus m. sav.,2011,5,26
+Vilniaus apskritis,2011,5,37
+Alytaus r. sav.,2011,6,0
+Alytaus m. sav.,2011,6,0
+Druskininkų sav.,2011,6,0
+Lazdyjų r.,2011,6,1
+Varėnos r. sav.,2011,6,0
+Alytaus apskritis,2011,6,1
+Birštono sav.,2011,6,0
+Jonavos r. sav.,2011,6,6
+Kaišiadorių r. sav.,2011,6,5
+Kauno m. sav.,2011,6,28
+Kauno r. sav.,2011,6,6
+Kėdainių r. sav.,2011,6,2
+Prienų r. sav.,2011,6,0
+Raseinių r. sav.,2011,6,2
+Kauno apskritis,2011,6,49
+Klaipėdos m. sav.,2011,6,4
+Klaipėdos r. sav.,2011,6,0
+Kretingos r. sav.,2011,6,2
+Neringos sav.,2011,6,0
+Palangos m. sav.,2011,6,3
+Šilutės r. sav.,2011,6,0
+Skuodo r. sav.,2011,6,1
+Klaipėdos apskritis,2011,6,10
+Marijampolės r. sav.,2011,6,0
+Šakių r. sav.,2011,6,1
+Vilkaviškio r. sav.,2011,6,2
+Marijampolės apskritis,2011,6,3
+Biržų r. sav.,2011,6,1
+Kupiškio r. sav.,2011,6,5
+Panevėžio r. sav.,2011,6,0
+Panevėžio m. sav.,2011,6,2
+Pasvalio r. sav.,2011,6,0
+Rokiškio r. sav.,2011,6,5
+Panevėžio apskritis,2011,6,13
+Akmenės r. sav.,2011,6,0
+Joniškio r. sav.,2011,6,1
+Kelmės r. sav.,2011,6,4
+Radviliškio r. sav.,2011,6,4
+Šiaulių m. sav.,2011,6,2
+Šiaulių r. sav.,2011,6,1
+Šiaulių apskritis,2011,6,14
+Jurbarko r. sav.,2011,6,1
+Šilalės r. sav.,2011,6,3
+Tauragės r. sav.,2011,6,11
+Tauragės apskritis,2011,6,15
+Mažeikių r. sav.,2011,6,1
+Plungės r. sav.,2011,6,0
+Telšių r. sav.,2011,6,9
+Telšių apskritis,2011,6,10
+Anykščių r. sav.,2011,6,1
+Ignalinos r. sav.,2011,6,0
+Molėtų r. sav.,2011,6,0
+Utenos r. sav.,2011,6,1
+Visagino sav.,2011,6,0
+Zarasų r. sav.,2011,6,3
+Utenos apskritis,2011,6,5
+Šalčininkų r. sav.,2011,6,0
+Širvintų r. sav.,2011,6,1
+Švenčionių r. sav.,2011,6,0
+Trakų r. sav.,2011,6,4
+Ukmergės r. sav.,2011,6,4
+Vilniaus r. sav.,2011,6,7
+Vilniaus m. sav.,2011,6,40
+Vilniaus apskritis,2011,6,56
+Alytaus r. sav.,2011,7,0
+Alytaus m. sav.,2011,7,2
+Druskininkų sav.,2011,7,4
+Lazdyjų r.,2011,7,1
+Varėnos r. sav.,2011,7,0
+Alytaus apskritis,2011,7,7
+Birštono sav.,2011,7,0
+Jonavos r. sav.,2011,7,5
+Kaišiadorių r. sav.,2011,7,6
+Kauno m. sav.,2011,7,65
+Kauno r. sav.,2011,7,14
+Kėdainių r. sav.,2011,7,6
+Prienų r. sav.,2011,7,3
+Raseinių r. sav.,2011,7,1
+Kauno apskritis,2011,7,100
+Klaipėdos m. sav.,2011,7,10
+Klaipėdos r. sav.,2011,7,5
+Kretingos r. sav.,2011,7,12
+Neringos sav.,2011,7,0
+Palangos m. sav.,2011,7,1
+Šilutės r. sav.,2011,7,2
+Skuodo r. sav.,2011,7,1
+Klaipėdos apskritis,2011,7,31
+Marijampolės r. sav.,2011,7,4
+Šakių r. sav.,2011,7,2
+Vilkaviškio r. sav.,2011,7,0
+Marijampolės apskritis,2011,7,6
+Biržų r. sav.,2011,7,3
+Kupiškio r. sav.,2011,7,6
+Panevėžio r. sav.,2011,7,9
+Panevėžio m. sav.,2011,7,21
+Pasvalio r. sav.,2011,7,0
+Rokiškio r. sav.,2011,7,10
+Panevėžio apskritis,2011,7,49
+Akmenės r. sav.,2011,7,1
+Joniškio r. sav.,2011,7,3
+Kelmės r. sav.,2011,7,3
+Radviliškio r. sav.,2011,7,3
+Šiaulių m. sav.,2011,7,8
+Šiaulių r. sav.,2011,7,0
+Šiaulių apskritis,2011,7,20
+Jurbarko r. sav.,2011,7,0
+Šilalės r. sav.,2011,7,1
+Tauragės r. sav.,2011,7,3
+Tauragės apskritis,2011,7,4
+Mažeikių r. sav.,2011,7,1
+Plungės r. sav.,2011,7,4
+Telšių r. sav.,2011,7,8
+Telšių apskritis,2011,7,13
+Anykščių r. sav.,2011,7,5
+Ignalinos r. sav.,2011,7,2
+Molėtų r. sav.,2011,7,1
+Utenos r. sav.,2011,7,0
+Visagino sav.,2011,7,0
+Zarasų r. sav.,2011,7,4
+Utenos apskritis,2011,7,12
+Šalčininkų r. sav.,2011,7,0
+Širvintų r. sav.,2011,7,1
+Švenčionių r. sav.,2011,7,3
+Trakų r. sav.,2011,7,6
+Ukmergės r. sav.,2011,7,5
+Vilniaus r. sav.,2011,7,14
+Vilniaus m. sav.,2011,7,84
+Vilniaus apskritis,2011,7,113
+Alytaus r. sav.,2011,8,3
+Alytaus m. sav.,2011,8,9
+Druskininkų sav.,2011,8,3
+Lazdyjų r.,2011,8,3
+Varėnos r. sav.,2011,8,4
+Alytaus apskritis,2011,8,22
+Birštono sav.,2011,8,1
+Jonavos r. sav.,2011,8,7
+Kaišiadorių r. sav.,2011,8,6
+Kauno m. sav.,2011,8,68
+Kauno r. sav.,2011,8,14
+Kėdainių r. sav.,2011,8,5
+Prienų r. sav.,2011,8,0
+Raseinių r. sav.,2011,8,3
+Kauno apskritis,2011,8,104
+Klaipėdos m. sav.,2011,8,4
+Klaipėdos r. sav.,2011,8,3
+Kretingos r. sav.,2011,8,6
+Neringos sav.,2011,8,0
+Palangos m. sav.,2011,8,2
+Šilutės r. sav.,2011,8,4
+Skuodo r. sav.,2011,8,1
+Klaipėdos apskritis,2011,8,20
+Marijampolės r. sav.,2011,8,6
+Šakių r. sav.,2011,8,1
+Vilkaviškio r. sav.,2011,8,1
+Marijampolės apskritis,2011,8,8
+Biržų r. sav.,2011,8,0
+Kupiškio r. sav.,2011,8,3
+Panevėžio r. sav.,2011,8,5
+Panevėžio m. sav.,2011,8,24
+Pasvalio r. sav.,2011,8,0
+Rokiškio r. sav.,2011,8,3
+Panevėžio apskritis,2011,8,35
+Akmenės r. sav.,2011,8,1
+Joniškio r. sav.,2011,8,0
+Kelmės r. sav.,2011,8,3
+Radviliškio r. sav.,2011,8,2
+Šiaulių m. sav.,2011,8,15
+Šiaulių r. sav.,2011,8,3
+Šiaulių apskritis,2011,8,27
+Jurbarko r. sav.,2011,8,1
+Šilalės r. sav.,2011,8,1
+Tauragės r. sav.,2011,8,5
+Tauragės apskritis,2011,8,7
+Mažeikių r. sav.,2011,8,3
+Plungės r. sav.,2011,8,10
+Telšių r. sav.,2011,8,15
+Telšių apskritis,2011,8,28
+Anykščių r. sav.,2011,8,7
+Ignalinos r. sav.,2011,8,2
+Molėtų r. sav.,2011,8,1
+Utenos r. sav.,2011,8,2
+Visagino sav.,2011,8,1
+Zarasų r. sav.,2011,8,1
+Utenos apskritis,2011,8,14
+Šalčininkų r. sav.,2011,8,3
+Širvintų r. sav.,2011,8,1
+Švenčionių r. sav.,2011,8,4
+Trakų r. sav.,2011,8,14
+Ukmergės r. sav.,2011,8,3
+Vilniaus r. sav.,2011,8,11
+Vilniaus m. sav.,2011,8,155
+Vilniaus apskritis,2011,8,191
+Alytaus r. sav.,2011,9,1
+Alytaus m. sav.,2011,9,2
+Druskininkų sav.,2011,9,1
+Lazdyjų r.,2011,9,1
+Varėnos r. sav.,2011,9,3
+Alytaus apskritis,2011,9,8
+Birštono sav.,2011,9,0
+Jonavos r. sav.,2011,9,13
+Kaišiadorių r. sav.,2011,9,4
+Kauno m. sav.,2011,9,56
+Kauno r. sav.,2011,9,12
+Kėdainių r. sav.,2011,9,5
+Prienų r. sav.,2011,9,3
+Raseinių r. sav.,2011,9,1
+Kauno apskritis,2011,9,94
+Klaipėdos m. sav.,2011,9,8
+Klaipėdos r. sav.,2011,9,6
+Kretingos r. sav.,2011,9,9
+Neringos sav.,2011,9,0
+Palangos m. sav.,2011,9,1
+Šilutės r. sav.,2011,9,4
+Skuodo r. sav.,2011,9,3
+Klaipėdos apskritis,2011,9,31
+Marijampolės r. sav.,2011,9,8
+Šakių r. sav.,2011,9,2
+Vilkaviškio r. sav.,2011,9,3
+Marijampolės apskritis,2011,9,13
+Biržų r. sav.,2011,9,1
+Kupiškio r. sav.,2011,9,7
+Panevėžio r. sav.,2011,9,3
+Panevėžio m. sav.,2011,9,11
+Pasvalio r. sav.,2011,9,0
+Rokiškio r. sav.,2011,9,13
+Panevėžio apskritis,2011,9,35
+Akmenės r. sav.,2011,9,2
+Joniškio r. sav.,2011,9,2
+Kelmės r. sav.,2011,9,8
+Radviliškio r. sav.,2011,9,2
+Šiaulių m. sav.,2011,9,28
+Šiaulių r. sav.,2011,9,7
+Šiaulių apskritis,2011,9,53
+Jurbarko r. sav.,2011,9,1
+Šilalės r. sav.,2011,9,2
+Tauragės r. sav.,2011,9,19
+Tauragės apskritis,2011,9,22
+Mažeikių r. sav.,2011,9,6
+Plungės r. sav.,2011,9,10
+Telšių r. sav.,2011,9,12
+Telšių apskritis,2011,9,28
+Anykščių r. sav.,2011,9,6
+Ignalinos r. sav.,2011,9,7
+Molėtų r. sav.,2011,9,1
+Utenos r. sav.,2011,9,4
+Visagino sav.,2011,9,0
+Zarasų r. sav.,2011,9,0
+Utenos apskritis,2011,9,18
+Šalčininkų r. sav.,2011,9,1
+Širvintų r. sav.,2011,9,0
+Švenčionių r. sav.,2011,9,4
+Trakų r. sav.,2011,9,12
+Ukmergės r. sav.,2011,9,8
+Vilniaus r. sav.,2011,9,18
+Vilniaus m. sav.,2011,9,124
+Vilniaus apskritis,2011,9,167
+Alytaus r. sav.,2011,10,0
+Alytaus m. sav.,2011,10,1
+Druskininkų sav.,2011,10,1
+Lazdyjų r.,2011,10,0
+Varėnos r. sav.,2011,10,3
+Alytaus apskritis,2011,10,5
+Birštono sav.,2011,10,0
+Jonavos r. sav.,2011,10,4
+Kaišiadorių r. sav.,2011,10,3
+Kauno m. sav.,2011,10,50
+Kauno r. sav.,2011,10,7
+Kėdainių r. sav.,2011,10,3
+Prienų r. sav.,2011,10,2
+Raseinių r. sav.,2011,10,3
+Kauno apskritis,2011,10,72
+Klaipėdos m. sav.,2011,10,17
+Klaipėdos r. sav.,2011,10,7
+Kretingos r. sav.,2011,10,2
+Neringos sav.,2011,10,0
+Palangos m. sav.,2011,10,4
+Šilutės r. sav.,2011,10,4
+Skuodo r. sav.,2011,10,3
+Klaipėdos apskritis,2011,10,37
+Marijampolės r. sav.,2011,10,8
+Šakių r. sav.,2011,10,1
+Vilkaviškio r. sav.,2011,10,1
+Marijampolės apskritis,2011,10,10
+Biržų r. sav.,2011,10,3
+Kupiškio r. sav.,2011,10,6
+Panevėžio r. sav.,2011,10,4
+Panevėžio m. sav.,2011,10,8
+Pasvalio r. sav.,2011,10,1
+Rokiškio r. sav.,2011,10,3
+Panevėžio apskritis,2011,10,25
+Akmenės r. sav.,2011,10,4
+Joniškio r. sav.,2011,10,0
+Kelmės r. sav.,2011,10,7
+Radviliškio r. sav.,2011,10,4
+Šiaulių m. sav.,2011,10,15
+Šiaulių r. sav.,2011,10,6
+Šiaulių apskritis,2011,10,40
+Jurbarko r. sav.,2011,10,0
+Šilalės r. sav.,2011,10,3
+Tauragės r. sav.,2011,10,9
+Tauragės apskritis,2011,10,12
+Mažeikių r. sav.,2011,10,7
+Plungės r. sav.,2011,10,10
+Telšių r. sav.,2011,10,14
+Telšių apskritis,2011,10,31
+Anykščių r. sav.,2011,10,4
+Ignalinos r. sav.,2011,10,4
+Molėtų r. sav.,2011,10,1
+Utenos r. sav.,2011,10,3
+Visagino sav.,2011,10,0
+Zarasų r. sav.,2011,10,3
+Utenos apskritis,2011,10,15
+Šalčininkų r. sav.,2011,10,0
+Širvintų r. sav.,2011,10,0
+Švenčionių r. sav.,2011,10,4
+Trakų r. sav.,2011,10,8
+Ukmergės r. sav.,2011,10,2
+Vilniaus r. sav.,2011,10,9
+Vilniaus m. sav.,2011,10,109
+Vilniaus apskritis,2011,10,132
+Alytaus r. sav.,2011,11,0
+Alytaus m. sav.,2011,11,0
+Druskininkų sav.,2011,11,3
+Lazdyjų r.,2011,11,0
+Varėnos r. sav.,2011,11,3
+Alytaus apskritis,2011,11,6
+Birštono sav.,2011,11,0
+Jonavos r. sav.,2011,11,5
+Kaišiadorių r. sav.,2011,11,1
+Kauno m. sav.,2011,11,37
+Kauno r. sav.,2011,11,3
+Kėdainių r. sav.,2011,11,1
+Prienų r. sav.,2011,11,2
+Raseinių r. sav.,2011,11,2
+Kauno apskritis,2011,11,51
+Klaipėdos m. sav.,2011,11,5
+Klaipėdos r. sav.,2011,11,3
+Kretingos r. sav.,2011,11,4
+Neringos sav.,2011,11,0
+Palangos m. sav.,2011,11,3
+Šilutės r. sav.,2011,11,0
+Skuodo r. sav.,2011,11,1
+Klaipėdos apskritis,2011,11,16
+Marijampolės r. sav.,2011,11,6
+Šakių r. sav.,2011,11,0
+Vilkaviškio r. sav.,2011,11,1
+Marijampolės apskritis,2011,11,7
+Biržų r. sav.,2011,11,2
+Kupiškio r. sav.,2011,11,7
+Panevėžio r. sav.,2011,11,3
+Panevėžio m. sav.,2011,11,11
+Pasvalio r. sav.,2011,11,0
+Rokiškio r. sav.,2011,11,5
+Panevėžio apskritis,2011,11,28
+Akmenės r. sav.,2011,11,2
+Joniškio r. sav.,2011,11,0
+Kelmės r. sav.,2011,11,1
+Radviliškio r. sav.,2011,11,3
+Šiaulių m. sav.,2011,11,2
+Šiaulių r. sav.,2011,11,0
+Šiaulių apskritis,2011,11,9
+Jurbarko r. sav.,2011,11,0
+Šilalės r. sav.,2011,11,0
+Tauragės r. sav.,2011,11,7
+Tauragės apskritis,2011,11,7
+Mažeikių r. sav.,2011,11,2
+Plungės r. sav.,2011,11,0
+Telšių r. sav.,2011,11,3
+Telšių apskritis,2011,11,5
+Anykščių r. sav.,2011,11,5
+Ignalinos r. sav.,2011,11,2
+Molėtų r. sav.,2011,11,1
+Utenos r. sav.,2011,11,3
+Visagino sav.,2011,11,1
+Zarasų r. sav.,2011,11,2
+Utenos apskritis,2011,11,14
+Šalčininkų r. sav.,2011,11,0
+Širvintų r. sav.,2011,11,0
+Švenčionių r. sav.,2011,11,3
+Trakų r. sav.,2011,11,3
+Ukmergės r. sav.,2011,11,2
+Vilniaus r. sav.,2011,11,10
+Vilniaus m. sav.,2011,11,57
+Vilniaus apskritis,2011,11,75
+Alytaus r. sav.,2011,12,0
+Alytaus m. sav.,2011,12,0
+Druskininkų sav.,2011,12,0
+Lazdyjų r.,2011,12,0
+Varėnos r. sav.,2011,12,1
+Alytaus apskritis,2011,12,1
+Birštono sav.,2011,12,0
+Jonavos r. sav.,2011,12,0
+Kaišiadorių r. sav.,2011,12,2
+Kauno m. sav.,2011,12,18
+Kauno r. sav.,2011,12,2
+Kėdainių r. sav.,2011,12,0
+Prienų r. sav.,2011,12,0
+Raseinių r. sav.,2011,12,1
+Kauno apskritis,2011,12,23
+Klaipėdos m. sav.,2011,12,2
+Klaipėdos r. sav.,2011,12,0
+Kretingos r. sav.,2011,12,1
+Neringos sav.,2011,12,0
+Palangos m. sav.,2011,12,0
+Šilutės r. sav.,2011,12,1
+Skuodo r. sav.,2011,12,1
+Klaipėdos apskritis,2011,12,5
+Marijampolės r. sav.,2011,12,0
+Šakių r. sav.,2011,12,0
+Vilkaviškio r. sav.,2011,12,1
+Marijampolės apskritis,2011,12,1
+Biržų r. sav.,2011,12,0
+Kupiškio r. sav.,2011,12,2
+Panevėžio r. sav.,2011,12,3
+Panevėžio m. sav.,2011,12,6
+Pasvalio r. sav.,2011,12,0
+Rokiškio r. sav.,2011,12,2
+Panevėžio apskritis,2011,12,13
+Akmenės r. sav.,2011,12,0
+Joniškio r. sav.,2011,12,0
+Kelmės r. sav.,2011,12,0
+Radviliškio r. sav.,2011,12,1
+Šiaulių m. sav.,2011,12,7
+Šiaulių r. sav.,2011,12,2
+Šiaulių apskritis,2011,12,11
+Jurbarko r. sav.,2011,12,0
+Šilalės r. sav.,2011,12,2
+Tauragės r. sav.,2011,12,3
+Tauragės apskritis,2011,12,5
+Mažeikių r. sav.,2011,12,2
+Plungės r. sav.,2011,12,0
+Telšių r. sav.,2011,12,2
+Telšių apskritis,2011,12,4
+Anykščių r. sav.,2011,12,3
+Ignalinos r. sav.,2011,12,1
+Molėtų r. sav.,2011,12,0
+Utenos r. sav.,2011,12,7
+Visagino sav.,2011,12,0
+Zarasų r. sav.,2011,12,1
+Utenos apskritis,2011,12,12
+Šalčininkų r. sav.,2011,12,2
+Širvintų r. sav.,2011,12,1
+Švenčionių r. sav.,2011,12,0
+Trakų r. sav.,2011,12,0
+Ukmergės r. sav.,2011,12,3
+Vilniaus r. sav.,2011,12,2
+Vilniaus m. sav.,2011,12,34
+Vilniaus apskritis,2011,12,42

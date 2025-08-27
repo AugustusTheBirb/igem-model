@@ -1,0 +1,532 @@
+name,year,month,infections
+Alytaus r.,2018,1,0
+Alytus,2018,1,0
+Druskininkai,2018,1,0
+Lazdijų r.,2018,1,0
+Varėnos r.,2018,1,4
+Alytaus apskritis,2018,1,4
+Birštonas,2018,1,0
+Jonavos r.,2018,1,3
+Kaišiadorių r.,2018,1,0
+Kaunas,2018,1,3
+Kauno r.,2018,1,1
+Kėdainių r.,2018,1,1
+Prienų r.,2018,1,0
+Raseinių r.,2018,1,0
+Kauno apskritis,2018,1,8
+Klaipėda,2018,1,3
+Klaipėdos r.,2018,1,1
+Kretingos r.,2018,1,0
+Neringa,2018,1,0
+Palanga,2018,1,1
+Šilutės r.,2018,1,3
+Skuodo r.,2018,1,0
+Klaipėdos apskritis,2018,1,8
+Marijampolės r.,2018,1,0
+Šakių r.,2018,1,0
+Vilkaviškio r.,2018,1,1
+Marijampolės apskritis,2018,1,1
+Biržų r.,2018,1,0
+Kupiškio r.,2018,1,2
+Panevėžio r.,2018,1,1
+Panevėžys,2018,1,6
+Pasvalio r.,2018,1,0
+Rokiškio r.,2018,1,0
+Panevėžio apskritis,2018,1,9
+Akmenės r.,2018,1,0
+Joniškio r.,2018,1,0
+Kelmės r.,2018,1,1
+Radviliškio r.,2018,1,0
+Šiauliai,2018,1,0
+Šiaulių r.,2018,1,2
+Šiaulių apskritis,2018,1,3
+Jurbarko r.,2018,1,0
+Šilalės r.,2018,1,2
+Tauragės r.,2018,1,2
+Tauragės apskritis,2018,1,4
+Mažeikių r.,2018,1,1
+Plungės r.,2018,1,1
+Telšių r.,2018,1,1
+Telšių apskritis,2018,1,3
+Anykščių r.,2018,1,1
+Ignalinos r.,2018,1,1
+Molėtų r.,2018,1,1
+Utenos r.,2018,1,0
+Visaginas,2018,1,0
+Zarasų r.,2018,1,0
+Utenos apskritis,2018,1,3
+Šalčininkų r.,2018,1,0
+Širvintų r.,2018,1,0
+Švenčionių r.,2018,1,0
+Trakų r.,2018,1,3
+Ukmergės r.,2018,1,2
+Vilniaus r.,2018,1,1
+Vilnius,2018,1,27
+Vilniaus apskritis,2018,1,33
+Alytaus r.,2018,2,0
+Alytus,2018,2,0
+Druskininkai,2018,2,0
+Lazdijų r.,2018,2,0
+Varėnos r.,2018,2,0
+Alytaus apskritis,2018,2,0
+Birštonas,2018,2,0
+Jonavos r.,2018,2,0
+Kaišiadorių r.,2018,2,0
+Kaunas,2018,2,3
+Kauno r.,2018,2,2
+Kėdainių r.,2018,2,0
+Prienų r.,2018,2,1
+Raseinių r.,2018,2,0
+Kauno apskritis,2018,2,6
+Klaipėda,2018,2,1
+Klaipėdos r.,2018,2,0
+Kretingos r.,2018,2,0
+Neringa,2018,2,0
+Palanga,2018,2,1
+Šilutės r.,2018,2,1
+Skuodo r.,2018,2,0
+Klaipėdos apskritis,2018,2,3
+Marijampolės r.,2018,2,1
+Šakių r.,2018,2,0
+Vilkaviškio r.,2018,2,0
+Marijampolės apskritis,2018,2,1
+Biržų r.,2018,2,0
+Kupiškio r.,2018,2,0
+Panevėžio r.,2018,2,2
+Panevėžys,2018,2,6
+Pasvalio r.,2018,2,0
+Rokiškio r.,2018,2,1
+Panevėžio apskritis,2018,2,9
+Akmenės r.,2018,2,0
+Joniškio r.,2018,2,0
+Kelmės r.,2018,2,0
+Radviliškio r.,2018,2,0
+Šiauliai,2018,2,0
+Šiaulių r.,2018,2,0
+Šiaulių apskritis,2018,2,0
+Jurbarko r.,2018,2,0
+Šilalės r.,2018,2,5
+Tauragės r.,2018,2,1
+Tauragės apskritis,2018,2,6
+Mažeikių r.,2018,2,1
+Plungės r.,2018,2,1
+Telšių r.,2018,2,0
+Telšių apskritis,2018,2,2
+Anykščių r.,2018,2,1
+Ignalinos r.,2018,2,1
+Molėtų r.,2018,2,1
+Utenos r.,2018,2,0
+Visaginas,2018,2,1
+Zarasų r.,2018,2,0
+Utenos apskritis,2018,2,4
+Šalčininkų r.,2018,2,0
+Širvintų r.,2018,2,0
+Švenčionių r.,2018,2,1
+Trakų r.,2018,2,0
+Ukmergės r.,2018,2,1
+Vilniaus r.,2018,2,2
+Vilnius,2018,2,13
+Vilniaus apskritis,2018,2,17
+Alytaus r.,2018,3,0
+Alytus,2018,3,0
+Druskininkai,2018,3,0
+Lazdijų r.,2018,3,0
+Varėnos r.,2018,3,0
+Alytaus apskritis,2018,3,0
+Birštonas,2018,3,0
+Jonavos r.,2018,3,0
+Kaišiadorių r.,2018,3,0
+Kaunas,2018,3,0
+Kauno r.,2018,3,0
+Kėdainių r.,2018,3,0
+Prienų r.,2018,3,0
+Raseinių r.,2018,3,0
+Kauno apskritis,2018,3,0
+Klaipėda,2018,3,0
+Klaipėdos r.,2018,3,0
+Kretingos r.,2018,3,0
+Neringa,2018,3,0
+Palanga,2018,3,1
+Šilutės r.,2018,3,0
+Skuodo r.,2018,3,0
+Klaipėdos apskritis,2018,3,1
+Marijampolės r.,2018,3,1
+Šakių r.,2018,3,0
+Vilkaviškio r.,2018,3,1
+Marijampolės apskritis,2018,3,2
+Biržų r.,2018,3,0
+Kupiškio r.,2018,3,2
+Panevėžio r.,2018,3,1
+Panevėžys,2018,3,1
+Pasvalio r.,2018,3,0
+Rokiškio r.,2018,3,0
+Panevėžio apskritis,2018,3,4
+Akmenės r.,2018,3,0
+Joniškio r.,2018,3,0
+Kelmės r.,2018,3,0
+Radviliškio r.,2018,3,0
+Šiauliai,2018,3,0
+Šiaulių r.,2018,3,0
+Šiaulių apskritis,2018,3,1
+Jurbarko r.,2018,3,0
+Šilalės r.,2018,3,0
+Tauragės r.,2018,3,3
+Tauragės apskritis,2018,3,3
+Mažeikių r.,2018,3,0
+Plungės r.,2018,3,0
+Telšių r.,2018,3,0
+Telšių apskritis,2018,3,0
+Anykščių r.,2018,3,0
+Ignalinos r.,2018,3,0
+Molėtų r.,2018,3,1
+Utenos r.,2018,3,0
+Visaginas,2018,3,0
+Zarasų r.,2018,3,1
+Utenos apskritis,2018,3,2
+Šalčininkų r.,2018,3,0
+Širvintų r.,2018,3,0
+Švenčionių r.,2018,3,1
+Trakų r.,2018,3,0
+Ukmergės r.,2018,3,1
+Vilniaus r.,2018,3,0
+Vilnius,2018,3,8
+Vilniaus apskritis,2018,3,10
+Alytaus r.,2018,7,0
+Alytus,2018,7,2
+Druskininkai,2018,7,1
+Lazdijų r.,2018,7,2
+Varėnos r.,2018,7,5
+Alytaus apskritis,2018,7,10
+Birštonas,2018,7,1
+Jonavos r.,2018,7,6
+Kaišiadorių r.,2018,7,1
+Kaunas,2018,7,58
+Kauno r.,2018,7,11
+Kėdainių r.,2018,7,1
+Prienų r.,2018,7,6
+Raseinių r.,2018,7,1
+Kauno apskritis,2018,7,85
+Klaipėda,2018,7,5
+Klaipėdos r.,2018,7,2
+Kretingos r.,2018,7,7
+Neringa,2018,7,0
+Palanga,2018,7,1
+Šilutės r.,2018,7,0
+Skuodo r.,2018,7,2
+Klaipėdos apskritis,2018,7,17
+Marijampolės r.,2018,7,3
+Šakių r.,2018,7,3
+Vilkaviškio r.,2018,7,1
+Marijampolės apskritis,2018,7,7
+Biržų r.,2018,7,3
+Kupiškio r.,2018,7,4
+Panevėžio r.,2018,7,4
+Panevėžys,2018,7,10
+Pasvalio r.,2018,7,1
+Rokiškio r.,2018,7,6
+Panevėžio apskritis,2018,7,28
+Akmenės r.,2018,7,3
+Joniškio r.,2018,7,5
+Kelmės r.,2018,7,0
+Radviliškio r.,2018,7,2
+Šiauliai,2018,7,15
+Šiaulių r.,2018,7,3
+Šiaulių apskritis,2018,7,30
+Jurbarko r.,2018,7,0
+Šilalės r.,2018,7,6
+Tauragės r.,2018,7,8
+Tauragės apskritis,2018,7,14
+Mažeikių r.,2018,7,5
+Plungės r.,2018,7,5
+Telšių r.,2018,7,3
+Telšių apskritis,2018,7,13
+Anykščių r.,2018,7,2
+Ignalinos r.,2018,7,2
+Molėtų r.,2018,7,8
+Utenos r.,2018,7,2
+Visaginas,2018,7,0
+Zarasų r.,2018,7,3
+Utenos apskritis,2018,7,17
+Šalčininkų r.,2018,7,1
+Širvintų r.,2018,7,2
+Švenčionių r.,2018,7,7
+Trakų r.,2018,7,19
+Ukmergės r.,2018,7,9
+Vilniaus r.,2018,7,16
+Vilnius,2018,7,93
+Vilniaus apskritis,2018,7,147
+Alytaus r.,2018,8,0
+Alytus,2018,8,4
+Druskininkai,2018,8,3
+Lazdijų r.,2018,8,1
+Varėnos r.,2018,8,1
+Alytaus apskritis,2018,8,9
+Birštonas,2018,8,1
+Jonavos r.,2018,8,10
+Kaišiadorių r.,2018,8,2
+Kaunas,2018,8,61
+Kauno r.,2018,8,17
+Kėdainių r.,2018,8,5
+Prienų r.,2018,8,2
+Raseinių r.,2018,8,4
+Kauno apskritis,2018,8,102
+Klaipėda,2018,8,3
+Klaipėdos r.,2018,8,3
+Kretingos r.,2018,8,4
+Neringa,2018,8,0
+Palanga,2018,8,5
+Šilutės r.,2018,8,3
+Skuodo r.,2018,8,1
+Klaipėdos apskritis,2018,8,19
+Marijampolės r.,2018,8,3
+Šakių r.,2018,8,1
+Vilkaviškio r.,2018,8,0
+Marijampolės apskritis,2018,8,4
+Biržų r.,2018,8,2
+Kupiškio r.,2018,8,4
+Panevėžio r.,2018,8,11
+Panevėžys,2018,8,26
+Pasvalio r.,2018,8,0
+Rokiškio r.,2018,8,4
+Panevėžio apskritis,2018,8,47
+Akmenės r.,2018,8,1
+Joniškio r.,2018,8,3
+Kelmės r.,2018,8,2
+Radviliškio r.,2018,8,5
+Šiauliai,2018,8,20
+Šiaulių r.,2018,8,5
+Šiaulių apskritis,2018,8,37
+Jurbarko r.,2018,8,1
+Šilalės r.,2018,8,2
+Tauragės r.,2018,8,1
+Tauragės apskritis,2018,8,4
+Mažeikių r.,2018,8,3
+Plungės r.,2018,8,19
+Telšių r.,2018,8,1
+Telšių apskritis,2018,8,23
+Anykščių r.,2018,8,4
+Ignalinos r.,2018,8,1
+Molėtų r.,2018,8,3
+Utenos r.,2018,8,5
+Visaginas,2018,8,1
+Zarasų r.,2018,8,6
+Utenos apskritis,2018,8,20
+Šalčininkų r.,2018,8,1
+Širvintų r.,2018,8,2
+Švenčionių r.,2018,8,13
+Trakų r.,2018,8,14
+Ukmergės r.,2018,8,7
+Vilniaus r.,2018,8,5
+Vilnius,2018,8,114
+Vilniaus apskritis,2018,8,156
+Alytaus r.,2018,9,1
+Alytus,2018,9,0
+Druskininkai,2018,9,2
+Lazdijų r.,2018,9,2
+Varėnos r.,2018,9,6
+Alytaus apskritis,2018,9,11
+Birštonas,2018,9,2
+Jonavos r.,2018,9,10
+Kaišiadorių r.,2018,9,3
+Kaunas,2018,9,47
+Kauno r.,2018,9,18
+Kėdainių r.,2018,9,1
+Prienų r.,2018,9,4
+Raseinių r.,2018,9,2
+Kauno apskritis,2018,9,87
+Klaipėda,2018,9,6
+Klaipėdos r.,2018,9,1
+Kretingos r.,2018,9,5
+Neringa,2018,9,0
+Palanga,2018,9,3
+Šilutės r.,2018,9,1
+Skuodo r.,2018,9,0
+Klaipėdos apskritis,2018,9,16
+Marijampolės r.,2018,9,7
+Šakių r.,2018,9,2
+Vilkaviškio r.,2018,9,2
+Marijampolės apskritis,2018,9,11
+Biržų r.,2018,9,0
+Kupiškio r.,2018,9,1
+Panevėžio r.,2018,9,8
+Panevėžys,2018,9,18
+Pasvalio r.,2018,9,0
+Rokiškio r.,2018,9,5
+Panevėžio apskritis,2018,9,32
+Akmenės r.,2018,9,0
+Joniškio r.,2018,9,0
+Kelmės r.,2018,9,0
+Radviliškio r.,2018,9,8
+Šiauliai,2018,9,14
+Šiaulių r.,2018,9,3
+Šiaulių apskritis,2018,9,28
+Jurbarko r.,2018,9,2
+Šilalės r.,2018,9,4
+Tauragės r.,2018,9,9
+Tauragės apskritis,2018,9,15
+Mažeikių r.,2018,9,3
+Plungės r.,2018,9,7
+Telšių r.,2018,9,4
+Telšių apskritis,2018,9,14
+Anykščių r.,2018,9,1
+Ignalinos r.,2018,9,6
+Molėtų r.,2018,9,7
+Utenos r.,2018,9,1
+Visaginas,2018,9,0
+Zarasų r.,2018,9,2
+Utenos apskritis,2018,9,17
+Šalčininkų r.,2018,9,1
+Širvintų r.,2018,9,2
+Švenčionių r.,2018,9,7
+Trakų r.,2018,9,8
+Ukmergės r.,2018,9,5
+Vilniaus r.,2018,9,15
+Vilnius,2018,9,79
+Vilniaus apskritis,2018,9,117
+Alytaus r.,2018,10,0
+Alytus,2018,10,1
+Druskininkai,2018,10,0
+Lazdijų r.,2018,10,0
+Varėnos r.,2018,10,3
+Alytaus apskritis,2018,10,4
+Birštonas,2018,10,1
+Jonavos r.,2018,10,11
+Kaišiadorių r.,2018,10,5
+Kaunas,2018,10,34
+Kauno r.,2018,10,14
+Kėdainių r.,2018,10,2
+Prienų r.,2018,10,2
+Raseinių r.,2018,10,2
+Kauno apskritis,2018,10,71
+Klaipėda,2018,10,4
+Klaipėdos r.,2018,10,0
+Kretingos r.,2018,10,4
+Neringa,2018,10,0
+Palanga,2018,10,1
+Šilutės r.,2018,10,2
+Skuodo r.,2018,10,1
+Klaipėdos apskritis,2018,10,12
+Marijampolės r.,2018,10,5
+Šakių r.,2018,10,6
+Vilkaviškio r.,2018,10,3
+Marijampolės apskritis,2018,10,14
+Biržų r.,2018,10,1
+Kupiškio r.,2018,10,6
+Panevėžio r.,2018,10,7
+Panevėžys,2018,10,14
+Pasvalio r.,2018,10,0
+Rokiškio r.,2018,10,0
+Panevėžio apskritis,2018,10,28
+Akmenės r.,2018,10,1
+Joniškio r.,2018,10,1
+Kelmės r.,2018,10,1
+Radviliškio r.,2018,10,5
+Šiauliai,2018,10,11
+Šiaulių r.,2018,10,4
+Šiaulių apskritis,2018,10,27
+Jurbarko r.,2018,10,0
+Šilalės r.,2018,10,0
+Tauragės r.,2018,10,7
+Tauragės apskritis,2018,10,7
+Mažeikių r.,2018,10,5
+Plungės r.,2018,10,11
+Telšių r.,2018,10,3
+Telšių apskritis,2018,10,19
+Anykščių r.,2018,10,4
+Ignalinos r.,2018,10,5
+Molėtų r.,2018,10,1
+Utenos r.,2018,10,3
+Visaginas,2018,10,1
+Zarasų r.,2018,10,1
+Utenos apskritis,2018,10,15
+Šalčininkų r.,2018,10,3
+Širvintų r.,2018,10,0
+Švenčionių r.,2018,10,6
+Trakų r.,2018,10,9
+Ukmergės r.,2018,10,7
+Vilniaus r.,2018,10,11
+Vilnius,2018,10,94
+Vilniaus apskritis,2018,10,130
+Alytaus r.,2018,12,0
+Alytus,2018,12,0
+Druskininkai,2018,12,1
+"Lazdij r.
+)",2018,12,0
+Var nos r.,2018,12,1
+Alytaus apskritis,2018,12,2
+Bir tonas,2018,12,0
+Jonavos r.,2018,12,1
+"Kai iadori r.
+)",2018,12,0
+Kaunas,2018,12,5
+Kauno r.,2018,12,4
+"K daini r.
+)",2018,12,0
+"Prien r.
+)",2018,12,1
+"Raseini r.
+)",2018,12,2
+Kauno apskritis,2018,12,13
+Klaip da,2018,12,0
+Klaip dos r.,2018,12,0
+Kretingos r.,2018,12,2
+Neringa,2018,12,0
+Palanga,2018,12,1
+ilut s r.,2018,12,1
+Skuodo r.,2018,12,1
+Klaip dos apskritis,2018,12,5
+Marijampol s r.,2018,12,0
+"aki r.
+)",2018,12,0
+Vilkavi kio r.,2018,12,0
+Marijampol s apskritis,2018,12,0
+"Bir r.
+)",2018,12,0
+Kupi kio r.,2018,12,1
+Panev io r.,2018,12,0
+Panev ys,2018,12,5
+Pasvalio r.,2018,12,0
+Roki kio r.,2018,12,2
+Panev io apskritis,2018,12,8
+Akmen s r.,2018,12,1
+Joni kio r.,2018,12,0
+Kelm s r.,2018,12,0
+Radvili kio r.,2018,12,0
+iauliai,2018,12,1
+"iauli r.
+,",2018,12,0
+"iauli apskritis
++",2018,12,2
+Jurbarko r.,2018,12,0
+ilal s r.,2018,12,0
+Taurag s r.,2018,12,4
+Taurag s apskritis,2018,12,4
+"Ma eiki r.
+,",2018,12,1
+Plung s r.,2018,12,1
+"Tel i r.
+,",2018,12,2
+"Tel i apskritis
++",2018,12,4
+"Anyk i r.
+,",2018,12,2
+Ignalinos r.,2018,12,0
+"Mol t r.
+,",2018,12,0
+Utenos r.,2018,12,2
+Visaginas,2018,12,0
+"Zaras r.
+,",2018,12,0
+Utenos apskritis,2018,12,4
+"al inink r.
+,",2018,12,0
+"irvint r.
+,",2018,12,1
+"ven ioni r.
+,",2018,12,3
+"Trak r.
+,",2018,12,3
+Ukmerg s r.,2018,12,1
+Vilniaus r.,2018,12,4
+Vilnius,2018,12,33
+Vilniaus apskritis,2018,12,45

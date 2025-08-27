@@ -1,0 +1,745 @@
+name,year,month,infection
+Alytaus apskritis,2006,1,0
+Alytaus m. sav.,2006,1,0
+Druskininkų sav.,2006,1,0
+Alytaus r. sav.,2006,1,0
+Lazdijų r. sav.,2006,1,0
+Varėnos r. sav.,2006,1,0
+Kauno apskritis,2006,1,10
+Kauno m. sav.,2006,1,8
+Jonavos r. sav.,2006,1,0
+Kaišiadorių r. sav.,2006,1,0
+Kauno r. sav.,2006,1,1
+Kėdainių r. sav.,2006,1,0
+Prienų r. sav.,2006,1,0
+Raseinių r. sav.,2006,1,1
+Klaipėdos apskritis,2006,1,1
+Klaipėdos m. sav.,2006,1,0
+Palangos m. sav.,2006,1,0
+Klaipėdos r. sav.,2006,1,1
+Kretingos r. sav.,2006,1,0
+Skuodo r. sav.,2006,1,0
+Šilutės r. sav.,2006,1,0
+Marijampolės apskritis,2006,1,0
+Marijampolės r. sav.,2006,1,0
+Šakių r. sav.,2006,1,0
+Vilkaviškio r. sav.,2006,1,0
+Panevėžio apskritis,2006,1,4
+Panevėžio m. sav.,2006,1,2
+Biržų r. sav.,2006,1,0
+Kupiškio r. sav.,2006,1,0
+Panevėžio r. sav.,2006,1,1
+Pasvalio r. sav.,2006,1,1
+Rokiškio r. sav.,2006,1,0
+Šiaulių apskritis,2006,1,0
+Šiaulių m. sav.,2006,1,0
+Akmenės r. sav.,2006,1,0
+Joniškio r. sav.,2006,1,0
+Kelmės r. sav.,2006,1,0
+Radviliškio r. sav.,2006,1,0
+Šiaulių r. sav.,2006,1,0
+Tauragės apskritis,2006,1,0
+Jurbarko r. sav.,2006,1,0
+Šilalės r. sav.,2006,1,0
+Tauragės r. sav.,2006,1,0
+Telšių apskritis,2006,1,1
+Mažeikių r. sav.,2006,1,0
+Plungės r. sav.,2006,1,0
+Telšių r. sav.,2006,1,1
+Utenos apskritis,2006,1,2
+Visagino sav.,2006,1,0
+Anykščių r. sav.,2006,1,1
+Ignalinos r. sav.,2006,1,0
+Molėtų r. sav.,2006,1,0
+Utenos r. sav.,2006,1,1
+Zarasų r. sav.,2006,1,0
+Vilniaus apskritis,2006,1,7
+Vilniaus m. sav.,2006,1,7
+Šalčininkų r. sav.,2006,1,0
+Širvintų r. sav.,2006,1,0
+Švenčionių r. sav.,2006,1,0
+Ukmergės r. sav.,2006,1,0
+Vilniaus r. sav.,2006,1,2
+Trakų r. sav.,2006,1,2
+Alytaus apskritis,2006,2,1
+Alytaus m. sav.,2006,2,1
+Druskininkų sav.,2006,2,0
+Alytaus r. sav.,2006,2,0
+Lazdijų r. sav.,2006,2,0
+Varėnos r. sav.,2006,2,0
+Kauno apskritis,2006,2,6
+Kauno m. sav.,2006,2,3
+Jonavos r. sav.,2006,2,0
+Kaišiadorių r. sav.,2006,2,0
+Kauno r. sav.,2006,2,2
+Kėdainių r. sav.,2006,2,0
+Prienų r. sav.,2006,2,0
+Raseinių r. sav.,2006,2,1
+Klaipėdos apskritis,2006,2,0
+Klaipėdos m. sav.,2006,2,0
+Palangos m. sav.,2006,2,0
+Klaipėdos r. sav.,2006,2,0
+Kretingos r. sav.,2006,2,0
+Skuodo r. sav.,2006,2,0
+Šilutės r. sav.,2006,2,0
+Marijampolės apskritis,2006,2,1
+Marijampolės r. sav.,2006,2,0
+Šakių r. sav.,2006,2,0
+Vilkaviškio r. sav.,2006,2,1
+Panevėžio apskritis,2006,2,1
+Panevėžio m. sav.,2006,2,0
+Biržų r. sav.,2006,2,0
+Kupiškio r. sav.,2006,2,0
+Panevėžio r. sav.,2006,2,1
+Pasvalio r. sav.,2006,2,0
+Rokiškio r. sav.,2006,2,0
+Šiaulių apskritis,2006,2,0
+Šiaulių m. sav.,2006,2,0
+Akmenės r. sav.,2006,2,0
+Joniškio r. sav.,2006,2,0
+Kelmės r. sav.,2006,2,0
+Radviliškio r. sav.,2006,2,0
+Šiaulių r. sav.,2006,2,0
+Tauragės apskritis,2006,2,2
+Jurbarko r. sav.,2006,2,0
+Šilalės r. sav.,2006,2,0
+Tauragės r. sav.,2006,2,2
+Telšių apskritis,2006,2,2
+Mažeikių r. sav.,2006,2,1
+Plungės r. sav.,2006,2,0
+Telšių r. sav.,2006,2,1
+Utenos apskritis,2006,2,2
+Visagino sav.,2006,2,0
+Anykščių r. sav.,2006,2,1
+Ignalinos r. sav.,2006,2,0
+Molėtų r. sav.,2006,2,0
+Utenos r. sav.,2006,2,1
+Zarasų r. sav.,2006,2,0
+Vilniaus apskritis,2006,2,5
+Vilniaus m. sav.,2006,2,4
+Šalčininkų r. sav.,2006,2,0
+Širvintų r. sav.,2006,2,1
+Švenčionių r. sav.,2006,2,0
+Ukmergės r. sav.,2006,2,0
+Vilniaus r. sav.,2006,2,1
+Trakų r. sav.,2006,2,0
+Alytaus apskritis,2006,3,0
+Alytaus m. sav.,2006,3,0
+Druskininkų sav.,2006,3,0
+Alytaus r. sav.,2006,3,0
+Lazdijų r. sav.,2006,3,0
+Varėnos r. sav.,2006,3,0
+Kauno apskritis,2006,3,2
+Kauno m. sav.,2006,3,1
+Jonavos r. sav.,2006,3,0
+Kaišiadorių r. sav.,2006,3,0
+Kauno r. sav.,2006,3,0
+Kėdainių r. sav.,2006,3,0
+Prienų r. sav.,2006,3,0
+Raseinių r. sav.,2006,3,1
+Klaipėdos apskritis,2006,3,0
+Klaipėdos m. sav.,2006,3,0
+Palangos m. sav.,2006,3,0
+Klaipėdos r. sav.,2006,3,0
+Kretingos r. sav.,2006,3,0
+Skuodo r. sav.,2006,3,0
+Šilutės r. sav.,2006,3,0
+Marijampolės apskritis,2006,3,0
+Marijampolės r. sav.,2006,3,0
+Šakių r. sav.,2006,3,0
+Vilkaviškio r. sav.,2006,3,0
+Panevėžio apskritis,2006,3,2
+Panevėžio m. sav.,2006,3,1
+Biržų r. sav.,2006,3,0
+Kupiškio r. sav.,2006,3,1
+Panevėžio r. sav.,2006,3,0
+Pasvalio r. sav.,2006,3,0
+Rokiškio r. sav.,2006,3,0
+Šiaulių apskritis,2006,3,1
+Šiaulių m. sav.,2006,3,1
+Akmenės r. sav.,2006,3,0
+Joniškio r. sav.,2006,3,0
+Kelmės r. sav.,2006,3,0
+Radviliškio r. sav.,2006,3,0
+Šiaulių r. sav.,2006,3,0
+Tauragės apskritis,2006,3,0
+Jurbarko r. sav.,2006,3,0
+Šilalės r. sav.,2006,3,0
+Tauragės r. sav.,2006,3,0
+Telšių apskritis,2006,3,1
+Mažeikių r. sav.,2006,3,0
+Plungės r. sav.,2006,3,1
+Telšių r. sav.,2006,3,0
+Utenos apskritis,2006,3,3
+Visagino sav.,2006,3,0
+Anykščių r. sav.,2006,3,1
+Ignalinos r. sav.,2006,3,0
+Molėtų r. sav.,2006,3,0
+Utenos r. sav.,2006,3,2
+Zarasų r. sav.,2006,3,0
+Vilniaus apskritis,2006,3,6
+Vilniaus m. sav.,2006,3,6
+Šalčininkų r. sav.,2006,3,0
+Širvintų r. sav.,2006,3,0
+Švenčionių r. sav.,2006,3,0
+Ukmergės r. sav.,2006,3,0
+Vilniaus r. sav.,2006,3,0
+Trakų r. sav.,2006,3,1
+Alytaus apskritis,2006,4,0
+Alytaus m. sav.,2006,4,0
+Druskininkų sav.,2006,4,0
+Alytaus r. sav.,2006,4,0
+Lazdijų r. sav.,2006,4,0
+Varėnos r. sav.,2006,4,0
+Kauno apskritis,2006,4,2
+Kauno m. sav.,2006,4,2
+Jonavos r. sav.,2006,4,0
+Kaišiadorių r. sav.,2006,4,0
+Kauno r. sav.,2006,4,0
+Kėdainių r. sav.,2006,4,0
+Prienų r. sav.,2006,4,0
+Raseinių r. sav.,2006,4,0
+Klaipėdos apskritis,2006,4,0
+Klaipėdos m. sav.,2006,4,0
+Palangos m. sav.,2006,4,0
+Klaipėdos r. sav.,2006,4,0
+Kretingos r. sav.,2006,4,0
+Skuodo r. sav.,2006,4,0
+Šilutės r. sav.,2006,4,0
+Marijampolės apskritis,2006,4,0
+Marijampolės r. sav.,2006,4,0
+Šakių r. sav.,2006,4,0
+Vilkaviškio r. sav.,2006,4,0
+Panevėžio apskritis,2006,4,2
+Panevėžio m. sav.,2006,4,1
+Biržų r. sav.,2006,4,0
+Kupiškio r. sav.,2006,4,0
+Panevėžio r. sav.,2006,4,1
+Pasvalio r. sav.,2006,4,0
+Rokiškio r. sav.,2006,4,0
+Šiaulių apskritis,2006,4,3
+Šiaulių m. sav.,2006,4,1
+Akmenės r. sav.,2006,4,0
+Joniškio r. sav.,2006,4,0
+Kelmės r. sav.,2006,4,1
+Radviliškio r. sav.,2006,4,0
+Šiaulių r. sav.,2006,4,1
+Tauragės apskritis,2006,4,1
+Jurbarko r. sav.,2006,4,0
+Šilalės r. sav.,2006,4,0
+Tauragės r. sav.,2006,4,1
+Telšių apskritis,2006,4,0
+Mažeikių r. sav.,2006,4,0
+Plungės r. sav.,2006,4,0
+Telšių r. sav.,2006,4,0
+Utenos apskritis,2006,4,2
+Visagino sav.,2006,4,0
+Anykščių r. sav.,2006,4,0
+Ignalinos r. sav.,2006,4,0
+Molėtų r. sav.,2006,4,0
+Utenos r. sav.,2006,4,2
+Zarasų r. sav.,2006,4,0
+Vilniaus apskritis,2006,4,0
+Vilniaus m. sav.,2006,4,0
+Šalčininkų r. sav.,2006,4,0
+Širvintų r. sav.,2006,4,0
+Švenčionių r. sav.,2006,4,0
+Ukmergės r. sav.,2006,4,0
+Vilniaus r. sav.,2006,4,0
+Trakų r. sav.,2006,4,0
+Alytaus apskritis,2006,5,1
+Alytaus m. sav.,2006,5,1
+Druskininkų sav.,2006,5,0
+Alytaus r. sav.,2006,5,0
+Lazdijų r. sav.,2006,5,0
+Varėnos r. sav.,2006,5,0
+Kauno apskritis,2006,5,7
+Kauno m. sav.,2006,5,5
+Jonavos r. sav.,2006,5,0
+Kaišiadorių r. sav.,2006,5,0
+Kauno r. sav.,2006,5,1
+Kėdainių r. sav.,2006,5,0
+Prienų r. sav.,2006,5,0
+Raseinių r. sav.,2006,5,1
+Klaipėdos apskritis,2006,5,2
+Klaipėdos m. sav.,2006,5,0
+Palangos m. sav.,2006,5,0
+Klaipėdos r. sav.,2006,5,0
+Kretingos r. sav.,2006,5,1
+Skuodo r. sav.,2006,5,0
+Šilutės r. sav.,2006,5,1
+Marijampolės apskritis,2006,5,1
+Marijampolės r. sav.,2006,5,0
+Šakių r. sav.,2006,5,0
+Vilkaviškio r. sav.,2006,5,1
+Panevėžio apskritis,2006,5,2
+Panevėžio m. sav.,2006,5,2
+Biržų r. sav.,2006,5,0
+Kupiškio r. sav.,2006,5,0
+Panevėžio r. sav.,2006,5,0
+Pasvalio r. sav.,2006,5,0
+Rokiškio r. sav.,2006,5,0
+Šiaulių apskritis,2006,5,5
+Šiaulių m. sav.,2006,5,2
+Akmenės r. sav.,2006,5,0
+Joniškio r. sav.,2006,5,0
+Kelmės r. sav.,2006,5,1
+Radviliškio r. sav.,2006,5,0
+Šiaulių r. sav.,2006,5,1
+Tauragės apskritis,2006,5,0
+Jurbarko r. sav.,2006,5,0
+Šilalės r. sav.,2006,5,0
+Tauragės r. sav.,2006,5,0
+Telšių apskritis,2006,5,2
+Mažeikių r. sav.,2006,5,1
+Plungės r. sav.,2006,5,0
+Telšių r. sav.,2006,5,1
+Utenos apskritis,2006,5,4
+Visagino sav.,2006,5,0
+Anykščių r. sav.,2006,5,1
+Ignalinos r. sav.,2006,5,0
+Molėtų r. sav.,2006,5,0
+Utenos r. sav.,2006,5,3
+Zarasų r. sav.,2006,5,0
+Vilniaus apskritis,2006,5,2
+Vilniaus m. sav.,2006,5,2
+Šalčininkų r. sav.,2006,5,0
+Širvintų r. sav.,2006,5,0
+Švenčionių r. sav.,2006,5,0
+Ukmergės r. sav.,2006,5,0
+Vilniaus r. sav.,2006,5,0
+Trakų r. sav.,2006,5,0
+Alytaus apskritis,2006,6,0
+Alytaus m. sav.,2006,6,0
+Druskininkų sav.,2006,6,0
+Alytaus r. sav.,2006,6,0
+Lazdijų r. sav.,2006,6,0
+Varėnos r. sav.,2006,6,0
+Kauno apskritis,2006,6,36
+Kauno m. sav.,2006,6,24
+Jonavos r. sav.,2006,6,1
+Kaišiadorių r. sav.,2006,6,0
+Kauno r. sav.,2006,6,7
+Kėdainių r. sav.,2006,6,0
+Prienų r. sav.,2006,6,0
+Raseinių r. sav.,2006,6,4
+Klaipėdos apskritis,2006,6,5
+Klaipėdos m. sav.,2006,6,1
+Palangos m. sav.,2006,6,0
+Klaipėdos r. sav.,2006,6,1
+Kretingos r. sav.,2006,6,0
+Skuodo r. sav.,2006,6,0
+Šilutės r. sav.,2006,6,3
+Marijampolės apskritis,2006,6,3
+Marijampolės r. sav.,2006,6,0
+Šakių r. sav.,2006,6,2
+Vilkaviškio r. sav.,2006,6,1
+Panevėžio apskritis,2006,6,7
+Panevėžio m. sav.,2006,6,2
+Biržų r. sav.,2006,6,0
+Kupiškio r. sav.,2006,6,2
+Panevėžio r. sav.,2006,6,2
+Pasvalio r. sav.,2006,6,0
+Rokiškio r. sav.,2006,6,1
+Šiaulių apskritis,2006,6,6
+Šiaulių m. sav.,2006,6,1
+Akmenės r. sav.,2006,6,0
+Joniškio r. sav.,2006,6,0
+Kelmės r. sav.,2006,6,2
+Radviliškio r. sav.,2006,6,1
+Šiaulių r. sav.,2006,6,0
+Tauragės apskritis,2006,6,1
+Jurbarko r. sav.,2006,6,0
+Šilalės r. sav.,2006,6,0
+Tauragės r. sav.,2006,6,1
+Telšių apskritis,2006,6,1
+Mažeikių r. sav.,2006,6,0
+Plungės r. sav.,2006,6,0
+Telšių r. sav.,2006,6,1
+Utenos apskritis,2006,6,1
+Visagino sav.,2006,6,0
+Anykščių r. sav.,2006,6,0
+Ignalinos r. sav.,2006,6,0
+Molėtų r. sav.,2006,6,0
+Utenos r. sav.,2006,6,1
+Zarasų r. sav.,2006,6,0
+Vilniaus apskritis,2006,6,7
+Vilniaus m. sav.,2006,6,7
+Šalčininkų r. sav.,2006,6,0
+Širvintų r. sav.,2006,6,0
+Švenčionių r. sav.,2006,6,0
+Ukmergės r. sav.,2006,6,0
+Vilniaus r. sav.,2006,6,4
+Trakų r. sav.,2006,6,3
+Alytaus apskritis,2006,7,3
+Alytaus m. sav.,2006,7,1
+Druskininkų sav.,2006,7,0
+Alytaus r. sav.,2006,7,0
+Lazdijų r. sav.,2006,7,1
+Varėnos r. sav.,2006,7,1
+Kauno apskritis,2006,7,71
+Kauno m. sav.,2006,7,56
+Jonavos r. sav.,2006,7,0
+Kaišiadorių r. sav.,2006,7,2
+Kauno r. sav.,2006,7,11
+Kėdainių r. sav.,2006,7,0
+Prienų r. sav.,2006,7,0
+Raseinių r. sav.,2006,7,2
+Klaipėdos apskritis,2006,7,3
+Klaipėdos m. sav.,2006,7,1
+Palangos m. sav.,2006,7,0
+Klaipėdos r. sav.,2006,7,0
+Kretingos r. sav.,2006,7,1
+Skuodo r. sav.,2006,7,0
+Šilutės r. sav.,2006,7,1
+Marijampolės apskritis,2006,7,4
+Marijampolės r. sav.,2006,7,2
+Šakių r. sav.,2006,7,2
+Vilkaviškio r. sav.,2006,7,0
+Panevėžio apskritis,2006,7,24
+Panevėžio m. sav.,2006,7,13
+Biržų r. sav.,2006,7,0
+Kupiškio r. sav.,2006,7,1
+Panevėžio r. sav.,2006,7,3
+Pasvalio r. sav.,2006,7,2
+Rokiškio r. sav.,2006,7,5
+Šiaulių apskritis,2006,7,16
+Šiaulių m. sav.,2006,7,9
+Akmenės r. sav.,2006,7,1
+Joniškio r. sav.,2006,7,1
+Kelmės r. sav.,2006,7,3
+Radviliškio r. sav.,2006,7,2
+Šiaulių r. sav.,2006,7,0
+Tauragės apskritis,2006,7,5
+Jurbarko r. sav.,2006,7,0
+Šilalės r. sav.,2006,7,0
+Tauragės r. sav.,2006,7,5
+Telšių apskritis,2006,7,4
+Mažeikių r. sav.,2006,7,2
+Plungės r. sav.,2006,7,0
+Telšių r. sav.,2006,7,2
+Utenos apskritis,2006,7,6
+Visagino sav.,2006,7,0
+Anykščių r. sav.,2006,7,2
+Ignalinos r. sav.,2006,7,2
+Molėtų r. sav.,2006,7,0
+Utenos r. sav.,2006,7,0
+Zarasų r. sav.,2006,7,2
+Vilniaus apskritis,2006,7,18
+Vilniaus m. sav.,2006,7,16
+Šalčininkų r. sav.,2006,7,0
+Širvintų r. sav.,2006,7,2
+Švenčionių r. sav.,2006,7,0
+Ukmergės r. sav.,2006,7,0
+Vilniaus r. sav.,2006,7,5
+Trakų r. sav.,2006,7,4
+Alytaus apskritis,2006,8,8
+Alytaus m. sav.,2006,8,5
+Druskininkų sav.,2006,8,0
+Alytaus r. sav.,2006,8,2
+Lazdijų r. sav.,2006,8,0
+Varėnos r. sav.,2006,8,1
+Kauno apskritis,2006,8,64
+Kauno m. sav.,2006,8,46
+Jonavos r. sav.,2006,8,0
+Kaišiadorių r. sav.,2006,8,1
+Kauno r. sav.,2006,8,8
+Kėdainių r. sav.,2006,8,2
+Prienų r. sav.,2006,8,1
+Raseinių r. sav.,2006,8,6
+Klaipėdos apskritis,2006,8,2
+Klaipėdos m. sav.,2006,8,0
+Palangos m. sav.,2006,8,1
+Klaipėdos r. sav.,2006,8,1
+Kretingos r. sav.,2006,8,0
+Skuodo r. sav.,2006,8,0
+Šilutės r. sav.,2006,8,0
+Marijampolės apskritis,2006,8,11
+Marijampolės r. sav.,2006,8,5
+Šakių r. sav.,2006,8,4
+Vilkaviškio r. sav.,2006,8,2
+Panevėžio apskritis,2006,8,37
+Panevėžio m. sav.,2006,8,20
+Biržų r. sav.,2006,8,4
+Kupiškio r. sav.,2006,8,2
+Panevėžio r. sav.,2006,8,5
+Pasvalio r. sav.,2006,8,1
+Rokiškio r. sav.,2006,8,5
+Šiaulių apskritis,2006,8,31
+Šiaulių m. sav.,2006,8,16
+Akmenės r. sav.,2006,8,1
+Joniškio r. sav.,2006,8,0
+Kelmės r. sav.,2006,8,3
+Radviliškio r. sav.,2006,8,5
+Šiaulių r. sav.,2006,8,5
+Tauragės apskritis,2006,8,3
+Jurbarko r. sav.,2006,8,0
+Šilalės r. sav.,2006,8,0
+Tauragės r. sav.,2006,8,3
+Telšių apskritis,2006,8,4
+Mažeikių r. sav.,2006,8,0
+Plungės r. sav.,2006,8,0
+Telšių r. sav.,2006,8,4
+Utenos apskritis,2006,8,14
+Visagino sav.,2006,8,0
+Anykščių r. sav.,2006,8,4
+Ignalinos r. sav.,2006,8,0
+Molėtų r. sav.,2006,8,0
+Utenos r. sav.,2006,8,8
+Zarasų r. sav.,2006,8,2
+Vilniaus apskritis,2006,8,43
+Vilniaus m. sav.,2006,8,36
+Šalčininkų r. sav.,2006,8,0
+Širvintų r. sav.,2006,8,1
+Švenčionių r. sav.,2006,8,1
+Ukmergės r. sav.,2006,8,5
+Vilniaus r. sav.,2006,8,0
+Trakų r. sav.,2006,8,8
+Alytaus apskritis,2006,9,9
+Alytaus m. sav.,2006,9,7
+Druskininkų sav.,2006,9,0
+Alytaus r. sav.,2006,9,1
+Lazdijų r. sav.,2006,9,0
+Varėnos r. sav.,2006,9,1
+Kauno apskritis,2006,9,109
+Kauno m. sav.,2006,9,84
+Jonavos r. sav.,2006,9,6
+Kaišiadorių r. sav.,2006,9,1
+Kauno r. sav.,2006,9,9
+Kėdainių r. sav.,2006,9,2
+Prienų r. sav.,2006,9,2
+Raseinių r. sav.,2006,9,5
+Klaipėdos apskritis,2006,9,7
+Klaipėdos m. sav.,2006,9,2
+Palangos m. sav.,2006,9,2
+Klaipėdos r. sav.,2006,9,0
+Kretingos r. sav.,2006,9,2
+Skuodo r. sav.,2006,9,0
+Šilutės r. sav.,2006,9,1
+Marijampolės apskritis,2006,9,10
+Marijampolės r. sav.,2006,9,8
+Šakių r. sav.,2006,9,1
+Vilkaviškio r. sav.,2006,9,1
+Panevėžio apskritis,2006,9,44
+Panevėžio m. sav.,2006,9,29
+Biržų r. sav.,2006,9,0
+Kupiškio r. sav.,2006,9,2
+Panevėžio r. sav.,2006,9,5
+Pasvalio r. sav.,2006,9,2
+Rokiškio r. sav.,2006,9,6
+Šiaulių apskritis,2006,9,68
+Šiaulių m. sav.,2006,9,38
+Akmenės r. sav.,2006,9,3
+Joniškio r. sav.,2006,9,1
+Kelmės r. sav.,2006,9,5
+Radviliškio r. sav.,2006,9,6
+Šiaulių r. sav.,2006,9,10
+Tauragės apskritis,2006,9,9
+Jurbarko r. sav.,2006,9,0
+Šilalės r. sav.,2006,9,0
+Tauragės r. sav.,2006,9,9
+Telšių apskritis,2006,9,40
+Mažeikių r. sav.,2006,9,10
+Plungės r. sav.,2006,9,16
+Telšių r. sav.,2006,9,14
+Utenos apskritis,2006,9,18
+Visagino sav.,2006,9,1
+Anykščių r. sav.,2006,9,0
+Ignalinos r. sav.,2006,9,0
+Molėtų r. sav.,2006,9,2
+Utenos r. sav.,2006,9,13
+Zarasų r. sav.,2006,9,2
+Vilniaus apskritis,2006,9,89
+Vilniaus m. sav.,2006,9,82
+Šalčininkų r. sav.,2006,9,0
+Širvintų r. sav.,2006,9,1
+Švenčionių r. sav.,2006,9,0
+Ukmergės r. sav.,2006,9,6
+Vilniaus r. sav.,2006,9,3
+Trakų r. sav.,2006,9,8
+Alytaus apskritis,2006,10,20
+Alytaus m. sav.,2006,10,14
+Druskininkų sav.,2006,10,0
+Alytaus r. sav.,2006,10,2
+Lazdijų r. sav.,2006,10,3
+Varėnos r. sav.,2006,10,1
+Kauno apskritis,2006,10,127
+Kauno m. sav.,2006,10,92
+Jonavos r. sav.,2006,10,8
+Kaišiadorių r. sav.,2006,10,0
+Kauno r. sav.,2006,10,17
+Kėdainių r. sav.,2006,10,4
+Prienų r. sav.,2006,10,2
+Raseinių r. sav.,2006,10,4
+Klaipėdos apskritis,2006,10,26
+Klaipėdos m. sav.,2006,10,18
+Palangos m. sav.,2006,10,2
+Klaipėdos r. sav.,2006,10,0
+Kretingos r. sav.,2006,10,2
+Skuodo r. sav.,2006,10,0
+Šilutės r. sav.,2006,10,4
+Marijampolės apskritis,2006,10,15
+Marijampolės r. sav.,2006,10,9
+Šakių r. sav.,2006,10,3
+Vilkaviškio r. sav.,2006,10,3
+Panevėžio apskritis,2006,10,89
+Panevėžio m. sav.,2006,10,53
+Biržų r. sav.,2006,10,4
+Kupiškio r. sav.,2006,10,6
+Panevėžio r. sav.,2006,10,13
+Pasvalio r. sav.,2006,10,6
+Rokiškio r. sav.,2006,10,7
+Šiaulių apskritis,2006,10,85
+Šiaulių m. sav.,2006,10,41
+Akmenės r. sav.,2006,10,1
+Joniškio r. sav.,2006,10,3
+Kelmės r. sav.,2006,10,8
+Radviliškio r. sav.,2006,10,5
+Šiaulių r. sav.,2006,10,19
+Tauragės apskritis,2006,10,7
+Jurbarko r. sav.,2006,10,2
+Šilalės r. sav.,2006,10,0
+Tauragės r. sav.,2006,10,5
+Telšių apskritis,2006,10,29
+Mažeikių r. sav.,2006,10,6
+Plungės r. sav.,2006,10,8
+Telšių r. sav.,2006,10,15
+Utenos apskritis,2006,10,16
+Visagino sav.,2006,10,0
+Anykščių r. sav.,2006,10,2
+Ignalinos r. sav.,2006,10,0
+Molėtų r. sav.,2006,10,1
+Utenos r. sav.,2006,10,9
+Zarasų r. sav.,2006,10,4
+Vilniaus apskritis,2006,10,94
+Vilniaus m. sav.,2006,10,91
+Šalčininkų r. sav.,2006,10,0
+Širvintų r. sav.,2006,10,1
+Švenčionių r. sav.,2006,10,0
+Ukmergės r. sav.,2006,10,2
+Vilniaus r. sav.,2006,10,6
+Trakų r. sav.,2006,10,7
+Alytaus apskritis,2006,11,4
+Alytaus m. sav.,2006,11,3
+Druskininkų sav.,2006,11,0
+Alytaus r. sav.,2006,11,1
+Lazdijų r. sav.,2006,11,0
+Varėnos r. sav.,2006,11,0
+Kauno apskritis,2006,11,63
+Kauno m. sav.,2006,11,42
+Jonavos r. sav.,2006,11,2
+Kaišiadorių r. sav.,2006,11,1
+Kauno r. sav.,2006,11,12
+Kėdainių r. sav.,2006,11,0
+Prienų r. sav.,2006,11,1
+Raseinių r. sav.,2006,11,5
+Klaipėdos apskritis,2006,11,11
+Klaipėdos m. sav.,2006,11,7
+Palangos m. sav.,2006,11,1
+Klaipėdos r. sav.,2006,11,0
+Kretingos r. sav.,2006,11,0
+Skuodo r. sav.,2006,11,0
+Šilutės r. sav.,2006,11,3
+Marijampolės apskritis,2006,11,10
+Marijampolės r. sav.,2006,11,5
+Šakių r. sav.,2006,11,1
+Vilkaviškio r. sav.,2006,11,4
+Panevėžio apskritis,2006,11,59
+Panevėžio m. sav.,2006,11,30
+Biržų r. sav.,2006,11,1
+Kupiškio r. sav.,2006,11,10
+Panevėžio r. sav.,2006,11,8
+Pasvalio r. sav.,2006,11,2
+Rokiškio r. sav.,2006,11,8
+Šiaulių apskritis,2006,11,36
+Šiaulių m. sav.,2006,11,14
+Akmenės r. sav.,2006,11,4
+Joniškio r. sav.,2006,11,2
+Kelmės r. sav.,2006,11,1
+Radviliškio r. sav.,2006,11,2
+Šiaulių r. sav.,2006,11,10
+Tauragės apskritis,2006,11,8
+Jurbarko r. sav.,2006,11,0
+Šilalės r. sav.,2006,11,0
+Tauragės r. sav.,2006,11,8
+Telšių apskritis,2006,11,21
+Mažeikių r. sav.,2006,11,12
+Plungės r. sav.,2006,11,0
+Telšių r. sav.,2006,11,9
+Utenos apskritis,2006,11,16
+Visagino sav.,2006,11,0
+Anykščių r. sav.,2006,11,3
+Ignalinos r. sav.,2006,11,0
+Molėtų r. sav.,2006,11,0
+Utenos r. sav.,2006,11,12
+Zarasų r. sav.,2006,11,1
+Vilniaus apskritis,2006,11,85
+Vilniaus m. sav.,2006,11,65
+Šalčininkų r. sav.,2006,11,0
+Širvintų r. sav.,2006,11,5
+Švenčionių r. sav.,2006,11,3
+Ukmergės r. sav.,2006,11,12
+Vilniaus r. sav.,2006,11,1
+Trakų r. sav.,2006,11,6
+Alytaus apskritis,2006,12,0
+Alytaus m. sav.,2006,12,0
+Druskininkų sav.,2006,12,0
+Alytaus r. sav.,2006,12,0
+Lazdijų r. sav.,2006,12,0
+Varėnos r. sav.,2006,12,0
+Kauno apskritis,2006,12,27
+Kauno m. sav.,2006,12,22
+Jonavos r. sav.,2006,12,2
+Kaišiadorių r. sav.,2006,12,0
+Kauno r. sav.,2006,12,3
+Kėdainių r. sav.,2006,12,0
+Prienų r. sav.,2006,12,0
+Raseinių r. sav.,2006,12,0
+Klaipėdos apskritis,2006,12,9
+Klaipėdos m. sav.,2006,12,6
+Palangos m. sav.,2006,12,2
+Klaipėdos r. sav.,2006,12,1
+Kretingos r. sav.,2006,12,0
+Skuodo r. sav.,2006,12,0
+Šilutės r. sav.,2006,12,0
+Marijampolės apskritis,2006,12,10
+Marijampolės r. sav.,2006,12,5
+Šakių r. sav.,2006,12,1
+Vilkaviškio r. sav.,2006,12,4
+Panevėžio apskritis,2006,12,24
+Panevėžio m. sav.,2006,12,11
+Biržų r. sav.,2006,12,3
+Kupiškio r. sav.,2006,12,3
+Panevėžio r. sav.,2006,12,6
+Pasvalio r. sav.,2006,12,0
+Rokiškio r. sav.,2006,12,1
+Šiaulių apskritis,2006,12,24
+Šiaulių m. sav.,2006,12,11
+Akmenės r. sav.,2006,12,1
+Joniškio r. sav.,2006,12,1
+Kelmės r. sav.,2006,12,6
+Radviliškio r. sav.,2006,12,1
+Šiaulių r. sav.,2006,12,3
+Tauragės apskritis,2006,12,10
+Jurbarko r. sav.,2006,12,0
+Šilalės r. sav.,2006,12,0
+Tauragės r. sav.,2006,12,10
+Telšių apskritis,2006,12,28
+Mažeikių r. sav.,2006,12,5
+Plungės r. sav.,2006,12,17
+Telšių r. sav.,2006,12,6
+Utenos apskritis,2006,12,7
+Visagino sav.,2006,12,3
+Anykščių r. sav.,2006,12,1
+Ignalinos r. sav.,2006,12,0
+Molėtų r. sav.,2006,12,2
+Utenos r. sav.,2006,12,0
+Zarasų r. sav.,2006,12,1
+Vilniaus apskritis,2006,12,70
+Vilniaus m. sav.,2006,12,65
+Šalčininkų r. sav.,2006,12,0
+Širvintų r. sav.,2006,12,4
+Švenčionių r. sav.,2006,12,0
+Ukmergės r. sav.,2006,12,0
+Vilniaus r. sav.,2006,12,1
+Trakų r. sav.,2006,12,3

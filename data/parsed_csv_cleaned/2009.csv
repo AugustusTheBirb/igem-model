@@ -1,0 +1,745 @@
+name,year,month,infection
+Alytaus apskritis,2009,1,0
+Alytaus m. sav.,2009,1,0
+Druskininkų sav.,2009,1,0
+Alytaus r. sav.,2009,1,0
+Lazdijų r. sav.,2009,1,0
+Varėnos r. sav.,2009,1,0
+Kauno apskritis,2009,1,2
+Kauno m. sav.,2009,1,2
+Jonavos r. sav.,2009,1,0
+Kaišiadorių r. sav.,2009,1,0
+Kauno r. sav.,2009,1,0
+Kėdainių r. sav.,2009,1,0
+Prienų r. sav.,2009,1,0
+Raseinių r. sav.,2009,1,0
+Klaipėdos apskritis,2009,1,1
+Klaipėdos m. sav.,2009,1,0
+Palangos m. sav.,2009,1,0
+Klaipėdos r. sav.,2009,1,1
+Kretingos r. sav.,2009,1,0
+Skuodo r. sav.,2009,1,0
+Šilutės r. sav.,2009,1,0
+Marijampolės apskritis,2009,1,2
+Marijampolės r. sav.,2009,1,2
+Šakių r. sav.,2009,1,0
+Vilkaviškio r. sav.,2009,1,0
+Panevėžio apskritis,2009,1,9
+Panevėžio m. sav.,2009,1,3
+Biržų r. sav.,2009,1,0
+Kupiškio r. sav.,2009,1,1
+Panevėžio r. sav.,2009,1,2
+Pasvalio r. sav.,2009,1,1
+Rokiškio r. sav.,2009,1,2
+Šiaulių apskritis,2009,1,6
+Šiaulių m. sav.,2009,1,3
+Akmenės r. sav.,2009,1,1
+Joniškio r. sav.,2009,1,0
+Kelmės r. sav.,2009,1,2
+Radviliškio r. sav.,2009,1,0
+Šiaulių r. sav.,2009,1,0
+Tauragės apskritis,2009,1,4
+Jurbarko r. sav.,2009,1,0
+Šilalės r. sav.,2009,1,1
+Tauragės r. sav.,2009,1,3
+Telšių apskritis,2009,1,2
+Mažeikių r. sav.,2009,1,0
+Plungės r. sav.,2009,1,0
+Telšių r. sav.,2009,1,2
+Utenos apskritis,2009,1,3
+Visagino sav.,2009,1,0
+Anykščių r. sav.,2009,1,0
+Ignalinos r. sav.,2009,1,0
+Molėtų r. sav.,2009,1,0
+Utenos r. sav.,2009,1,3
+Zarasų r. sav.,2009,1,0
+Vilniaus apskritis,2009,1,8
+Vilniaus m. sav.,2009,1,6
+Šalčininkų r. sav.,2009,1,0
+Širvintų r. sav.,2009,1,2
+Švenčionių r. sav.,2009,1,0
+Ukmergės r. sav.,2009,1,0
+Vilniaus r. sav.,2009,1,0
+Trakų r. sav.,2009,1,2
+Alytaus apskritis,2009,2,4
+Alytaus m. sav.,2009,2,1
+Druskininkų sav.,2009,2,0
+Alytaus r. sav.,2009,2,2
+Lazdijų r. sav.,2009,2,0
+Varėnos r. sav.,2009,2,1
+Kauno apskritis,2009,2,2
+Kauno m. sav.,2009,2,1
+Jonavos r. sav.,2009,2,0
+Kaišiadorių r. sav.,2009,2,0
+Kauno r. sav.,2009,2,1
+Kėdainių r. sav.,2009,2,0
+Prienų r. sav.,2009,2,0
+Raseinių r. sav.,2009,2,0
+Klaipėdos apskritis,2009,2,0
+Klaipėdos m. sav.,2009,2,0
+Palangos m. sav.,2009,2,0
+Klaipėdos r. sav.,2009,2,0
+Kretingos r. sav.,2009,2,0
+Skuodo r. sav.,2009,2,0
+Šilutės r. sav.,2009,2,0
+Marijampolės apskritis,2009,2,1
+Marijampolės r. sav.,2009,2,1
+Šakių r. sav.,2009,2,0
+Vilkaviškio r. sav.,2009,2,0
+Panevėžio apskritis,2009,2,13
+Panevėžio m. sav.,2009,2,7
+Biržų r. sav.,2009,2,0
+Kupiškio r. sav.,2009,2,0
+Panevėžio r. sav.,2009,2,3
+Pasvalio r. sav.,2009,2,2
+Rokiškio r. sav.,2009,2,1
+Šiaulių apskritis,2009,2,5
+Šiaulių m. sav.,2009,2,3
+Akmenės r. sav.,2009,2,0
+Joniškio r. sav.,2009,2,0
+Kelmės r. sav.,2009,2,2
+Radviliškio r. sav.,2009,2,0
+Šiaulių r. sav.,2009,2,0
+Tauragės apskritis,2009,2,0
+Jurbarko r. sav.,2009,2,0
+Šilalės r. sav.,2009,2,0
+Tauragės r. sav.,2009,2,0
+Telšių apskritis,2009,2,1
+Mažeikių r. sav.,2009,2,0
+Plungės r. sav.,2009,2,0
+Telšių r. sav.,2009,2,1
+Utenos apskritis,2009,2,4
+Visagino sav.,2009,2,0
+Anykščių r. sav.,2009,2,1
+Ignalinos r. sav.,2009,2,1
+Molėtų r. sav.,2009,2,0
+Utenos r. sav.,2009,2,1
+Zarasų r. sav.,2009,2,1
+Vilniaus apskritis,2009,2,10
+Vilniaus m. sav.,2009,2,9
+Šalčininkų r. sav.,2009,2,0
+Širvintų r. sav.,2009,2,0
+Švenčionių r. sav.,2009,2,0
+Ukmergės r. sav.,2009,2,1
+Vilniaus r. sav.,2009,2,0
+Trakų r. sav.,2009,2,1
+Alytaus apskritis,2009,3,2
+Alytaus m. sav.,2009,3,0
+Druskininkų sav.,2009,3,0
+Alytaus r. sav.,2009,3,2
+Lazdijų r. sav.,2009,3,0
+Varėnos r. sav.,2009,3,0
+Kauno apskritis,2009,3,2
+Kauno m. sav.,2009,3,2
+Jonavos r. sav.,2009,3,0
+Kaišiadorių r. sav.,2009,3,0
+Kauno r. sav.,2009,3,0
+Kėdainių r. sav.,2009,3,0
+Prienų r. sav.,2009,3,0
+Raseinių r. sav.,2009,3,0
+Klaipėdos apskritis,2009,3,0
+Klaipėdos m. sav.,2009,3,0
+Palangos m. sav.,2009,3,0
+Klaipėdos r. sav.,2009,3,0
+Kretingos r. sav.,2009,3,0
+Skuodo r. sav.,2009,3,0
+Šilutės r. sav.,2009,3,0
+Marijampolės apskritis,2009,3,0
+Marijampolės r. sav.,2009,3,0
+Šakių r. sav.,2009,3,0
+Vilkaviškio r. sav.,2009,3,0
+Panevėžio apskritis,2009,3,6
+Panevėžio m. sav.,2009,3,4
+Biržų r. sav.,2009,3,0
+Kupiškio r. sav.,2009,3,1
+Panevėžio r. sav.,2009,3,0
+Pasvalio r. sav.,2009,3,0
+Rokiškio r. sav.,2009,3,1
+Šiaulių apskritis,2009,3,0
+Šiaulių m. sav.,2009,3,0
+Akmenės r. sav.,2009,3,0
+Joniškio r. sav.,2009,3,0
+Kelmės r. sav.,2009,3,0
+Radviliškio r. sav.,2009,3,0
+Šiaulių r. sav.,2009,3,0
+Tauragės apskritis,2009,3,1
+Jurbarko r. sav.,2009,3,0
+Šilalės r. sav.,2009,3,0
+Tauragės r. sav.,2009,3,1
+Telšių apskritis,2009,3,1
+Mažeikių r. sav.,2009,3,0
+Plungės r. sav.,2009,3,0
+Telšių r. sav.,2009,3,1
+Utenos apskritis,2009,3,1
+Visagino sav.,2009,3,0
+Anykščių r. sav.,2009,3,0
+Ignalinos r. sav.,2009,3,0
+Molėtų r. sav.,2009,3,0
+Utenos r. sav.,2009,3,1
+Zarasų r. sav.,2009,3,0
+Vilniaus apskritis,2009,3,12
+Vilniaus m. sav.,2009,3,12
+Šalčininkų r. sav.,2009,3,0
+Širvintų r. sav.,2009,3,0
+Švenčionių r. sav.,2009,3,0
+Ukmergės r. sav.,2009,3,0
+Vilniaus r. sav.,2009,3,0
+Trakų r. sav.,2009,3,0
+Alytaus apskritis,2009,4,1
+Alytaus m. sav.,2009,4,0
+Druskininkų sav.,2009,4,0
+Alytaus r. sav.,2009,4,0
+Lazdijų r. sav.,2009,4,1
+Varėnos r. sav.,2009,4,0
+Kauno apskritis,2009,4,6
+Kauno m. sav.,2009,4,2
+Jonavos r. sav.,2009,4,1
+Kaišiadorių r. sav.,2009,4,0
+Kauno r. sav.,2009,4,2
+Kėdainių r. sav.,2009,4,1
+Prienų r. sav.,2009,4,0
+Raseinių r. sav.,2009,4,0
+Klaipėdos apskritis,2009,4,1
+Klaipėdos m. sav.,2009,4,0
+Palangos m. sav.,2009,4,0
+Klaipėdos r. sav.,2009,4,0
+Kretingos r. sav.,2009,4,1
+Skuodo r. sav.,2009,4,0
+Šilutės r. sav.,2009,4,0
+Marijampolės apskritis,2009,4,0
+Marijampolės r. sav.,2009,4,0
+Šakių r. sav.,2009,4,0
+Vilkaviškio r. sav.,2009,4,0
+Panevėžio apskritis,2009,4,9
+Panevėžio m. sav.,2009,4,6
+Biržų r. sav.,2009,4,0
+Kupiškio r. sav.,2009,4,0
+Panevėžio r. sav.,2009,4,2
+Pasvalio r. sav.,2009,4,0
+Rokiškio r. sav.,2009,4,1
+Šiaulių apskritis,2009,4,1
+Šiaulių m. sav.,2009,4,0
+Akmenės r. sav.,2009,4,0
+Joniškio r. sav.,2009,4,0
+Kelmės r. sav.,2009,4,0
+Radviliškio r. sav.,2009,4,0
+Šiaulių r. sav.,2009,4,0
+Tauragės apskritis,2009,4,2
+Jurbarko r. sav.,2009,4,0
+Šilalės r. sav.,2009,4,0
+Tauragės r. sav.,2009,4,2
+Telšių apskritis,2009,4,1
+Mažeikių r. sav.,2009,4,0
+Plungės r. sav.,2009,4,0
+Telšių r. sav.,2009,4,1
+Utenos apskritis,2009,4,0
+Visagino sav.,2009,4,0
+Anykščių r. sav.,2009,4,0
+Ignalinos r. sav.,2009,4,0
+Molėtų r. sav.,2009,4,0
+Utenos r. sav.,2009,4,0
+Zarasų r. sav.,2009,4,0
+Vilniaus apskritis,2009,4,10
+Vilniaus m. sav.,2009,4,6
+Šalčininkų r. sav.,2009,4,0
+Širvintų r. sav.,2009,4,2
+Švenčionių r. sav.,2009,4,0
+Ukmergės r. sav.,2009,4,0
+Vilniaus r. sav.,2009,4,2
+Trakų r. sav.,2009,4,0
+Alytaus apskritis,2009,5,3
+Alytaus m. sav.,2009,5,1
+Druskininkų sav.,2009,5,0
+Alytaus r. sav.,2009,5,1
+Lazdijų r. sav.,2009,5,1
+Varėnos r. sav.,2009,5,0
+Kauno apskritis,2009,5,15
+Kauno m. sav.,2009,5,10
+Jonavos r. sav.,2009,5,0
+Kaišiadorių r. sav.,2009,5,0
+Kauno r. sav.,2009,5,2
+Kėdainių r. sav.,2009,5,0
+Prienų r. sav.,2009,5,2
+Raseinių r. sav.,2009,5,1
+Klaipėdos apskritis,2009,5,3
+Klaipėdos m. sav.,2009,5,2
+Palangos m. sav.,2009,5,0
+Klaipėdos r. sav.,2009,5,0
+Kretingos r. sav.,2009,5,1
+Skuodo r. sav.,2009,5,0
+Šilutės r. sav.,2009,5,0
+Marijampolės apskritis,2009,5,5
+Marijampolės r. sav.,2009,5,5
+Šakių r. sav.,2009,5,0
+Vilkaviškio r. sav.,2009,5,0
+Panevėžio apskritis,2009,5,12
+Panevėžio m. sav.,2009,5,3
+Biržų r. sav.,2009,5,0
+Kupiškio r. sav.,2009,5,2
+Panevėžio r. sav.,2009,5,3
+Pasvalio r. sav.,2009,5,0
+Rokiškio r. sav.,2009,5,4
+Šiaulių apskritis,2009,5,6
+Šiaulių m. sav.,2009,5,1
+Akmenės r. sav.,2009,5,0
+Joniškio r. sav.,2009,5,1
+Kelmės r. sav.,2009,5,1
+Radviliškio r. sav.,2009,5,1
+Šiaulių r. sav.,2009,5,0
+Tauragės apskritis,2009,5,3
+Jurbarko r. sav.,2009,5,0
+Šilalės r. sav.,2009,5,0
+Tauragės r. sav.,2009,5,3
+Telšių apskritis,2009,5,5
+Mažeikių r. sav.,2009,5,0
+Plungės r. sav.,2009,5,2
+Telšių r. sav.,2009,5,3
+Utenos apskritis,2009,5,6
+Visagino sav.,2009,5,0
+Anykščių r. sav.,2009,5,0
+Ignalinos r. sav.,2009,5,1
+Molėtų r. sav.,2009,5,0
+Utenos r. sav.,2009,5,5
+Zarasų r. sav.,2009,5,0
+Vilniaus apskritis,2009,5,33
+Vilniaus m. sav.,2009,5,28
+Šalčininkų r. sav.,2009,5,0
+Širvintų r. sav.,2009,5,0
+Švenčionių r. sav.,2009,5,0
+Ukmergės r. sav.,2009,5,1
+Vilniaus r. sav.,2009,5,4
+Trakų r. sav.,2009,5,0
+Alytaus apskritis,2009,6,5
+Alytaus m. sav.,2009,6,2
+Druskininkų sav.,2009,6,1
+Alytaus r. sav.,2009,6,1
+Lazdijų r. sav.,2009,6,1
+Varėnos r. sav.,2009,6,0
+Kauno apskritis,2009,6,46
+Kauno m. sav.,2009,6,28
+Jonavos r. sav.,2009,6,2
+Kaišiadorių r. sav.,2009,6,2
+Kauno r. sav.,2009,6,9
+Kėdainių r. sav.,2009,6,1
+Prienų r. sav.,2009,6,1
+Raseinių r. sav.,2009,6,3
+Klaipėdos apskritis,2009,6,5
+Klaipėdos m. sav.,2009,6,4
+Palangos m. sav.,2009,6,0
+Klaipėdos r. sav.,2009,6,0
+Kretingos r. sav.,2009,6,0
+Skuodo r. sav.,2009,6,1
+Šilutės r. sav.,2009,6,0
+Marijampolės apskritis,2009,6,8
+Marijampolės r. sav.,2009,6,6
+Šakių r. sav.,2009,6,2
+Vilkaviškio r. sav.,2009,6,0
+Panevėžio apskritis,2009,6,24
+Panevėžio m. sav.,2009,6,16
+Biržų r. sav.,2009,6,0
+Kupiškio r. sav.,2009,6,0
+Panevėžio r. sav.,2009,6,3
+Pasvalio r. sav.,2009,6,0
+Rokiškio r. sav.,2009,6,5
+Šiaulių apskritis,2009,6,12
+Šiaulių m. sav.,2009,6,6
+Akmenės r. sav.,2009,6,1
+Joniškio r. sav.,2009,6,0
+Kelmės r. sav.,2009,6,2
+Radviliškio r. sav.,2009,6,0
+Šiaulių r. sav.,2009,6,1
+Tauragės apskritis,2009,6,5
+Jurbarko r. sav.,2009,6,1
+Šilalės r. sav.,2009,6,1
+Tauragės r. sav.,2009,6,3
+Telšių apskritis,2009,6,5
+Mažeikių r. sav.,2009,6,1
+Plungės r. sav.,2009,6,1
+Telšių r. sav.,2009,6,3
+Utenos apskritis,2009,6,14
+Visagino sav.,2009,6,0
+Anykščių r. sav.,2009,6,1
+Ignalinos r. sav.,2009,6,0
+Molėtų r. sav.,2009,6,2
+Utenos r. sav.,2009,6,8
+Zarasų r. sav.,2009,6,3
+Vilniaus apskritis,2009,6,19
+Vilniaus m. sav.,2009,6,9
+Šalčininkų r. sav.,2009,6,0
+Širvintų r. sav.,2009,6,3
+Švenčionių r. sav.,2009,6,2
+Ukmergės r. sav.,2009,6,4
+Vilniaus r. sav.,2009,6,1
+Trakų r. sav.,2009,6,0
+Alytaus apskritis,2009,7,5
+Alytaus m. sav.,2009,7,3
+Druskininkų sav.,2009,7,1
+Alytaus r. sav.,2009,7,0
+Lazdijų r. sav.,2009,7,0
+Varėnos r. sav.,2009,7,1
+Kauno apskritis,2009,7,139
+Kauno m. sav.,2009,7,87
+Jonavos r. sav.,2009,7,9
+Kaišiadorių r. sav.,2009,7,7
+Kauno r. sav.,2009,7,16
+Kėdainių r. sav.,2009,7,7
+Prienų r. sav.,2009,7,7
+Raseinių r. sav.,2009,7,6
+Klaipėdos apskritis,2009,7,23
+Klaipėdos m. sav.,2009,7,16
+Palangos m. sav.,2009,7,2
+Klaipėdos r. sav.,2009,7,2
+Kretingos r. sav.,2009,7,2
+Skuodo r. sav.,2009,7,0
+Šilutės r. sav.,2009,7,1
+Marijampolės apskritis,2009,7,13
+Marijampolės r. sav.,2009,7,6
+Šakių r. sav.,2009,7,1
+Vilkaviškio r. sav.,2009,7,6
+Panevėžio apskritis,2009,7,59
+Panevėžio m. sav.,2009,7,30
+Biržų r. sav.,2009,7,0
+Kupiškio r. sav.,2009,7,1
+Panevėžio r. sav.,2009,7,11
+Pasvalio r. sav.,2009,7,0
+Rokiškio r. sav.,2009,7,17
+Šiaulių apskritis,2009,7,31
+Šiaulių m. sav.,2009,7,14
+Akmenės r. sav.,2009,7,1
+Joniškio r. sav.,2009,7,1
+Kelmės r. sav.,2009,7,8
+Radviliškio r. sav.,2009,7,0
+Šiaulių r. sav.,2009,7,4
+Tauragės apskritis,2009,7,19
+Jurbarko r. sav.,2009,7,2
+Šilalės r. sav.,2009,7,2
+Tauragės r. sav.,2009,7,15
+Telšių apskritis,2009,7,5
+Mažeikių r. sav.,2009,7,4
+Plungės r. sav.,2009,7,0
+Telšių r. sav.,2009,7,1
+Utenos apskritis,2009,7,18
+Visagino sav.,2009,7,5
+Anykščių r. sav.,2009,7,2
+Ignalinos r. sav.,2009,7,1
+Molėtų r. sav.,2009,7,0
+Utenos r. sav.,2009,7,2
+Zarasų r. sav.,2009,7,8
+Vilniaus apskritis,2009,7,200
+Vilniaus m. sav.,2009,7,173
+Šalčininkų r. sav.,2009,7,2
+Širvintų r. sav.,2009,7,1
+Švenčionių r. sav.,2009,7,6
+Ukmergės r. sav.,2009,7,3
+Vilniaus r. sav.,2009,7,15
+Trakų r. sav.,2009,7,11
+Alytaus apskritis,2009,8,3
+Alytaus m. sav.,2009,8,0
+Druskininkų sav.,2009,8,1
+Alytaus r. sav.,2009,8,1
+Lazdijų r. sav.,2009,8,1
+Varėnos r. sav.,2009,8,0
+Kauno apskritis,2009,8,216
+Kauno m. sav.,2009,8,137
+Jonavos r. sav.,2009,8,12
+Kaišiadorių r. sav.,2009,8,4
+Kauno r. sav.,2009,8,27
+Kėdainių r. sav.,2009,8,15
+Prienų r. sav.,2009,8,10
+Raseinių r. sav.,2009,8,11
+Klaipėdos apskritis,2009,8,21
+Klaipėdos m. sav.,2009,8,8
+Palangos m. sav.,2009,8,1
+Klaipėdos r. sav.,2009,8,5
+Kretingos r. sav.,2009,8,3
+Skuodo r. sav.,2009,8,0
+Šilutės r. sav.,2009,8,4
+Marijampolės apskritis,2009,8,22
+Marijampolės r. sav.,2009,8,20
+Šakių r. sav.,2009,8,1
+Vilkaviškio r. sav.,2009,8,1
+Panevėžio apskritis,2009,8,94
+Panevėžio m. sav.,2009,8,47
+Biržų r. sav.,2009,8,0
+Kupiškio r. sav.,2009,8,4
+Panevėžio r. sav.,2009,8,28
+Pasvalio r. sav.,2009,8,4
+Rokiškio r. sav.,2009,8,11
+Šiaulių apskritis,2009,8,47
+Šiaulių m. sav.,2009,8,27
+Akmenės r. sav.,2009,8,2
+Joniškio r. sav.,2009,8,0
+Kelmės r. sav.,2009,8,2
+Radviliškio r. sav.,2009,8,0
+Šiaulių r. sav.,2009,8,8
+Tauragės apskritis,2009,8,17
+Jurbarko r. sav.,2009,8,1
+Šilalės r. sav.,2009,8,3
+Tauragės r. sav.,2009,8,13
+Telšių apskritis,2009,8,52
+Mažeikių r. sav.,2009,8,4
+Plungės r. sav.,2009,8,17
+Telšių r. sav.,2009,8,31
+Utenos apskritis,2009,8,43
+Visagino sav.,2009,8,0
+Anykščių r. sav.,2009,8,11
+Ignalinos r. sav.,2009,8,2
+Molėtų r. sav.,2009,8,2
+Utenos r. sav.,2009,8,18
+Zarasų r. sav.,2009,8,10
+Vilniaus apskritis,2009,8,157
+Vilniaus m. sav.,2009,8,131
+Šalčininkų r. sav.,2009,8,3
+Širvintų r. sav.,2009,8,1
+Švenčionių r. sav.,2009,8,4
+Ukmergės r. sav.,2009,8,1
+Vilniaus r. sav.,2009,8,17
+Trakų r. sav.,2009,8,13
+Alytaus apskritis,2009,9,4
+Alytaus m. sav.,2009,9,2
+Druskininkų sav.,2009,9,0
+Alytaus r. sav.,2009,9,0
+Lazdijų r. sav.,2009,9,0
+Varėnos r. sav.,2009,9,2
+Kauno apskritis,2009,9,165
+Kauno m. sav.,2009,9,99
+Jonavos r. sav.,2009,9,12
+Kaišiadorių r. sav.,2009,9,5
+Kauno r. sav.,2009,9,18
+Kėdainių r. sav.,2009,9,18
+Prienų r. sav.,2009,9,2
+Raseinių r. sav.,2009,9,11
+Klaipėdos apskritis,2009,9,27
+Klaipėdos m. sav.,2009,9,11
+Palangos m. sav.,2009,9,2
+Klaipėdos r. sav.,2009,9,8
+Kretingos r. sav.,2009,9,4
+Skuodo r. sav.,2009,9,0
+Šilutės r. sav.,2009,9,2
+Marijampolės apskritis,2009,9,27
+Marijampolės r. sav.,2009,9,15
+Šakių r. sav.,2009,9,2
+Vilkaviškio r. sav.,2009,9,10
+Panevėžio apskritis,2009,9,109
+Panevėžio m. sav.,2009,9,38
+Biržų r. sav.,2009,9,11
+Kupiškio r. sav.,2009,9,7
+Panevėžio r. sav.,2009,9,20
+Pasvalio r. sav.,2009,9,7
+Rokiškio r. sav.,2009,9,26
+Šiaulių apskritis,2009,9,78
+Šiaulių m. sav.,2009,9,21
+Akmenės r. sav.,2009,9,2
+Joniškio r. sav.,2009,9,2
+Kelmės r. sav.,2009,9,14
+Radviliškio r. sav.,2009,9,24
+Šiaulių r. sav.,2009,9,12
+Tauragės apskritis,2009,9,22
+Jurbarko r. sav.,2009,9,3
+Šilalės r. sav.,2009,9,2
+Tauragės r. sav.,2009,9,17
+Telšių apskritis,2009,9,62
+Mažeikių r. sav.,2009,9,14
+Plungės r. sav.,2009,9,25
+Telšių r. sav.,2009,9,23
+Utenos apskritis,2009,9,48
+Visagino sav.,2009,9,0
+Anykščių r. sav.,2009,9,8
+Ignalinos r. sav.,2009,9,2
+Molėtų r. sav.,2009,9,5
+Utenos r. sav.,2009,9,23
+Zarasų r. sav.,2009,9,10
+Vilniaus apskritis,2009,9,195
+Vilniaus m. sav.,2009,9,163
+Šalčininkų r. sav.,2009,9,0
+Širvintų r. sav.,2009,9,7
+Švenčionių r. sav.,2009,9,4
+Ukmergės r. sav.,2009,9,5
+Vilniaus r. sav.,2009,9,16
+Trakų r. sav.,2009,9,11
+Alytaus apskritis,2009,10,7
+Alytaus m. sav.,2009,10,2
+Druskininkų sav.,2009,10,0
+Alytaus r. sav.,2009,10,3
+Lazdijų r. sav.,2009,10,0
+Varėnos r. sav.,2009,10,2
+Kauno apskritis,2009,10,189
+Kauno m. sav.,2009,10,115
+Jonavos r. sav.,2009,10,11
+Kaišiadorių r. sav.,2009,10,12
+Kauno r. sav.,2009,10,23
+Kėdainių r. sav.,2009,10,9
+Prienų r. sav.,2009,10,7
+Raseinių r. sav.,2009,10,12
+Klaipėdos apskritis,2009,10,34
+Klaipėdos m. sav.,2009,10,16
+Palangos m. sav.,2009,10,3
+Klaipėdos r. sav.,2009,10,5
+Kretingos r. sav.,2009,10,6
+Skuodo r. sav.,2009,10,1
+Šilutės r. sav.,2009,10,3
+Marijampolės apskritis,2009,10,26
+Marijampolės r. sav.,2009,10,13
+Šakių r. sav.,2009,10,7
+Vilkaviškio r. sav.,2009,10,6
+Panevėžio apskritis,2009,10,133
+Panevėžio m. sav.,2009,10,68
+Biržų r. sav.,2009,10,7
+Kupiškio r. sav.,2009,10,15
+Panevėžio r. sav.,2009,10,20
+Pasvalio r. sav.,2009,10,2
+Rokiškio r. sav.,2009,10,21
+Šiaulių apskritis,2009,10,61
+Šiaulių m. sav.,2009,10,31
+Akmenės r. sav.,2009,10,2
+Joniškio r. sav.,2009,10,2
+Kelmės r. sav.,2009,10,7
+Radviliškio r. sav.,2009,10,7
+Šiaulių r. sav.,2009,10,6
+Tauragės apskritis,2009,10,22
+Jurbarko r. sav.,2009,10,2
+Šilalės r. sav.,2009,10,3
+Tauragės r. sav.,2009,10,17
+Telšių apskritis,2009,10,38
+Mažeikių r. sav.,2009,10,13
+Plungės r. sav.,2009,10,3
+Telšių r. sav.,2009,10,22
+Utenos apskritis,2009,10,36
+Visagino sav.,2009,10,1
+Anykščių r. sav.,2009,10,4
+Ignalinos r. sav.,2009,10,2
+Molėtų r. sav.,2009,10,3
+Utenos r. sav.,2009,10,21
+Zarasų r. sav.,2009,10,5
+Vilniaus apskritis,2009,10,145
+Vilniaus m. sav.,2009,10,122
+Šalčininkų r. sav.,2009,10,0
+Širvintų r. sav.,2009,10,3
+Švenčionių r. sav.,2009,10,4
+Ukmergės r. sav.,2009,10,13
+Vilniaus r. sav.,2009,10,3
+Trakų r. sav.,2009,10,9
+Alytaus apskritis,2009,11,7
+Alytaus m. sav.,2009,11,1
+Druskininkų sav.,2009,11,0
+Alytaus r. sav.,2009,11,0
+Lazdijų r. sav.,2009,11,0
+Varėnos r. sav.,2009,11,6
+Kauno apskritis,2009,11,80
+Kauno m. sav.,2009,11,41
+Jonavos r. sav.,2009,11,9
+Kaišiadorių r. sav.,2009,11,2
+Kauno r. sav.,2009,11,9
+Kėdainių r. sav.,2009,11,9
+Prienų r. sav.,2009,11,4
+Raseinių r. sav.,2009,11,6
+Klaipėdos apskritis,2009,11,21
+Klaipėdos m. sav.,2009,11,11
+Palangos m. sav.,2009,11,1
+Klaipėdos r. sav.,2009,11,2
+Kretingos r. sav.,2009,11,6
+Skuodo r. sav.,2009,11,0
+Šilutės r. sav.,2009,11,1
+Marijampolės apskritis,2009,11,8
+Marijampolės r. sav.,2009,11,6
+Šakių r. sav.,2009,11,0
+Vilkaviškio r. sav.,2009,11,2
+Panevėžio apskritis,2009,11,90
+Panevėžio m. sav.,2009,11,38
+Biržų r. sav.,2009,11,9
+Kupiškio r. sav.,2009,11,9
+Panevėžio r. sav.,2009,11,16
+Pasvalio r. sav.,2009,11,10
+Rokiškio r. sav.,2009,11,8
+Šiaulių apskritis,2009,11,31
+Šiaulių m. sav.,2009,11,11
+Akmenės r. sav.,2009,11,1
+Joniškio r. sav.,2009,11,2
+Kelmės r. sav.,2009,11,5
+Radviliškio r. sav.,2009,11,5
+Šiaulių r. sav.,2009,11,7
+Tauragės apskritis,2009,11,14
+Jurbarko r. sav.,2009,11,2
+Šilalės r. sav.,2009,11,0
+Tauragės r. sav.,2009,11,12
+Telšių apskritis,2009,11,25
+Mažeikių r. sav.,2009,11,6
+Plungės r. sav.,2009,11,7
+Telšių r. sav.,2009,11,12
+Utenos apskritis,2009,11,17
+Visagino sav.,2009,11,0
+Anykščių r. sav.,2009,11,2
+Ignalinos r. sav.,2009,11,0
+Molėtų r. sav.,2009,11,3
+Utenos r. sav.,2009,11,6
+Zarasų r. sav.,2009,11,6
+Vilniaus apskritis,2009,11,118
+Vilniaus m. sav.,2009,11,92
+Šalčininkų r. sav.,2009,11,0
+Širvintų r. sav.,2009,11,4
+Švenčionių r. sav.,2009,11,3
+Ukmergės r. sav.,2009,11,11
+Vilniaus r. sav.,2009,11,8
+Trakų r. sav.,2009,11,7
+Alytaus apskritis,2009,12,1
+Alytaus m. sav.,2009,12,1
+Druskininkų sav.,2009,12,0
+Alytaus r. sav.,2009,12,0
+Lazdijų r. sav.,2009,12,0
+Varėnos r. sav.,2009,12,0
+Kauno apskritis,2009,12,39
+Kauno m. sav.,2009,12,21
+Jonavos r. sav.,2009,12,4
+Kaišiadorių r. sav.,2009,12,1
+Kauno r. sav.,2009,12,8
+Kėdainių r. sav.,2009,12,3
+Prienų r. sav.,2009,12,1
+Raseinių r. sav.,2009,12,1
+Klaipėdos apskritis,2009,12,2
+Klaipėdos m. sav.,2009,12,0
+Palangos m. sav.,2009,12,0
+Klaipėdos r. sav.,2009,12,0
+Kretingos r. sav.,2009,12,2
+Skuodo r. sav.,2009,12,0
+Šilutės r. sav.,2009,12,0
+Marijampolės apskritis,2009,12,12
+Marijampolės r. sav.,2009,12,4
+Šakių r. sav.,2009,12,3
+Vilkaviškio r. sav.,2009,12,5
+Panevėžio apskritis,2009,12,35
+Panevėžio m. sav.,2009,12,16
+Biržų r. sav.,2009,12,3
+Kupiškio r. sav.,2009,12,0
+Panevėžio r. sav.,2009,12,10
+Pasvalio r. sav.,2009,12,2
+Rokiškio r. sav.,2009,12,4
+Šiaulių apskritis,2009,12,11
+Šiaulių m. sav.,2009,12,1
+Akmenės r. sav.,2009,12,0
+Joniškio r. sav.,2009,12,0
+Kelmės r. sav.,2009,12,5
+Radviliškio r. sav.,2009,12,0
+Šiaulių r. sav.,2009,12,2
+Tauragės apskritis,2009,12,9
+Jurbarko r. sav.,2009,12,0
+Šilalės r. sav.,2009,12,0
+Tauragės r. sav.,2009,12,9
+Telšių apskritis,2009,12,3
+Mažeikių r. sav.,2009,12,1
+Plungės r. sav.,2009,12,0
+Telšių r. sav.,2009,12,2
+Utenos apskritis,2009,12,6
+Visagino sav.,2009,12,0
+Anykščių r. sav.,2009,12,1
+Ignalinos r. sav.,2009,12,0
+Molėtų r. sav.,2009,12,0
+Utenos r. sav.,2009,12,4
+Zarasų r. sav.,2009,12,1
+Vilniaus apskritis,2009,12,35
+Vilniaus m. sav.,2009,12,26
+Šalčininkų r. sav.,2009,12,0
+Širvintų r. sav.,2009,12,0
+Švenčionių r. sav.,2009,12,1
+Ukmergės r. sav.,2009,12,3
+Vilniaus r. sav.,2009,12,5
+Trakų r. sav.,2009,12,3

@@ -1,0 +1,601 @@
+name,year,month,infection
+Alytaus apskritis,2004,3,1
+Alytaus m. sav.,2004,3,1
+Druskininkų sav.,2004,3,0
+Alytaus r. sav.,2004,3,0
+Lazdijų r. sav.,2004,3,0
+Varėnos r. sav.,2004,3,0
+Kauno apskritis,2004,3,22
+Kauno m. sav.,2004,3,18
+Jonavos r. sav.,2004,3,0
+Kaišiadorių r. sav.,2004,3,2
+Kauno r. sav.,2004,3,1
+Kėdainių r. sav.,2004,3,0
+Prienų r. sav.,2004,3,0
+Raseinių r. sav.,2004,3,1
+Klaipėdos apskritis,2004,3,1
+Klaipėdos m. sav.,2004,3,0
+Palangos m. sav.,2004,3,0
+Klaipėdos r. sav.,2004,3,0
+Kretingos r. sav.,2004,3,0
+Skuodo r. sav.,2004,3,0
+Šilutės r. sav.,2004,3,1
+Marijampolės apskritis,2004,3,1
+Marijampolės r. sav.,2004,3,0
+Šakių r. sav.,2004,3,0
+Vilkaviškio r. sav.,2004,3,1
+Panevėžio apskritis,2004,3,14
+Panevėžio m. sav.,2004,3,7
+Biržų r. sav.,2004,3,1
+Kupiškio r. sav.,2004,3,0
+Panevėžio r. sav.,2004,3,1
+Pasvalio r. sav.,2004,3,0
+Rokiškio r. sav.,2004,3,5
+Šiaulių apskritis,2004,3,6
+Šiaulių m. sav.,2004,3,4
+Akmenės r. sav.,2004,3,0
+Joniškio r. sav.,2004,3,0
+Kelmės r. sav.,2004,3,1
+Radviliškio r. sav.,2004,3,0
+Šiaulių r. sav.,2004,3,1
+Tauragės apskritis,2004,3,0
+Jurbarko r. sav.,2004,3,0
+Šilalės r. sav.,2004,3,0
+Tauragės r. sav.,2004,3,0
+Telšių apskritis,2004,3,4
+Mažeikių r. sav.,2004,3,1
+Plungės r. sav.,2004,3,0
+Telšių r. sav.,2004,3,3
+Utenos apskritis,2004,3,6
+Visagino sav.,2004,3,0
+Anykščių r. sav.,2004,3,3
+Ignalinos r. sav.,2004,3,0
+Molėtų r. sav.,2004,3,0
+Utenos r. sav.,2004,3,3
+Zarasų r. sav.,2004,3,0
+Vilniaus apskritis,2004,3,6
+Šalčininkų r. sav.,2004,3,0
+Širvintų r. sav.,2004,3,0
+Švenčionių r. sav.,2004,3,0
+Ukmergės r. sav.,2004,3,0
+Trakų r. sav.,2004,3,1
+Alytaus apskritis,2004,4,2
+Alytaus m. sav.,2004,4,1
+Druskininkų sav.,2004,4,0
+Alytaus r. sav.,2004,4,0
+Lazdijų r. sav.,2004,4,1
+Varėnos r. sav.,2004,4,0
+Kauno apskritis,2004,4,9
+Kauno m. sav.,2004,4,5
+Jonavos r. sav.,2004,4,0
+Kaišiadorių r. sav.,2004,4,1
+Kauno r. sav.,2004,4,1
+Kėdainių r. sav.,2004,4,2
+Prienų r. sav.,2004,4,0
+Raseinių r. sav.,2004,4,0
+Klaipėdos apskritis,2004,4,3
+Klaipėdos m. sav.,2004,4,0
+Palangos m. sav.,2004,4,2
+Klaipėdos r. sav.,2004,4,1
+Kretingos r. sav.,2004,4,0
+Skuodo r. sav.,2004,4,0
+Šilutės r. sav.,2004,4,0
+Marijampolės apskritis,2004,4,3
+Marijampolės r. sav.,2004,4,1
+Šakių r. sav.,2004,4,1
+Vilkaviškio r. sav.,2004,4,1
+Panevėžio apskritis,2004,4,12
+Panevėžio m. sav.,2004,4,5
+Biržų r. sav.,2004,4,0
+Kupiškio r. sav.,2004,4,0
+Panevėžio r. sav.,2004,4,1
+Pasvalio r. sav.,2004,4,0
+Rokiškio r. sav.,2004,4,6
+Šiaulių apskritis,2004,4,4
+Šiaulių m. sav.,2004,4,3
+Akmenės r. sav.,2004,4,0
+Joniškio r. sav.,2004,4,0
+Kelmės r. sav.,2004,4,0
+Radviliškio r. sav.,2004,4,0
+Šiaulių r. sav.,2004,4,1
+Tauragės apskritis,2004,4,2
+Jurbarko r. sav.,2004,4,0
+Šilalės r. sav.,2004,4,0
+Tauragės r. sav.,2004,4,2
+Telšių apskritis,2004,4,2
+Mažeikių r. sav.,2004,4,1
+Plungės r. sav.,2004,4,1
+Telšių r. sav.,2004,4,0
+Utenos apskritis,2004,4,5
+Visagino sav.,2004,4,1
+Anykščių r. sav.,2004,4,2
+Ignalinos r. sav.,2004,4,0
+Molėtų r. sav.,2004,4,0
+Utenos r. sav.,2004,4,2
+Zarasų r. sav.,2004,4,0
+Vilniaus apskritis,2004,4,4
+Šalčininkų r. sav.,2004,4,0
+Širvintų r. sav.,2004,4,0
+Švenčionių r. sav.,2004,4,0
+Ukmergės r. sav.,2004,4,0
+Trakų r. sav.,2004,4,2
+Alytaus apskritis,2004,5,0
+Alytaus m. sav.,2004,5,0
+Druskininkų sav.,2004,5,0
+Alytaus r. sav.,2004,5,0
+Lazdijų r. sav.,2004,5,0
+Varėnos r. sav.,2004,5,0
+Kauno apskritis,2004,5,17
+Kauno m. sav.,2004,5,13
+Jonavos r. sav.,2004,5,3
+Kaišiadorių r. sav.,2004,5,0
+Kauno r. sav.,2004,5,0
+Kėdainių r. sav.,2004,5,0
+Prienų r. sav.,2004,5,0
+Raseinių r. sav.,2004,5,1
+Klaipėdos apskritis,2004,5,7
+Klaipėdos m. sav.,2004,5,4
+Palangos m. sav.,2004,5,0
+Klaipėdos r. sav.,2004,5,1
+Kretingos r. sav.,2004,5,0
+Skuodo r. sav.,2004,5,0
+Šilutės r. sav.,2004,5,2
+Marijampolės apskritis,2004,5,0
+Marijampolės r. sav.,2004,5,0
+Šakių r. sav.,2004,5,0
+Vilkaviškio r. sav.,2004,5,0
+Panevėžio apskritis,2004,5,9
+Panevėžio m. sav.,2004,5,3
+Biržų r. sav.,2004,5,2
+Kupiškio r. sav.,2004,5,0
+Panevėžio r. sav.,2004,5,2
+Pasvalio r. sav.,2004,5,0
+Rokiškio r. sav.,2004,5,2
+Šiaulių apskritis,2004,5,8
+Šiaulių m. sav.,2004,5,1
+Akmenės r. sav.,2004,5,2
+Joniškio r. sav.,2004,5,0
+Kelmės r. sav.,2004,5,0
+Radviliškio r. sav.,2004,5,1
+Šiaulių r. sav.,2004,5,2
+Tauragės apskritis,2004,5,2
+Jurbarko r. sav.,2004,5,0
+Šilalės r. sav.,2004,5,0
+Tauragės r. sav.,2004,5,2
+Telšių apskritis,2004,5,4
+Mažeikių r. sav.,2004,5,1
+Plungės r. sav.,2004,5,0
+Telšių r. sav.,2004,5,3
+Utenos apskritis,2004,5,2
+Visagino sav.,2004,5,0
+Anykščių r. sav.,2004,5,0
+Ignalinos r. sav.,2004,5,0
+Molėtų r. sav.,2004,5,0
+Utenos r. sav.,2004,5,2
+Zarasų r. sav.,2004,5,0
+Vilniaus apskritis,2004,5,4
+Šalčininkų r. sav.,2004,5,0
+Širvintų r. sav.,2004,5,0
+Švenčionių r. sav.,2004,5,0
+Ukmergės r. sav.,2004,5,0
+Trakų r. sav.,2004,5,1
+Alytaus apskritis,2004,6,1
+Alytaus m. sav.,2004,6,1
+Druskininkų sav.,2004,6,0
+Alytaus r. sav.,2004,6,0
+Lazdijų r. sav.,2004,6,0
+Varėnos r. sav.,2004,6,0
+Kauno apskritis,2004,6,34
+Kauno m. sav.,2004,6,17
+Jonavos r. sav.,2004,6,5
+Kaišiadorių r. sav.,2004,6,1
+Kauno r. sav.,2004,6,5
+Kėdainių r. sav.,2004,6,2
+Prienų r. sav.,2004,6,1
+Raseinių r. sav.,2004,6,3
+Klaipėdos apskritis,2004,6,5
+Klaipėdos m. sav.,2004,6,4
+Palangos m. sav.,2004,6,0
+Klaipėdos r. sav.,2004,6,1
+Kretingos r. sav.,2004,6,0
+Skuodo r. sav.,2004,6,0
+Šilutės r. sav.,2004,6,0
+Marijampolės apskritis,2004,6,1
+Marijampolės r. sav.,2004,6,1
+Šakių r. sav.,2004,6,0
+Vilkaviškio r. sav.,2004,6,0
+Panevėžio apskritis,2004,6,13
+Panevėžio m. sav.,2004,6,7
+Biržų r. sav.,2004,6,0
+Kupiškio r. sav.,2004,6,0
+Panevėžio r. sav.,2004,6,3
+Pasvalio r. sav.,2004,6,0
+Rokiškio r. sav.,2004,6,3
+Šiaulių apskritis,2004,6,8
+Šiaulių m. sav.,2004,6,3
+Akmenės r. sav.,2004,6,1
+Joniškio r. sav.,2004,6,0
+Kelmės r. sav.,2004,6,0
+Radviliškio r. sav.,2004,6,0
+Šiaulių r. sav.,2004,6,3
+Tauragės apskritis,2004,6,1
+Jurbarko r. sav.,2004,6,1
+Šilalės r. sav.,2004,6,0
+Tauragės r. sav.,2004,6,0
+Telšių apskritis,2004,6,2
+Mažeikių r. sav.,2004,6,1
+Plungės r. sav.,2004,6,0
+Telšių r. sav.,2004,6,1
+Utenos apskritis,2004,6,6
+Visagino sav.,2004,6,0
+Anykščių r. sav.,2004,6,0
+Ignalinos r. sav.,2004,6,0
+Molėtų r. sav.,2004,6,1
+Utenos r. sav.,2004,6,5
+Zarasų r. sav.,2004,6,0
+Vilniaus apskritis,2004,6,25
+Šalčininkų r. sav.,2004,6,0
+Širvintų r. sav.,2004,6,0
+Švenčionių r. sav.,2004,6,0
+Ukmergės r. sav.,2004,6,3
+Trakų r. sav.,2004,6,1
+Alytaus apskritis,2004,7,4
+Alytaus m. sav.,2004,7,1
+Druskininkų sav.,2004,7,1
+Alytaus r. sav.,2004,7,1
+Lazdijų r. sav.,2004,7,1
+Varėnos r. sav.,2004,7,0
+Kauno apskritis,2004,7,63
+Kauno m. sav.,2004,7,41
+Jonavos r. sav.,2004,7,4
+Kaišiadorių r. sav.,2004,7,5
+Kauno r. sav.,2004,7,8
+Kėdainių r. sav.,2004,7,3
+Prienų r. sav.,2004,7,1
+Raseinių r. sav.,2004,7,1
+Klaipėdos apskritis,2004,7,11
+Klaipėdos m. sav.,2004,7,4
+Palangos m. sav.,2004,7,0
+Klaipėdos r. sav.,2004,7,2
+Kretingos r. sav.,2004,7,0
+Skuodo r. sav.,2004,7,0
+Šilutės r. sav.,2004,7,5
+Marijampolės apskritis,2004,7,3
+Marijampolės r. sav.,2004,7,1
+Šakių r. sav.,2004,7,0
+Vilkaviškio r. sav.,2004,7,2
+Panevėžio apskritis,2004,7,18
+Panevėžio m. sav.,2004,7,15
+Biržų r. sav.,2004,7,0
+Kupiškio r. sav.,2004,7,0
+Panevėžio r. sav.,2004,7,3
+Pasvalio r. sav.,2004,7,0
+Rokiškio r. sav.,2004,7,0
+Šiaulių apskritis,2004,7,10
+Šiaulių m. sav.,2004,7,5
+Akmenės r. sav.,2004,7,3
+Joniškio r. sav.,2004,7,0
+Kelmės r. sav.,2004,7,1
+Radviliškio r. sav.,2004,7,0
+Šiaulių r. sav.,2004,7,1
+Tauragės apskritis,2004,7,1
+Jurbarko r. sav.,2004,7,0
+Šilalės r. sav.,2004,7,1
+Tauragės r. sav.,2004,7,0
+Telšių apskritis,2004,7,8
+Mažeikių r. sav.,2004,7,0
+Plungės r. sav.,2004,7,1
+Telšių r. sav.,2004,7,7
+Utenos apskritis,2004,7,7
+Visagino sav.,2004,7,1
+Anykščių r. sav.,2004,7,0
+Ignalinos r. sav.,2004,7,0
+Molėtų r. sav.,2004,7,3
+Utenos r. sav.,2004,7,1
+Zarasų r. sav.,2004,7,2
+Vilniaus apskritis,2004,7,19
+Šalčininkų r. sav.,2004,7,0
+Širvintų r. sav.,2004,7,1
+Švenčionių r. sav.,2004,7,0
+Ukmergės r. sav.,2004,7,0
+Trakų r. sav.,2004,7,0
+Alytaus apskritis,2004,8,6
+Alytaus m. sav.,2004,8,4
+Druskininkų sav.,2004,8,2
+Alytaus r. sav.,2004,8,0
+Lazdijų r. sav.,2004,8,0
+Varėnos r. sav.,2004,8,0
+Kauno apskritis,2004,8,80
+Kauno m. sav.,2004,8,50
+Jonavos r. sav.,2004,8,7
+Kaišiadorių r. sav.,2004,8,2
+Kauno r. sav.,2004,8,14
+Kėdainių r. sav.,2004,8,1
+Prienų r. sav.,2004,8,3
+Raseinių r. sav.,2004,8,3
+Klaipėdos apskritis,2004,8,13
+Klaipėdos m. sav.,2004,8,4
+Palangos m. sav.,2004,8,0
+Klaipėdos r. sav.,2004,8,0
+Kretingos r. sav.,2004,8,3
+Skuodo r. sav.,2004,8,0
+Šilutės r. sav.,2004,8,6
+Marijampolės apskritis,2004,8,6
+Marijampolės r. sav.,2004,8,4
+Šakių r. sav.,2004,8,1
+Vilkaviškio r. sav.,2004,8,1
+Panevėžio apskritis,2004,8,38
+Panevėžio m. sav.,2004,8,28
+Biržų r. sav.,2004,8,0
+Kupiškio r. sav.,2004,8,0
+Panevėžio r. sav.,2004,8,8
+Pasvalio r. sav.,2004,8,0
+Rokiškio r. sav.,2004,8,2
+Šiaulių apskritis,2004,8,21
+Šiaulių m. sav.,2004,8,12
+Akmenės r. sav.,2004,8,0
+Joniškio r. sav.,2004,8,1
+Kelmės r. sav.,2004,8,0
+Radviliškio r. sav.,2004,8,1
+Šiaulių r. sav.,2004,8,7
+Tauragės apskritis,2004,8,5
+Jurbarko r. sav.,2004,8,0
+Šilalės r. sav.,2004,8,0
+Tauragės r. sav.,2004,8,5
+Telšių apskritis,2004,8,17
+Mažeikių r. sav.,2004,8,7
+Plungės r. sav.,2004,8,1
+Telšių r. sav.,2004,8,9
+Utenos apskritis,2004,8,5
+Visagino sav.,2004,8,0
+Anykščių r. sav.,2004,8,1
+Ignalinos r. sav.,2004,8,0
+Molėtų r. sav.,2004,8,0
+Utenos r. sav.,2004,8,4
+Zarasų r. sav.,2004,8,0
+Vilniaus apskritis,2004,8,53
+Šalčininkų r. sav.,2004,8,0
+Širvintų r. sav.,2004,8,0
+Švenčionių r. sav.,2004,8,2
+Ukmergės r. sav.,2004,8,1
+Trakų r. sav.,2004,8,1
+Alytaus apskritis,2004,9,3
+Alytaus m. sav.,2004,9,1
+Druskininkų sav.,2004,9,0
+Alytaus r. sav.,2004,9,0
+Lazdijų r. sav.,2004,9,2
+Varėnos r. sav.,2004,9,0
+Kauno apskritis,2004,9,75
+Kauno m. sav.,2004,9,54
+Jonavos r. sav.,2004,9,3
+Kaišiadorių r. sav.,2004,9,3
+Kauno r. sav.,2004,9,9
+Kėdainių r. sav.,2004,9,1
+Prienų r. sav.,2004,9,1
+Raseinių r. sav.,2004,9,4
+Klaipėdos apskritis,2004,9,17
+Klaipėdos m. sav.,2004,9,10
+Palangos m. sav.,2004,9,0
+Klaipėdos r. sav.,2004,9,2
+Kretingos r. sav.,2004,9,0
+Skuodo r. sav.,2004,9,0
+Šilutės r. sav.,2004,9,5
+Marijampolės apskritis,2004,9,8
+Marijampolės r. sav.,2004,9,2
+Šakių r. sav.,2004,9,2
+Vilkaviškio r. sav.,2004,9,4
+Panevėžio apskritis,2004,9,43
+Panevėžio m. sav.,2004,9,29
+Biržų r. sav.,2004,9,0
+Kupiškio r. sav.,2004,9,3
+Panevėžio r. sav.,2004,9,7
+Pasvalio r. sav.,2004,9,1
+Rokiškio r. sav.,2004,9,3
+Šiaulių apskritis,2004,9,30
+Šiaulių m. sav.,2004,9,7
+Akmenės r. sav.,2004,9,3
+Joniškio r. sav.,2004,9,0
+Kelmės r. sav.,2004,9,5
+Radviliškio r. sav.,2004,9,11
+Šiaulių r. sav.,2004,9,2
+Tauragės apskritis,2004,9,7
+Jurbarko r. sav.,2004,9,0
+Šilalės r. sav.,2004,9,0
+Tauragės r. sav.,2004,9,7
+Telšių apskritis,2004,9,20
+Mažeikių r. sav.,2004,9,10
+Plungės r. sav.,2004,9,5
+Telšių r. sav.,2004,9,5
+Utenos apskritis,2004,9,16
+Visagino sav.,2004,9,3
+Anykščių r. sav.,2004,9,1
+Ignalinos r. sav.,2004,9,0
+Molėtų r. sav.,2004,9,0
+Utenos r. sav.,2004,9,7
+Zarasų r. sav.,2004,9,5
+Vilniaus apskritis,2004,9,57
+Šalčininkų r. sav.,2004,9,0
+Širvintų r. sav.,2004,9,4
+Švenčionių r. sav.,2004,9,2
+Ukmergės r. sav.,2004,9,0
+Trakų r. sav.,2004,9,4
+Alytaus apskritis,2004,10,6
+Alytaus m. sav.,2004,10,5
+Druskininkų sav.,2004,10,0
+Alytaus r. sav.,2004,10,1
+Lazdijų r. sav.,2004,10,0
+Varėnos r. sav.,2004,10,0
+Kauno apskritis,2004,10,63
+Kauno m. sav.,2004,10,44
+Jonavos r. sav.,2004,10,2
+Kaišiadorių r. sav.,2004,10,0
+Kauno r. sav.,2004,10,7
+Kėdainių r. sav.,2004,10,2
+Prienų r. sav.,2004,10,1
+Raseinių r. sav.,2004,10,7
+Klaipėdos apskritis,2004,10,15
+Klaipėdos m. sav.,2004,10,5
+Palangos m. sav.,2004,10,0
+Klaipėdos r. sav.,2004,10,1
+Kretingos r. sav.,2004,10,2
+Skuodo r. sav.,2004,10,0
+Šilutės r. sav.,2004,10,7
+Marijampolės apskritis,2004,10,4
+Marijampolės r. sav.,2004,10,3
+Šakių r. sav.,2004,10,1
+Vilkaviškio r. sav.,2004,10,0
+Panevėžio apskritis,2004,10,50
+Panevėžio m. sav.,2004,10,33
+Biržų r. sav.,2004,10,0
+Kupiškio r. sav.,2004,10,3
+Panevėžio r. sav.,2004,10,7
+Pasvalio r. sav.,2004,10,2
+Rokiškio r. sav.,2004,10,5
+Šiaulių apskritis,2004,10,21
+Šiaulių m. sav.,2004,10,8
+Akmenės r. sav.,2004,10,0
+Joniškio r. sav.,2004,10,0
+Kelmės r. sav.,2004,10,6
+Radviliškio r. sav.,2004,10,0
+Šiaulių r. sav.,2004,10,2
+Tauragės apskritis,2004,10,8
+Jurbarko r. sav.,2004,10,2
+Šilalės r. sav.,2004,10,0
+Tauragės r. sav.,2004,10,6
+Telšių apskritis,2004,10,20
+Mažeikių r. sav.,2004,10,8
+Plungės r. sav.,2004,10,11
+Telšių r. sav.,2004,10,1
+Utenos apskritis,2004,10,11
+Visagino sav.,2004,10,0
+Anykščių r. sav.,2004,10,0
+Ignalinos r. sav.,2004,10,0
+Molėtų r. sav.,2004,10,0
+Utenos r. sav.,2004,10,10
+Zarasų r. sav.,2004,10,1
+Vilniaus apskritis,2004,10,57
+Šalčininkų r. sav.,2004,10,0
+Širvintų r. sav.,2004,10,1
+Švenčionių r. sav.,2004,10,4
+Ukmergės r. sav.,2004,10,2
+Trakų r. sav.,2004,10,2
+Alytaus apskritis,2004,11,4
+Alytaus m. sav.,2004,11,2
+Druskininkų sav.,2004,11,0
+Alytaus r. sav.,2004,11,2
+Lazdijų r. sav.,2004,11,0
+Varėnos r. sav.,2004,11,0
+Kauno apskritis,2004,11,37
+Kauno m. sav.,2004,11,30
+Jonavos r. sav.,2004,11,0
+Kaišiadorių r. sav.,2004,11,0
+Kauno r. sav.,2004,11,2
+Kėdainių r. sav.,2004,11,2
+Prienų r. sav.,2004,11,0
+Raseinių r. sav.,2004,11,3
+Klaipėdos apskritis,2004,11,10
+Klaipėdos m. sav.,2004,11,2
+Palangos m. sav.,2004,11,1
+Klaipėdos r. sav.,2004,11,1
+Kretingos r. sav.,2004,11,0
+Skuodo r. sav.,2004,11,0
+Šilutės r. sav.,2004,11,6
+Marijampolės apskritis,2004,11,3
+Marijampolės r. sav.,2004,11,1
+Šakių r. sav.,2004,11,0
+Vilkaviškio r. sav.,2004,11,2
+Panevėžio apskritis,2004,11,19
+Panevėžio m. sav.,2004,11,11
+Biržų r. sav.,2004,11,0
+Kupiškio r. sav.,2004,11,3
+Panevėžio r. sav.,2004,11,3
+Pasvalio r. sav.,2004,11,0
+Rokiškio r. sav.,2004,11,2
+Šiaulių apskritis,2004,11,25
+Šiaulių m. sav.,2004,11,15
+Akmenės r. sav.,2004,11,2
+Joniškio r. sav.,2004,11,0
+Kelmės r. sav.,2004,11,3
+Radviliškio r. sav.,2004,11,1
+Šiaulių r. sav.,2004,11,4
+Tauragės apskritis,2004,11,8
+Jurbarko r. sav.,2004,11,0
+Šilalės r. sav.,2004,11,1
+Tauragės r. sav.,2004,11,7
+Telšių apskritis,2004,11,9
+Mažeikių r. sav.,2004,11,0
+Plungės r. sav.,2004,11,4
+Telšių r. sav.,2004,11,5
+Utenos apskritis,2004,11,8
+Visagino sav.,2004,11,0
+Anykščių r. sav.,2004,11,0
+Ignalinos r. sav.,2004,11,1
+Molėtų r. sav.,2004,11,0
+Utenos r. sav.,2004,11,4
+Zarasų r. sav.,2004,11,3
+Vilniaus apskritis,2004,11,54
+Šalčininkų r. sav.,2004,11,0
+Širvintų r. sav.,2004,11,1
+Švenčionių r. sav.,2004,11,1
+Ukmergės r. sav.,2004,11,5
+Trakų r. sav.,2004,11,2
+Alytaus apskritis,2004,12,2
+Alytaus m. sav.,2004,12,2
+Druskininkų sav.,2004,12,0
+Alytaus r. sav.,2004,12,0
+Lazdijų r. sav.,2004,12,0
+Varėnos r. sav.,2004,12,0
+Kauno apskritis,2004,12,22
+Kauno m. sav.,2004,12,14
+Jonavos r. sav.,2004,12,2
+Kaišiadorių r. sav.,2004,12,0
+Kauno r. sav.,2004,12,2
+Kėdainių r. sav.,2004,12,1
+Prienų r. sav.,2004,12,2
+Raseinių r. sav.,2004,12,1
+Klaipėdos apskritis,2004,12,4
+Klaipėdos m. sav.,2004,12,3
+Palangos m. sav.,2004,12,0
+Klaipėdos r. sav.,2004,12,0
+Kretingos r. sav.,2004,12,0
+Skuodo r. sav.,2004,12,0
+Šilutės r. sav.,2004,12,1
+Marijampolės apskritis,2004,12,6
+Marijampolės r. sav.,2004,12,0
+Šakių r. sav.,2004,12,2
+Vilkaviškio r. sav.,2004,12,4
+Panevėžio apskritis,2004,12,16
+Panevėžio m. sav.,2004,12,10
+Biržų r. sav.,2004,12,1
+Kupiškio r. sav.,2004,12,0
+Panevėžio r. sav.,2004,12,3
+Pasvalio r. sav.,2004,12,0
+Rokiškio r. sav.,2004,12,2
+Šiaulių apskritis,2004,12,17
+Šiaulių m. sav.,2004,12,6
+Akmenės r. sav.,2004,12,1
+Joniškio r. sav.,2004,12,5
+Kelmės r. sav.,2004,12,3
+Radviliškio r. sav.,2004,12,0
+Šiaulių r. sav.,2004,12,2
+Tauragės apskritis,2004,12,3
+Jurbarko r. sav.,2004,12,0
+Šilalės r. sav.,2004,12,0
+Tauragės r. sav.,2004,12,3
+Telšių apskritis,2004,12,13
+Mažeikių r. sav.,2004,12,4
+Plungės r. sav.,2004,12,6
+Telšių r. sav.,2004,12,3
+Utenos apskritis,2004,12,4
+Visagino sav.,2004,12,0
+Anykščių r. sav.,2004,12,1
+Ignalinos r. sav.,2004,12,0
+Molėtų r. sav.,2004,12,0
+Utenos r. sav.,2004,12,2
+Zarasų r. sav.,2004,12,1
+Vilniaus apskritis,2004,12,19
+Šalčininkų r. sav.,2004,12,0
+Širvintų r. sav.,2004,12,0
+Švenčionių r. sav.,2004,12,0
+Ukmergės r. sav.,2004,12,0
+Trakų r. sav.,2004,12,2

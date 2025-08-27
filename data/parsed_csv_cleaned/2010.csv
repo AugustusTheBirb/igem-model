@@ -1,0 +1,745 @@
+name,year,month,infection
+Alytaus apskritis,2010,1,1
+Alytaus m. sav.,2010,1,0
+Druskininkų sav.,2010,1,0
+Alytaus r. sav.,2010,1,0
+Lazdijų r. sav.,2010,1,0
+Varėnos r. sav.,2010,1,1
+Kauno apskritis,2010,1,7
+Kauno m. sav.,2010,1,4
+Jonavos r. sav.,2010,1,1
+Kaišiadorių r. sav.,2010,1,0
+Kauno r. sav.,2010,1,0
+Kėdainių r. sav.,2010,1,0
+Prienų r. sav.,2010,1,2
+Raseinių r. sav.,2010,1,0
+Klaipėdos apskritis,2010,1,1
+Klaipėdos m. sav.,2010,1,0
+Palangos m. sav.,2010,1,0
+Klaipėdos r. sav.,2010,1,1
+Kretingos r. sav.,2010,1,0
+Skuodo r. sav.,2010,1,0
+Šilutės r. sav.,2010,1,0
+Marijampolės apskritis,2010,1,1
+Marijampolės r. sav.,2010,1,1
+Šakių r. sav.,2010,1,0
+Vilkaviškio r. sav.,2010,1,0
+Panevėžio apskritis,2010,1,27
+Panevėžio m. sav.,2010,1,16
+Biržų r. sav.,2010,1,3
+Kupiškio r. sav.,2010,1,0
+Panevėžio r. sav.,2010,1,4
+Pasvalio r. sav.,2010,1,0
+Rokiškio r. sav.,2010,1,4
+Šiaulių apskritis,2010,1,9
+Šiaulių m. sav.,2010,1,7
+Akmenės r. sav.,2010,1,0
+Joniškio r. sav.,2010,1,1
+Kelmės r. sav.,2010,1,1
+Radviliškio r. sav.,2010,1,0
+Šiaulių r. sav.,2010,1,0
+Tauragės apskritis,2010,1,6
+Jurbarko r. sav.,2010,1,1
+Šilalės r. sav.,2010,1,1
+Tauragės r. sav.,2010,1,4
+Telšių apskritis,2010,1,6
+Mažeikių r. sav.,2010,1,1
+Plungės r. sav.,2010,1,0
+Telšių r. sav.,2010,1,5
+Utenos apskritis,2010,1,4
+Visagino sav.,2010,1,0
+Anykščių r. sav.,2010,1,0
+Ignalinos r. sav.,2010,1,0
+Molėtų r. sav.,2010,1,0
+Utenos r. sav.,2010,1,3
+Zarasų r. sav.,2010,1,1
+Vilniaus apskritis,2010,1,23
+Vilniaus m. sav.,2010,1,16
+Šalčininkų r. sav.,2010,1,1
+Širvintų r. sav.,2010,1,2
+Švenčionių r. sav.,2010,1,0
+Ukmergės r. sav.,2010,1,0
+Vilniaus r. sav.,2010,1,4
+Trakų r. sav.,2010,1,0
+Alytaus apskritis,2010,2,2
+Alytaus m. sav.,2010,2,0
+Druskininkų sav.,2010,2,1
+Alytaus r. sav.,2010,2,0
+Lazdijų r. sav.,2010,2,0
+Varėnos r. sav.,2010,2,1
+Kauno apskritis,2010,2,8
+Kauno m. sav.,2010,2,5
+Jonavos r. sav.,2010,2,0
+Kaišiadorių r. sav.,2010,2,0
+Kauno r. sav.,2010,2,2
+Kėdainių r. sav.,2010,2,0
+Prienų r. sav.,2010,2,1
+Raseinių r. sav.,2010,2,0
+Klaipėdos apskritis,2010,2,3
+Klaipėdos m. sav.,2010,2,3
+Palangos m. sav.,2010,2,0
+Klaipėdos r. sav.,2010,2,0
+Kretingos r. sav.,2010,2,0
+Skuodo r. sav.,2010,2,0
+Šilutės r. sav.,2010,2,0
+Marijampolės apskritis,2010,2,3
+Marijampolės r. sav.,2010,2,1
+Šakių r. sav.,2010,2,1
+Vilkaviškio r. sav.,2010,2,1
+Panevėžio apskritis,2010,2,8
+Panevėžio m. sav.,2010,2,5
+Biržų r. sav.,2010,2,1
+Kupiškio r. sav.,2010,2,0
+Panevėžio r. sav.,2010,2,2
+Pasvalio r. sav.,2010,2,0
+Rokiškio r. sav.,2010,2,0
+Šiaulių apskritis,2010,2,5
+Šiaulių m. sav.,2010,2,3
+Akmenės r. sav.,2010,2,0
+Joniškio r. sav.,2010,2,0
+Kelmės r. sav.,2010,2,0
+Radviliškio r. sav.,2010,2,1
+Šiaulių r. sav.,2010,2,1
+Tauragės apskritis,2010,2,3
+Jurbarko r. sav.,2010,2,0
+Šilalės r. sav.,2010,2,0
+Tauragės r. sav.,2010,2,3
+Telšių apskritis,2010,2,0
+Mažeikių r. sav.,2010,2,0
+Plungės r. sav.,2010,2,0
+Telšių r. sav.,2010,2,0
+Utenos apskritis,2010,2,5
+Visagino sav.,2010,2,0
+Anykščių r. sav.,2010,2,1
+Ignalinos r. sav.,2010,2,0
+Molėtų r. sav.,2010,2,0
+Utenos r. sav.,2010,2,3
+Zarasų r. sav.,2010,2,1
+Vilniaus apskritis,2010,2,11
+Vilniaus m. sav.,2010,2,8
+Šalčininkų r. sav.,2010,2,0
+Širvintų r. sav.,2010,2,1
+Švenčionių r. sav.,2010,2,0
+Ukmergės r. sav.,2010,2,0
+Vilniaus r. sav.,2010,2,2
+Trakų r. sav.,2010,2,0
+Alytaus apskritis,2010,3,0
+Alytaus m. sav.,2010,3,0
+Druskininkų sav.,2010,3,0
+Alytaus r. sav.,2010,3,0
+Lazdijų r. sav.,2010,3,0
+Varėnos r. sav.,2010,3,0
+Kauno apskritis,2010,3,2
+Kauno m. sav.,2010,3,0
+Jonavos r. sav.,2010,3,2
+Kaišiadorių r. sav.,2010,3,0
+Kauno r. sav.,2010,3,0
+Kėdainių r. sav.,2010,3,0
+Prienų r. sav.,2010,3,0
+Raseinių r. sav.,2010,3,0
+Klaipėdos apskritis,2010,3,2
+Klaipėdos m. sav.,2010,3,2
+Palangos m. sav.,2010,3,0
+Klaipėdos r. sav.,2010,3,0
+Kretingos r. sav.,2010,3,0
+Skuodo r. sav.,2010,3,0
+Šilutės r. sav.,2010,3,0
+Marijampolės apskritis,2010,3,1
+Marijampolės r. sav.,2010,3,1
+Šakių r. sav.,2010,3,0
+Vilkaviškio r. sav.,2010,3,0
+Panevėžio apskritis,2010,3,11
+Panevėžio m. sav.,2010,3,7
+Biržų r. sav.,2010,3,1
+Kupiškio r. sav.,2010,3,0
+Panevėžio r. sav.,2010,3,1
+Pasvalio r. sav.,2010,3,0
+Rokiškio r. sav.,2010,3,2
+Šiaulių apskritis,2010,3,2
+Šiaulių m. sav.,2010,3,1
+Akmenės r. sav.,2010,3,0
+Joniškio r. sav.,2010,3,0
+Kelmės r. sav.,2010,3,1
+Radviliškio r. sav.,2010,3,0
+Šiaulių r. sav.,2010,3,0
+Tauragės apskritis,2010,3,0
+Jurbarko r. sav.,2010,3,0
+Šilalės r. sav.,2010,3,0
+Tauragės r. sav.,2010,3,0
+Telšių apskritis,2010,3,1
+Mažeikių r. sav.,2010,3,0
+Plungės r. sav.,2010,3,0
+Telšių r. sav.,2010,3,1
+Utenos apskritis,2010,3,1
+Visagino sav.,2010,3,0
+Anykščių r. sav.,2010,3,0
+Ignalinos r. sav.,2010,3,0
+Molėtų r. sav.,2010,3,1
+Utenos r. sav.,2010,3,0
+Zarasų r. sav.,2010,3,0
+Vilniaus apskritis,2010,3,23
+Vilniaus m. sav.,2010,3,20
+Šalčininkų r. sav.,2010,3,0
+Širvintų r. sav.,2010,3,2
+Švenčionių r. sav.,2010,3,0
+Ukmergės r. sav.,2010,3,0
+Vilniaus r. sav.,2010,3,1
+Trakų r. sav.,2010,3,1
+Alytaus apskritis,2010,4,0
+Alytaus m. sav.,2010,4,0
+Druskininkų sav.,2010,4,0
+Alytaus r. sav.,2010,4,0
+Lazdijų r. sav.,2010,4,0
+Varėnos r. sav.,2010,4,0
+Kauno apskritis,2010,4,7
+Kauno m. sav.,2010,4,5
+Jonavos r. sav.,2010,4,1
+Kaišiadorių r. sav.,2010,4,0
+Kauno r. sav.,2010,4,1
+Kėdainių r. sav.,2010,4,0
+Prienų r. sav.,2010,4,0
+Raseinių r. sav.,2010,4,0
+Klaipėdos apskritis,2010,4,0
+Klaipėdos m. sav.,2010,4,0
+Palangos m. sav.,2010,4,0
+Klaipėdos r. sav.,2010,4,0
+Kretingos r. sav.,2010,4,0
+Skuodo r. sav.,2010,4,0
+Šilutės r. sav.,2010,4,0
+Marijampolės apskritis,2010,4,2
+Marijampolės r. sav.,2010,4,2
+Šakių r. sav.,2010,4,0
+Vilkaviškio r. sav.,2010,4,0
+Panevėžio apskritis,2010,4,8
+Panevėžio m. sav.,2010,4,2
+Biržų r. sav.,2010,4,0
+Kupiškio r. sav.,2010,4,0
+Panevėžio r. sav.,2010,4,0
+Pasvalio r. sav.,2010,4,1
+Rokiškio r. sav.,2010,4,5
+Šiaulių apskritis,2010,4,5
+Šiaulių m. sav.,2010,4,1
+Akmenės r. sav.,2010,4,0
+Joniškio r. sav.,2010,4,0
+Kelmės r. sav.,2010,4,0
+Radviliškio r. sav.,2010,4,2
+Šiaulių r. sav.,2010,4,2
+Tauragės apskritis,2010,4,2
+Jurbarko r. sav.,2010,4,0
+Šilalės r. sav.,2010,4,1
+Tauragės r. sav.,2010,4,1
+Telšių apskritis,2010,4,2
+Mažeikių r. sav.,2010,4,0
+Plungės r. sav.,2010,4,1
+Telšių r. sav.,2010,4,1
+Utenos apskritis,2010,4,2
+Visagino sav.,2010,4,0
+Anykščių r. sav.,2010,4,0
+Ignalinos r. sav.,2010,4,0
+Molėtų r. sav.,2010,4,0
+Utenos r. sav.,2010,4,1
+Zarasų r. sav.,2010,4,1
+Vilniaus apskritis,2010,4,13
+Vilniaus m. sav.,2010,4,6
+Šalčininkų r. sav.,2010,4,0
+Širvintų r. sav.,2010,4,1
+Švenčionių r. sav.,2010,4,0
+Ukmergės r. sav.,2010,4,2
+Vilniaus r. sav.,2010,4,4
+Trakų r. sav.,2010,4,2
+Alytaus apskritis,2010,5,4
+Alytaus m. sav.,2010,5,0
+Druskininkų sav.,2010,5,2
+Alytaus r. sav.,2010,5,0
+Lazdijų r. sav.,2010,5,1
+Varėnos r. sav.,2010,5,1
+Kauno apskritis,2010,5,25
+Kauno m. sav.,2010,5,13
+Jonavos r. sav.,2010,5,3
+Kaišiadorių r. sav.,2010,5,3
+Kauno r. sav.,2010,5,3
+Kėdainių r. sav.,2010,5,0
+Prienų r. sav.,2010,5,1
+Raseinių r. sav.,2010,5,2
+Klaipėdos apskritis,2010,5,5
+Klaipėdos m. sav.,2010,5,2
+Palangos m. sav.,2010,5,0
+Klaipėdos r. sav.,2010,5,0
+Kretingos r. sav.,2010,5,2
+Skuodo r. sav.,2010,5,0
+Šilutės r. sav.,2010,5,1
+Marijampolės apskritis,2010,5,3
+Marijampolės r. sav.,2010,5,2
+Šakių r. sav.,2010,5,1
+Vilkaviškio r. sav.,2010,5,0
+Panevėžio apskritis,2010,5,16
+Panevėžio m. sav.,2010,5,6
+Biržų r. sav.,2010,5,2
+Kupiškio r. sav.,2010,5,2
+Panevėžio r. sav.,2010,5,1
+Pasvalio r. sav.,2010,5,0
+Rokiškio r. sav.,2010,5,5
+Šiaulių apskritis,2010,5,7
+Šiaulių m. sav.,2010,5,4
+Akmenės r. sav.,2010,5,0
+Joniškio r. sav.,2010,5,1
+Kelmės r. sav.,2010,5,0
+Radviliškio r. sav.,2010,5,1
+Šiaulių r. sav.,2010,5,1
+Tauragės apskritis,2010,5,4
+Jurbarko r. sav.,2010,5,1
+Šilalės r. sav.,2010,5,1
+Tauragės r. sav.,2010,5,2
+Telšių apskritis,2010,5,4
+Mažeikių r. sav.,2010,5,1
+Plungės r. sav.,2010,5,2
+Telšių r. sav.,2010,5,1
+Utenos apskritis,2010,5,5
+Visagino sav.,2010,5,2
+Anykščių r. sav.,2010,5,0
+Ignalinos r. sav.,2010,5,0
+Molėtų r. sav.,2010,5,0
+Utenos r. sav.,2010,5,1
+Zarasų r. sav.,2010,5,2
+Vilniaus apskritis,2010,5,13
+Vilniaus m. sav.,2010,5,10
+Šalčininkų r. sav.,2010,5,1
+Širvintų r. sav.,2010,5,0
+Švenčionių r. sav.,2010,5,1
+Ukmergės r. sav.,2010,5,1
+Vilniaus r. sav.,2010,5,0
+Trakų r. sav.,2010,5,3
+Alytaus apskritis,2010,6,3
+Alytaus m. sav.,2010,6,0
+Druskininkų sav.,2010,6,0
+Alytaus r. sav.,2010,6,1
+Lazdijų r. sav.,2010,6,0
+Varėnos r. sav.,2010,6,2
+Kauno apskritis,2010,6,40
+Kauno m. sav.,2010,6,23
+Jonavos r. sav.,2010,6,2
+Kaišiadorių r. sav.,2010,6,4
+Kauno r. sav.,2010,6,2
+Kėdainių r. sav.,2010,6,3
+Prienų r. sav.,2010,6,3
+Raseinių r. sav.,2010,6,3
+Klaipėdos apskritis,2010,6,16
+Klaipėdos m. sav.,2010,6,2
+Palangos m. sav.,2010,6,4
+Klaipėdos r. sav.,2010,6,3
+Kretingos r. sav.,2010,6,4
+Skuodo r. sav.,2010,6,0
+Šilutės r. sav.,2010,6,3
+Marijampolės apskritis,2010,6,8
+Marijampolės r. sav.,2010,6,3
+Šakių r. sav.,2010,6,3
+Vilkaviškio r. sav.,2010,6,2
+Panevėžio apskritis,2010,6,20
+Panevėžio m. sav.,2010,6,7
+Biržų r. sav.,2010,6,3
+Kupiškio r. sav.,2010,6,3
+Panevėžio r. sav.,2010,6,1
+Pasvalio r. sav.,2010,6,0
+Rokiškio r. sav.,2010,6,6
+Šiaulių apskritis,2010,6,4
+Šiaulių m. sav.,2010,6,2
+Akmenės r. sav.,2010,6,0
+Joniškio r. sav.,2010,6,0
+Kelmės r. sav.,2010,6,1
+Radviliškio r. sav.,2010,6,1
+Šiaulių r. sav.,2010,6,0
+Tauragės apskritis,2010,6,5
+Jurbarko r. sav.,2010,6,0
+Šilalės r. sav.,2010,6,3
+Tauragės r. sav.,2010,6,2
+Telšių apskritis,2010,6,7
+Mažeikių r. sav.,2010,6,1
+Plungės r. sav.,2010,6,2
+Telšių r. sav.,2010,6,4
+Utenos apskritis,2010,6,16
+Visagino sav.,2010,6,1
+Anykščių r. sav.,2010,6,4
+Ignalinos r. sav.,2010,6,2
+Molėtų r. sav.,2010,6,0
+Utenos r. sav.,2010,6,4
+Zarasų r. sav.,2010,6,5
+Vilniaus apskritis,2010,6,75
+Vilniaus m. sav.,2010,6,59
+Šalčininkų r. sav.,2010,6,0
+Širvintų r. sav.,2010,6,0
+Švenčionių r. sav.,2010,6,2
+Ukmergės r. sav.,2010,6,6
+Vilniaus r. sav.,2010,6,8
+Trakų r. sav.,2010,6,5
+Alytaus apskritis,2010,7,1
+Alytaus m. sav.,2010,7,0
+Druskininkų sav.,2010,7,1
+Alytaus r. sav.,2010,7,0
+Lazdijų r. sav.,2010,7,0
+Varėnos r. sav.,2010,7,0
+Kauno apskritis,2010,7,117
+Kauno m. sav.,2010,7,77
+Jonavos r. sav.,2010,7,5
+Kaišiadorių r. sav.,2010,7,7
+Kauno r. sav.,2010,7,10
+Kėdainių r. sav.,2010,7,11
+Prienų r. sav.,2010,7,3
+Raseinių r. sav.,2010,7,4
+Klaipėdos apskritis,2010,7,17
+Klaipėdos m. sav.,2010,7,9
+Palangos m. sav.,2010,7,1
+Klaipėdos r. sav.,2010,7,3
+Kretingos r. sav.,2010,7,2
+Skuodo r. sav.,2010,7,1
+Šilutės r. sav.,2010,7,1
+Marijampolės apskritis,2010,7,3
+Marijampolės r. sav.,2010,7,1
+Šakių r. sav.,2010,7,1
+Vilkaviškio r. sav.,2010,7,1
+Panevėžio apskritis,2010,7,39
+Panevėžio m. sav.,2010,7,19
+Biržų r. sav.,2010,7,2
+Kupiškio r. sav.,2010,7,6
+Panevėžio r. sav.,2010,7,4
+Pasvalio r. sav.,2010,7,2
+Rokiškio r. sav.,2010,7,6
+Šiaulių apskritis,2010,7,13
+Šiaulių m. sav.,2010,7,7
+Akmenės r. sav.,2010,7,0
+Joniškio r. sav.,2010,7,0
+Kelmės r. sav.,2010,7,3
+Radviliškio r. sav.,2010,7,3
+Šiaulių r. sav.,2010,7,0
+Tauragės apskritis,2010,7,12
+Jurbarko r. sav.,2010,7,1
+Šilalės r. sav.,2010,7,0
+Tauragės r. sav.,2010,7,11
+Telšių apskritis,2010,7,20
+Mažeikių r. sav.,2010,7,4
+Plungės r. sav.,2010,7,0
+Telšių r. sav.,2010,7,16
+Utenos apskritis,2010,7,8
+Visagino sav.,2010,7,0
+Anykščių r. sav.,2010,7,4
+Ignalinos r. sav.,2010,7,0
+Molėtų r. sav.,2010,7,0
+Utenos r. sav.,2010,7,1
+Zarasų r. sav.,2010,7,3
+Vilniaus apskritis,2010,7,124
+Vilniaus m. sav.,2010,7,105
+Šalčininkų r. sav.,2010,7,1
+Širvintų r. sav.,2010,7,0
+Švenčionių r. sav.,2010,7,4
+Ukmergės r. sav.,2010,7,5
+Vilniaus r. sav.,2010,7,9
+Trakų r. sav.,2010,7,16
+Alytaus apskritis,2010,8,5
+Alytaus m. sav.,2010,8,2
+Druskininkų sav.,2010,8,0
+Alytaus r. sav.,2010,8,3
+Lazdijų r. sav.,2010,8,0
+Varėnos r. sav.,2010,8,0
+Kauno apskritis,2010,8,122
+Kauno m. sav.,2010,8,75
+Jonavos r. sav.,2010,8,10
+Kaišiadorių r. sav.,2010,8,6
+Kauno r. sav.,2010,8,14
+Kėdainių r. sav.,2010,8,7
+Prienų r. sav.,2010,8,7
+Raseinių r. sav.,2010,8,3
+Klaipėdos apskritis,2010,8,16
+Klaipėdos m. sav.,2010,8,6
+Palangos m. sav.,2010,8,2
+Klaipėdos r. sav.,2010,8,2
+Kretingos r. sav.,2010,8,1
+Skuodo r. sav.,2010,8,1
+Šilutės r. sav.,2010,8,4
+Marijampolės apskritis,2010,8,6
+Marijampolės r. sav.,2010,8,5
+Šakių r. sav.,2010,8,1
+Vilkaviškio r. sav.,2010,8,0
+Panevėžio apskritis,2010,8,31
+Panevėžio m. sav.,2010,8,21
+Biržų r. sav.,2010,8,1
+Kupiškio r. sav.,2010,8,0
+Panevėžio r. sav.,2010,8,5
+Pasvalio r. sav.,2010,8,2
+Rokiškio r. sav.,2010,8,2
+Šiaulių apskritis,2010,8,19
+Šiaulių m. sav.,2010,8,4
+Akmenės r. sav.,2010,8,0
+Joniškio r. sav.,2010,8,1
+Kelmės r. sav.,2010,8,3
+Radviliškio r. sav.,2010,8,2
+Šiaulių r. sav.,2010,8,2
+Tauragės apskritis,2010,8,8
+Jurbarko r. sav.,2010,8,0
+Šilalės r. sav.,2010,8,0
+Tauragės r. sav.,2010,8,8
+Telšių apskritis,2010,8,32
+Mažeikių r. sav.,2010,8,5
+Plungės r. sav.,2010,8,11
+Telšių r. sav.,2010,8,16
+Utenos apskritis,2010,8,17
+Visagino sav.,2010,8,0
+Anykščių r. sav.,2010,8,7
+Ignalinos r. sav.,2010,8,3
+Molėtų r. sav.,2010,8,2
+Utenos r. sav.,2010,8,1
+Zarasų r. sav.,2010,8,4
+Vilniaus apskritis,2010,8,140
+Vilniaus m. sav.,2010,8,117
+Šalčininkų r. sav.,2010,8,1
+Širvintų r. sav.,2010,8,5
+Švenčionių r. sav.,2010,8,3
+Ukmergės r. sav.,2010,8,6
+Vilniaus r. sav.,2010,8,8
+Trakų r. sav.,2010,8,11
+Alytaus apskritis,2010,9,5
+Alytaus m. sav.,2010,9,1
+Druskininkų sav.,2010,9,0
+Alytaus r. sav.,2010,9,0
+Lazdijų r. sav.,2010,9,0
+Varėnos r. sav.,2010,9,4
+Kauno apskritis,2010,9,101
+Kauno m. sav.,2010,9,53
+Jonavos r. sav.,2010,9,9
+Kaišiadorių r. sav.,2010,9,10
+Kauno r. sav.,2010,9,12
+Kėdainių r. sav.,2010,9,6
+Prienų r. sav.,2010,9,6
+Raseinių r. sav.,2010,9,5
+Klaipėdos apskritis,2010,9,34
+Klaipėdos m. sav.,2010,9,15
+Palangos m. sav.,2010,9,7
+Klaipėdos r. sav.,2010,9,5
+Kretingos r. sav.,2010,9,4
+Skuodo r. sav.,2010,9,0
+Šilutės r. sav.,2010,9,3
+Marijampolės apskritis,2010,9,16
+Marijampolės r. sav.,2010,9,10
+Šakių r. sav.,2010,9,2
+Vilkaviškio r. sav.,2010,9,4
+Panevėžio apskritis,2010,9,45
+Panevėžio m. sav.,2010,9,19
+Biržų r. sav.,2010,9,5
+Kupiškio r. sav.,2010,9,3
+Panevėžio r. sav.,2010,9,8
+Pasvalio r. sav.,2010,9,1
+Rokiškio r. sav.,2010,9,9
+Šiaulių apskritis,2010,9,30
+Šiaulių m. sav.,2010,9,13
+Akmenės r. sav.,2010,9,0
+Joniškio r. sav.,2010,9,2
+Kelmės r. sav.,2010,9,3
+Radviliškio r. sav.,2010,9,3
+Šiaulių r. sav.,2010,9,4
+Tauragės apskritis,2010,9,22
+Jurbarko r. sav.,2010,9,1
+Šilalės r. sav.,2010,9,3
+Tauragės r. sav.,2010,9,18
+Telšių apskritis,2010,9,46
+Mažeikių r. sav.,2010,9,11
+Plungės r. sav.,2010,9,14
+Telšių r. sav.,2010,9,21
+Utenos apskritis,2010,9,10
+Visagino sav.,2010,9,0
+Anykščių r. sav.,2010,9,8
+Ignalinos r. sav.,2010,9,1
+Molėtų r. sav.,2010,9,0
+Utenos r. sav.,2010,9,1
+Zarasų r. sav.,2010,9,0
+Vilniaus apskritis,2010,9,160
+Vilniaus m. sav.,2010,9,140
+Šalčininkų r. sav.,2010,9,0
+Širvintų r. sav.,2010,9,3
+Švenčionių r. sav.,2010,9,2
+Ukmergės r. sav.,2010,9,3
+Vilniaus r. sav.,2010,9,12
+Trakų r. sav.,2010,9,12
+Alytaus apskritis,2010,10,6
+Alytaus m. sav.,2010,10,3
+Druskininkų sav.,2010,10,0
+Alytaus r. sav.,2010,10,1
+Lazdijų r. sav.,2010,10,1
+Varėnos r. sav.,2010,10,1
+Kauno apskritis,2010,10,88
+Kauno m. sav.,2010,10,45
+Jonavos r. sav.,2010,10,3
+Kaišiadorių r. sav.,2010,10,6
+Kauno r. sav.,2010,10,20
+Kėdainių r. sav.,2010,10,6
+Prienų r. sav.,2010,10,3
+Raseinių r. sav.,2010,10,5
+Klaipėdos apskritis,2010,10,26
+Klaipėdos m. sav.,2010,10,15
+Palangos m. sav.,2010,10,4
+Klaipėdos r. sav.,2010,10,3
+Kretingos r. sav.,2010,10,1
+Skuodo r. sav.,2010,10,2
+Šilutės r. sav.,2010,10,1
+Marijampolės apskritis,2010,10,19
+Marijampolės r. sav.,2010,10,16
+Šakių r. sav.,2010,10,2
+Vilkaviškio r. sav.,2010,10,1
+Panevėžio apskritis,2010,10,62
+Panevėžio m. sav.,2010,10,31
+Biržų r. sav.,2010,10,4
+Kupiškio r. sav.,2010,10,12
+Panevėžio r. sav.,2010,10,10
+Pasvalio r. sav.,2010,10,1
+Rokiškio r. sav.,2010,10,4
+Šiaulių apskritis,2010,10,33
+Šiaulių m. sav.,2010,10,14
+Akmenės r. sav.,2010,10,0
+Joniškio r. sav.,2010,10,4
+Kelmės r. sav.,2010,10,1
+Radviliškio r. sav.,2010,10,2
+Šiaulių r. sav.,2010,10,7
+Tauragės apskritis,2010,10,6
+Jurbarko r. sav.,2010,10,0
+Šilalės r. sav.,2010,10,0
+Tauragės r. sav.,2010,10,6
+Telšių apskritis,2010,10,25
+Mažeikių r. sav.,2010,10,5
+Plungės r. sav.,2010,10,9
+Telšių r. sav.,2010,10,11
+Utenos apskritis,2010,10,5
+Visagino sav.,2010,10,0
+Anykščių r. sav.,2010,10,3
+Ignalinos r. sav.,2010,10,0
+Molėtų r. sav.,2010,10,1
+Utenos r. sav.,2010,10,0
+Zarasų r. sav.,2010,10,1
+Vilniaus apskritis,2010,10,114
+Vilniaus m. sav.,2010,10,90
+Šalčininkų r. sav.,2010,10,0
+Širvintų r. sav.,2010,10,2
+Švenčionių r. sav.,2010,10,10
+Ukmergės r. sav.,2010,10,3
+Vilniaus r. sav.,2010,10,9
+Trakų r. sav.,2010,10,8
+Alytaus apskritis,2010,11,3
+Alytaus m. sav.,2010,11,2
+Druskininkų sav.,2010,11,0
+Alytaus r. sav.,2010,11,0
+Lazdijų r. sav.,2010,11,1
+Varėnos r. sav.,2010,11,0
+Kauno apskritis,2010,11,60
+Kauno m. sav.,2010,11,42
+Jonavos r. sav.,2010,11,0
+Kaišiadorių r. sav.,2010,11,3
+Kauno r. sav.,2010,11,5
+Kėdainių r. sav.,2010,11,6
+Prienų r. sav.,2010,11,2
+Raseinių r. sav.,2010,11,2
+Klaipėdos apskritis,2010,11,20
+Klaipėdos m. sav.,2010,11,7
+Palangos m. sav.,2010,11,3
+Klaipėdos r. sav.,2010,11,2
+Kretingos r. sav.,2010,11,0
+Skuodo r. sav.,2010,11,3
+Šilutės r. sav.,2010,11,5
+Marijampolės apskritis,2010,11,4
+Marijampolės r. sav.,2010,11,3
+Šakių r. sav.,2010,11,0
+Vilkaviškio r. sav.,2010,11,1
+Panevėžio apskritis,2010,11,13
+Panevėžio m. sav.,2010,11,5
+Biržų r. sav.,2010,11,3
+Kupiškio r. sav.,2010,11,2
+Panevėžio r. sav.,2010,11,1
+Pasvalio r. sav.,2010,11,1
+Rokiškio r. sav.,2010,11,1
+Šiaulių apskritis,2010,11,24
+Šiaulių m. sav.,2010,11,14
+Akmenės r. sav.,2010,11,0
+Joniškio r. sav.,2010,11,0
+Kelmės r. sav.,2010,11,3
+Radviliškio r. sav.,2010,11,2
+Šiaulių r. sav.,2010,11,5
+Tauragės apskritis,2010,11,8
+Jurbarko r. sav.,2010,11,0
+Šilalės r. sav.,2010,11,0
+Tauragės r. sav.,2010,11,8
+Telšių apskritis,2010,11,13
+Mažeikių r. sav.,2010,11,1
+Plungės r. sav.,2010,11,8
+Telšių r. sav.,2010,11,4
+Utenos apskritis,2010,11,5
+Visagino sav.,2010,11,0
+Anykščių r. sav.,2010,11,2
+Ignalinos r. sav.,2010,11,0
+Molėtų r. sav.,2010,11,0
+Utenos r. sav.,2010,11,3
+Zarasų r. sav.,2010,11,0
+Vilniaus apskritis,2010,11,110
+Vilniaus m. sav.,2010,11,95
+Šalčininkų r. sav.,2010,11,0
+Širvintų r. sav.,2010,11,2
+Švenčionių r. sav.,2010,11,3
+Ukmergės r. sav.,2010,11,5
+Vilniaus r. sav.,2010,11,5
+Trakų r. sav.,2010,11,12
+Alytaus apskritis,2010,12,3
+Alytaus r. sav.,2010,12,0
+Alytaus m. sav.,2010,12,0
+Druskininkų sav.,2010,12,1
+Lazdyjų r.,2010,12,2
+Varėnos r. sav.,2010,12,0
+Kauno apskritis,2010,12,18
+Jonavos r. sav.,2010,12,0
+Kaišiadorių r. sav.,2010,12,0
+Kauno m. sav.,2010,12,9
+Kauno r. sav.,2010,12,4
+Kėdainių r. sav.,2010,12,1
+Prienų r. sav.,2010,12,4
+Raseinių r. sav.,2010,12,0
+Klaipėdos apskritis,2010,12,10
+Klaipėdos m. sav.,2010,12,5
+Klaipėdos r. sav.,2010,12,2
+Kretingos r. sav.,2010,12,0
+Palangos m. sav.,2010,12,1
+Šilutės r. sav.,2010,12,1
+Skuodo r. sav.,2010,12,1
+Marijampolės apskritis,2010,12,4
+Marijampolės r. sav.,2010,12,3
+Šakių r. sav.,2010,12,0
+Vilkaviškio r. sav.,2010,12,1
+Panevėžio apskritis,2010,12,11
+Biržų r. sav.,2010,12,1
+Kupiškio r. sav.,2010,12,2
+Panevėžio r. sav.,2010,12,1
+Panevėžio m. sav.,2010,12,4
+Pasvalio r. sav.,2010,12,0
+Rokiškio r. sav.,2010,12,3
+Šiaulių apskritis,2010,12,8
+Akmenės r. sav.,2010,12,0
+Joniškio r. sav.,2010,12,0
+Kelmės r. sav.,2010,12,0
+Radviliškio r. sav.,2010,12,0
+Šiaulių m. sav.,2010,12,5
+Šiaulių r. sav.,2010,12,1
+Tauragės apskritis,2010,12,3
+Jurbarko r. sav.,2010,12,0
+Šilalės r. sav.,2010,12,0
+Tauragės r. sav.,2010,12,3
+Telšių apskritis,2010,12,10
+Mažeikių r. sav.,2010,12,4
+Plungės r. sav.,2010,12,4
+Telšių r. sav.,2010,12,2
+Utenos apskritis,2010,12,7
+Anykščių r. sav.,2010,12,0
+Ignalinos r. sav.,2010,12,1
+Molėtų r. sav.,2010,12,3
+Utenos r. sav.,2010,12,1
+Visagino sav.,2010,12,0
+Zarasų r. sav.,2010,12,2
+Vilniaus apskritis,2010,12,47
+Vilniaus m. sav.,2010,12,37
+Šalčininkų r. sav.,2010,12,0
+Širvintų r. sav.,2010,12,1
+Švenčionių r. sav.,2010,12,2
+Ukmergės r. sav.,2010,12,1
+Vilniaus r. sav.,2010,12,3
+Trakų r. sav.,2010,12,3

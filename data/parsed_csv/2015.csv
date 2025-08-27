@@ -1,0 +1,769 @@
+name,year,month,infections
+Alytaus r.,2015,1,0
+Alytus,2015,1,0
+Druskininkai,2015,1,0
+Lazdyjų r.,2015,1,0
+Varėnos r.,2015,1,1
+Alytaus apskritis,2015,1,1
+Birštonas,2015,1,0
+Jonavos r.,2015,1,3
+Kaišiadorių r.,2015,1,0
+Kaunas,2015,1,5
+Kauno r.,2015,1,2
+Kėdainių r.,2015,1,0
+Prienų r.,2015,1,1
+Raseinių r.,2015,1,2
+Kauno apskritis,2015,1,13
+Klaipėda,2015,1,0
+Klaipėdos r.,2015,1,1
+Kretingos r.,2015,1,0
+Neringa,2015,1,0
+Palanga,2015,1,0
+Šilutės r.,2015,1,0
+Skuodo r.,2015,1,0
+Klaipėdos apskritis,2015,1,1
+Marijampolės r.,2015,1,1
+Šakių r.,2015,1,0
+Vilkaviškio r.,2015,1,0
+Marijampolės apskritis,2015,1,1
+Biržų r.,2015,1,0
+Kupiškio r.,2015,1,1
+Panevėžio r.,2015,1,1
+Panevėžys,2015,1,2
+Pasvalio r.,2015,1,0
+Rokiškio r.,2015,1,0
+Panevėžio apskritis,2015,1,4
+Akmenės r.,2015,1,0
+Joniškio r.,2015,1,1
+Kelmės r.,2015,1,0
+Radviliškio r.,2015,1,1
+Šiauliai,2015,1,5
+Šiaulių r.,2015,1,2
+Šiaulių apskritis,2015,1,10
+Jurbarko r.,2015,1,0
+Šilalės r.,2015,1,0
+Tauragės r.,2015,1,0
+Tauragės apskritis,2015,1,0
+Mažeikių r.,2015,1,0
+Plungės r.,2015,1,0
+Telšių r.,2015,1,0
+Telšių apskritis,2015,1,0
+Anykščių r.,2015,1,0
+Ignalinos r.,2015,1,0
+Molėtų r.,2015,1,0
+Utenos r.,2015,1,4
+Visaginas,2015,1,0
+Zarasų r.,2015,1,0
+Utenos apskritis,2015,1,4
+Šalčininkų r.,2015,1,0
+Širvintų r.,2015,1,0
+Švenčionių r.,2015,1,0
+Trakų r.,2015,1,3
+Ukmergės r.,2015,1,1
+Vilniaus r.,2015,1,3
+Vilnius,2015,1,10
+Vilniaus apskritis,2015,1,17
+Alytaus r.,2015,2,0
+Alytus,2015,2,0
+Druskininkai,2015,2,0
+Lazdyjų r.,2015,2,0
+Varėnos r.,2015,2,1
+Alytaus apskritis,2015,2,1
+Birštonas,2015,2,0
+Jonavos r.,2015,2,0
+Kaišiadorių r.,2015,2,1
+Kaunas,2015,2,1
+Kauno r.,2015,2,1
+Kėdainių r.,2015,2,0
+Prienų r.,2015,2,0
+Raseinių r.,2015,2,1
+Kauno apskritis,2015,2,4
+Klaipėda,2015,2,1
+Klaipėdos r.,2015,2,0
+Kretingos r.,2015,2,0
+Neringa,2015,2,0
+Palanga,2015,2,0
+Šilutės r.,2015,2,0
+Skuodo r.,2015,2,1
+Klaipėdos apskritis,2015,2,2
+Marijampolės r.,2015,2,0
+Šakių r.,2015,2,0
+Vilkaviškio r.,2015,2,1
+Marijampolės apskritis,2015,2,1
+Biržų r.,2015,2,1
+Kupiškio r.,2015,2,1
+Panevėžio r.,2015,2,0
+Panevėžys,2015,2,2
+Pasvalio r.,2015,2,0
+Rokiškio r.,2015,2,0
+Panevėžio apskritis,2015,2,4
+Akmenės r.,2015,2,0
+Joniškio r.,2015,2,0
+Kelmės r.,2015,2,0
+Radviliškio r.,2015,2,3
+Šiauliai,2015,2,2
+Šiaulių r.,2015,2,1
+Šiaulių apskritis,2015,2,6
+Jurbarko r.,2015,2,0
+Šilalės r.,2015,2,0
+Tauragės r.,2015,2,2
+Tauragės apskritis,2015,2,2
+Mažeikių r.,2015,2,0
+Plungės r.,2015,2,0
+Telšių r.,2015,2,2
+Telšių apskritis,2015,2,2
+Anykščių r.,2015,2,3
+Ignalinos r.,2015,2,0
+Molėtų r.,2015,2,2
+Utenos r.,2015,2,1
+Visaginas,2015,2,0
+Zarasų r.,2015,2,0
+Utenos apskritis,2015,2,6
+Šalčininkų r.,2015,2,0
+Širvintų r.,2015,2,2
+Švenčionių r.,2015,2,0
+Trakų r.,2015,2,1
+Ukmergės r.,2015,2,0
+Vilniaus r.,2015,2,1
+Vilnius,2015,2,7
+Vilniaus apskritis,2015,2,11
+Alytaus r.,2015,3,0
+Alytus,2015,3,0
+Druskininkai,2015,3,0
+Lazdyjų r.,2015,3,1
+Varėnos r.,2015,3,0
+Alytaus apskritis,2015,3,1
+Birštonas,2015,3,0
+Jonavos r.,2015,3,0
+Kaišiadorių r.,2015,3,0
+Kaunas,2015,3,0
+Kauno r.,2015,3,0
+Kėdainių r.,2015,3,0
+Prienų r.,2015,3,0
+Raseinių r.,2015,3,0
+Kauno apskritis,2015,3,0
+Klaipėda,2015,3,0
+Klaipėdos r.,2015,3,0
+Kretingos r.,2015,3,0
+Neringa,2015,3,0
+Palanga,2015,3,0
+Šilutės r.,2015,3,0
+Skuodo r.,2015,3,0
+Klaipėdos apskritis,2015,3,0
+Marijampolės r.,2015,3,0
+Šakių r.,2015,3,0
+Vilkaviškio r.,2015,3,0
+Marijampolės apskritis,2015,3,0
+Biržų r.,2015,3,0
+Kupiškio r.,2015,3,0
+Panevėžio r.,2015,3,0
+Panevėžys,2015,3,0
+Pasvalio r.,2015,3,0
+Rokiškio r.,2015,3,0
+Panevėžio apskritis,2015,3,0
+Akmenės r.,2015,3,0
+Joniškio r.,2015,3,0
+Kelmės r.,2015,3,0
+Radviliškio r.,2015,3,1
+Šiauliai,2015,3,1
+Šiaulių r.,2015,3,0
+Šiaulių apskritis,2015,3,2
+Jurbarko r.,2015,3,0
+Šilalės r.,2015,3,0
+Tauragės r.,2015,3,3
+Tauragės apskritis,2015,3,3
+Mažeikių r.,2015,3,0
+Plungės r.,2015,3,0
+Telšių r.,2015,3,0
+Telšių apskritis,2015,3,0
+Anykščių r.,2015,3,0
+Ignalinos r.,2015,3,0
+Molėtų r.,2015,3,0
+Utenos r.,2015,3,1
+Visaginas,2015,3,0
+Zarasų r.,2015,3,0
+Utenos apskritis,2015,3,1
+Šalčininkų r.,2015,3,0
+Širvintų r.,2015,3,0
+Švenčionių r.,2015,3,2
+Trakų r.,2015,3,1
+Ukmergės r.,2015,3,0
+Vilniaus r.,2015,3,0
+Vilnius,2015,3,9
+Vilniaus apskritis,2015,3,12
+Alytaus r.,2015,4,0
+Alytus,2015,4,0
+Druskininkai,2015,4,0
+Lazdyjų r.,2015,4,0
+Varėnos r.,2015,4,0
+Alytaus apskritis,2015,4,0
+Birštonas,2015,4,0
+Jonavos r.,2015,4,1
+Kaišiadorių r.,2015,4,0
+Kaunas,2015,4,2
+Kauno r.,2015,4,1
+Kėdainių r.,2015,4,0
+Prienų r.,2015,4,0
+Raseinių r.,2015,4,0
+Kauno apskritis,2015,4,4
+Klaipėda,2015,4,0
+Klaipėdos r.,2015,4,0
+Kretingos r.,2015,4,0
+Neringa,2015,4,0
+Palanga,2015,4,0
+Šilutės r.,2015,4,0
+Skuodo r.,2015,4,1
+Klaipėdos apskritis,2015,4,1
+Marijampolės r.,2015,4,0
+Šakių r.,2015,4,0
+Vilkaviškio r.,2015,4,0
+Marijampolės apskritis,2015,4,0
+Biržų r.,2015,4,0
+Kupiškio r.,2015,4,1
+Panevėžio r.,2015,4,0
+Panevėžys,2015,4,0
+Pasvalio r.,2015,4,0
+Rokiškio r.,2015,4,2
+Panevėžio apskritis,2015,4,3
+Akmenės r.,2015,4,0
+Joniškio r.,2015,4,0
+Kelmės r.,2015,4,0
+Radviliškio r.,2015,4,0
+Šiauliai,2015,4,0
+Šiaulių r.,2015,4,0
+Šiaulių apskritis,2015,4,0
+Jurbarko r.,2015,4,0
+Šilalės r.,2015,4,0
+Tauragės r.,2015,4,2
+Tauragės apskritis,2015,4,2
+Mažeikių r.,2015,4,0
+Plungės r.,2015,4,0
+Telšių r.,2015,4,1
+Telšių apskritis,2015,4,1
+Anykščių r.,2015,4,1
+Ignalinos r.,2015,4,0
+Molėtų r.,2015,4,0
+Utenos r.,2015,4,2
+Visaginas,2015,4,1
+Zarasų r.,2015,4,0
+Utenos apskritis,2015,4,4
+Šalčininkų r.,2015,4,0
+Širvintų r.,2015,4,0
+Švenčionių r.,2015,4,0
+Trakų r.,2015,4,3
+Ukmergės r.,2015,4,1
+Vilniaus r.,2015,4,0
+Vilnius,2015,4,9
+Vilniaus apskritis,2015,4,13
+Alytaus r.,2015,5,0
+Alytus,2015,5,0
+Druskininkai,2015,5,0
+Lazdyjų r.,2015,5,1
+Varėnos r.,2015,5,1
+Alytaus apskritis,2015,5,2
+Birštonas,2015,5,1
+Jonavos r.,2015,5,6
+Kaišiadorių r.,2015,5,1
+Kaunas,2015,5,11
+Kauno r.,2015,5,4
+Kėdainių r.,2015,5,2
+Prienų r.,2015,5,2
+Raseinių r.,2015,5,1
+Kauno apskritis,2015,5,28
+Klaipėda,2015,5,0
+Klaipėdos r.,2015,5,0
+Kretingos r.,2015,5,1
+Neringa,2015,5,0
+Palanga,2015,5,2
+Šilutės r.,2015,5,1
+Skuodo r.,2015,5,0
+Klaipėdos apskritis,2015,5,4
+Marijampolės r.,2015,5,1
+Šakių r.,2015,5,0
+Vilkaviškio r.,2015,5,0
+Marijampolės apskritis,2015,5,1
+Biržų r.,2015,5,0
+Kupiškio r.,2015,5,0
+Panevėžio r.,2015,5,1
+Panevėžys,2015,5,1
+Pasvalio r.,2015,5,0
+Rokiškio r.,2015,5,3
+Panevėžio apskritis,2015,5,5
+Akmenės r.,2015,5,0
+Joniškio r.,2015,5,0
+Kelmės r.,2015,5,0
+Radviliškio r.,2015,5,1
+Šiauliai,2015,5,6
+Šiaulių r.,2015,5,0
+Šiaulių apskritis,2015,5,7
+Jurbarko r.,2015,5,0
+Šilalės r.,2015,5,0
+Tauragės r.,2015,5,3
+Tauragės apskritis,2015,5,3
+Mažeikių r.,2015,5,1
+Plungės r.,2015,5,0
+Telšių r.,2015,5,0
+Telšių apskritis,2015,5,1
+Anykščių r.,2015,5,3
+Ignalinos r.,2015,5,0
+Molėtų r.,2015,5,0
+Utenos r.,2015,5,1
+Visaginas,2015,5,2
+Zarasų r.,2015,5,1
+Utenos apskritis,2015,5,7
+Šalčininkų r.,2015,5,0
+Širvintų r.,2015,5,2
+Švenčionių r.,2015,5,1
+Trakų r.,2015,5,1
+Ukmergės r.,2015,5,1
+Vilniaus r.,2015,5,5
+Vilnius,2015,5,33
+Vilniaus apskritis,2015,5,43
+Alytaus r.,2015,6,0
+Alytus,2015,6,2
+Druskininkai,2015,6,2
+Lazdyjų r.,2015,6,1
+Varėnos r.,2015,6,1
+Alytaus apskritis,2015,6,6
+Birštonas,2015,6,3
+Jonavos r.,2015,6,5
+Kaišiadorių r.,2015,6,1
+Kaunas,2015,6,39
+Kauno r.,2015,6,7
+Kėdainių r.,2015,6,4
+Prienų r.,2015,6,4
+Raseinių r.,2015,6,3
+Kauno apskritis,2015,6,66
+Klaipėda,2015,6,3
+Klaipėdos r.,2015,6,1
+Kretingos r.,2015,6,1
+Neringa,2015,6,0
+Palanga,2015,6,1
+Šilutės r.,2015,6,3
+Skuodo r.,2015,6,2
+Klaipėdos apskritis,2015,6,11
+Marijampolės r.,2015,6,7
+Šakių r.,2015,6,0
+Vilkaviškio r.,2015,6,0
+Marijampolės apskritis,2015,6,7
+Biržų r.,2015,6,1
+Kupiškio r.,2015,6,0
+Panevėžio r.,2015,6,2
+Panevėžys,2015,6,4
+Pasvalio r.,2015,6,0
+Rokiškio r.,2015,6,1
+Panevėžio apskritis,2015,6,8
+Akmenės r.,2015,6,1
+Joniškio r.,2015,6,0
+Kelmės r.,2015,6,0
+Radviliškio r.,2015,6,4
+Šiauliai,2015,6,7
+Šiaulių r.,2015,6,3
+Šiaulių apskritis,2015,6,18
+Jurbarko r.,2015,6,0
+Šilalės r.,2015,6,1
+Tauragės r.,2015,6,2
+Tauragės apskritis,2015,6,3
+Mažeikių r.,2015,6,0
+Plungės r.,2015,6,3
+Telšių r.,2015,6,5
+Telšių apskritis,2015,6,8
+Anykščių r.,2015,6,4
+Ignalinos r.,2015,6,0
+Molėtų r.,2015,6,0
+Utenos r.,2015,6,5
+Visaginas,2015,6,1
+Zarasų r.,2015,6,1
+Utenos apskritis,2015,6,11
+Šalčininkų r.,2015,6,1
+Širvintų r.,2015,6,2
+Švenčionių r.,2015,6,2
+Trakų r.,2015,6,3
+Ukmergės r.,2015,6,8
+Vilniaus r.,2015,6,4
+Vilnius,2015,6,59
+Vilniaus apskritis,2015,6,79
+Alytaus r.,2015,7,1
+Alytus,2015,7,1
+Druskininkai,2015,7,1
+Lazdijų r.,2015,7,1
+Varėnos r.,2015,7,1
+Alytaus apskritis,2015,7,5
+Birštonas,2015,7,1
+Jonavos r.,2015,7,9
+Kaišiadorių r.,2015,7,6
+Kaunas,2015,7,67
+Kauno r.,2015,7,21
+Kėdainių r.,2015,7,8
+Prienų r.,2015,7,4
+Raseinių r.,2015,7,4
+Kauno apskritis,2015,7,120
+Klaipėda,2015,7,9
+Klaipėdos r.,2015,7,4
+Kretingos r.,2015,7,2
+Neringa,2015,7,0
+Palanga,2015,7,0
+Šilutės r.,2015,7,5
+Skuodo r.,2015,7,2
+Klaipėdos apskritis,2015,7,22
+Marijampolės r.,2015,7,3
+Šakių r.,2015,7,1
+Vilkaviškio r.,2015,7,3
+Marijampolės apskritis,2015,7,7
+Biržų r.,2015,7,0
+Kupiškio r.,2015,7,2
+Panevėžio r.,2015,7,6
+Panevėžys,2015,7,17
+Pasvalio r.,2015,7,3
+Rokiškio r.,2015,7,14
+Panevėžio apskritis,2015,7,42
+Akmenės r.,2015,7,3
+Joniškio r.,2015,7,2
+Kelmės r.,2015,7,2
+Radviliškio r.,2015,7,5
+Šiauliai,2015,7,16
+Šiaulių r.,2015,7,1
+Šiaulių apskritis,2015,7,35
+Jurbarko r.,2015,7,4
+Šilalės r.,2015,7,5
+Tauragės r.,2015,7,3
+Tauragės apskritis,2015,7,12
+Mažeikių r.,2015,7,1
+Plungės r.,2015,7,12
+Telšių r.,2015,7,8
+Telšių apskritis,2015,7,21
+Anykščių r.,2015,7,4
+Ignalinos r.,2015,7,2
+Molėtų r.,2015,7,0
+Utenos r.,2015,7,3
+Visaginas,2015,7,1
+Zarasų r.,2015,7,0
+Utenos apskritis,2015,7,10
+Šalčininkų r.,2015,7,0
+Širvintų r.,2015,7,0
+Švenčionių r.,2015,7,6
+Trakų r.,2015,7,2
+Ukmergės r.,2015,7,7
+Vilniaus r.,2015,7,9
+Vilnius,2015,7,109
+Vilniaus apskritis,2015,7,133
+Alytaus r.,2015,8,0
+Alytus,2015,8,1
+Druskininkai,2015,8,3
+Lazdijų r.,2015,8,0
+Varėnos r.,2015,8,1
+Alytaus apskritis,2015,8,5
+Birštonas,2015,8,1
+Jonavos r.,2015,8,12
+Kaišiadorių r.,2015,8,2
+Kaunas,2015,8,59
+Kauno r.,2015,8,15
+Kėdainių r.,2015,8,5
+Prienų r.,2015,8,2
+Raseinių r.,2015,8,5
+Kauno apskritis,2015,8,101
+Klaipėda,2015,8,5
+Klaipėdos r.,2015,8,4
+Kretingos r.,2015,8,5
+Neringa,2015,8,0
+Palanga,2015,8,2
+Šilutės r.,2015,8,0
+Skuodo r.,2015,8,2
+Klaipėdos apskritis,2015,8,18
+Marijampolės r.,2015,8,3
+Šakių r.,2015,8,0
+Vilkaviškio r.,2015,8,0
+Marijampolės apskritis,2015,8,3
+Biržų r.,2015,8,5
+Kupiškio r.,2015,8,4
+Panevėžio r.,2015,8,7
+Panevėžys,2015,8,16
+Pasvalio r.,2015,8,0
+Rokiškio r.,2015,8,3
+Panevėžio apskritis,2015,8,35
+Akmenės r.,2015,8,0
+Joniškio r.,2015,8,3
+Kelmės r.,2015,8,4
+Radviliškio r.,2015,8,5
+Šiauliai,2015,8,15
+Šiaulių r.,2015,8,2
+Šiaulių apskritis,2015,8,31
+Jurbarko r.,2015,8,1
+Šilalės r.,2015,8,2
+Tauragės r.,2015,8,4
+Tauragės apskritis,2015,8,7
+Mažeikių r.,2015,8,7
+Plungės r.,2015,8,7
+Telšių r.,2015,8,14
+Telšių apskritis,2015,8,28
+Anykščių r.,2015,8,5
+Ignalinos r.,2015,8,1
+Molėtų r.,2015,8,0
+Utenos r.,2015,8,10
+Visaginas,2015,8,1
+Zarasų r.,2015,8,2
+Utenos apskritis,2015,8,19
+Šalčininkų r.,2015,8,1
+Širvintų r.,2015,8,0
+Švenčionių r.,2015,8,6
+Trakų r.,2015,8,11
+Ukmergės r.,2015,8,5
+Vilniaus r.,2015,8,9
+Vilnius,2015,8,107
+Vilniaus apskritis,2015,8,139
+Alytaus r.,2015,9,0
+Alytus,2015,9,0
+Druskininkai,2015,9,3
+Lazdijų r.,2015,9,0
+Varėnos r.,2015,9,2
+Alytaus apskritis,2015,9,5
+Birštonas,2015,9,2
+Jonavos r.,2015,9,14
+Kaišiadorių r.,2015,9,7
+Kaunas,2015,9,55
+Kauno r.,2015,9,9
+Kėdainių r.,2015,9,2
+Prienų r.,2015,9,4
+Raseinių r.,2015,9,5
+Kauno apskritis,2015,9,98
+Klaipėda,2015,9,5
+Klaipėdos r.,2015,9,0
+Kretingos r.,2015,9,3
+Neringa,2015,9,0
+Palanga,2015,9,3
+Šilutės r.,2015,9,6
+Skuodo r.,2015,9,2
+Klaipėdos apskritis,2015,9,19
+Marijampolės r.,2015,9,1
+Šakių r.,2015,9,0
+Vilkaviškio r.,2015,9,2
+Marijampolės apskritis,2015,9,3
+Biržų r.,2015,9,6
+Kupiškio r.,2015,9,3
+Panevėžio r.,2015,9,1
+Panevėžys,2015,9,16
+Pasvalio r.,2015,9,1
+Rokiškio r.,2015,9,10
+Panevėžio apskritis,2015,9,37
+Akmenės r.,2015,9,1
+Joniškio r.,2015,9,3
+Kelmės r.,2015,9,1
+Radviliškio r.,2015,9,4
+Šiauliai,2015,9,11
+Šiaulių r.,2015,9,4
+Šiaulių apskritis,2015,9,30
+Jurbarko r.,2015,9,1
+Šilalės r.,2015,9,8
+Tauragės r.,2015,9,5
+Tauragės apskritis,2015,9,14
+Mažeikių r.,2015,9,2
+Plungės r.,2015,9,7
+Telšių r.,2015,9,10
+Telšių apskritis,2015,9,19
+Anykščių r.,2015,9,2
+Ignalinos r.,2015,9,3
+Molėtų r.,2015,9,0
+Utenos r.,2015,9,7
+Visaginas,2015,9,3
+Zarasų r.,2015,9,2
+Utenos apskritis,2015,9,17
+Šalčininkų r.,2015,9,0
+Širvintų r.,2015,9,5
+Švenčionių r.,2015,9,1
+Trakų r.,2015,9,7
+Ukmergės r.,2015,9,6
+Vilniaus r.,2015,9,14
+Vilnius,2015,9,84
+Vilniaus apskritis,2015,9,117
+Alytaus r.,2015,10,0
+Alytus,2015,10,1
+Druskininkai,2015,10,1
+Lazdijų r.,2015,10,0
+Varėnos r.,2015,10,4
+Alytaus apskritis,2015,10,6
+Birštonas,2015,10,0
+Jonavos r.,2015,10,8
+Kaišiadorių r.,2015,10,2
+Kaunas,2015,10,37
+Kauno r.,2015,10,8
+Kėdainių r.,2015,10,5
+Prienų r.,2015,10,0
+Raseinių r.,2015,10,5
+Kauno apskritis,2015,10,65
+Klaipėda,2015,10,8
+Klaipėdos r.,2015,10,5
+Kretingos r.,2015,10,0
+Neringa,2015,10,0
+Palanga,2015,10,0
+Šilutės r.,2015,10,2
+Skuodo r.,2015,10,2
+Klaipėdos apskritis,2015,10,17
+Marijampolės r.,2015,10,6
+Šakių r.,2015,10,2
+Vilkaviškio r.,2015,10,1
+Marijampolės apskritis,2015,10,9
+Biržų r.,2015,10,9
+Kupiškio r.,2015,10,2
+Panevėžio r.,2015,10,6
+Panevėžys,2015,10,13
+Pasvalio r.,2015,10,0
+Rokiškio r.,2015,10,5
+Panevėžio apskritis,2015,10,35
+Akmenės r.,2015,10,0
+Joniškio r.,2015,10,0
+Kelmės r.,2015,10,1
+Radviliškio r.,2015,10,5
+Šiauliai,2015,10,5
+Šiaulių r.,2015,10,4
+Šiaulių apskritis,2015,10,20
+Jurbarko r.,2015,10,1
+Šilalės r.,2015,10,0
+Tauragės r.,2015,10,2
+Tauragės apskritis,2015,10,3
+Mažeikių r.,2015,10,4
+Plungės r.,2015,10,4
+Telšių r.,2015,10,9
+Telšių apskritis,2015,10,17
+Anykščių r.,2015,10,5
+Ignalinos r.,2015,10,3
+Molėtų r.,2015,10,0
+Utenos r.,2015,10,3
+Visaginas,2015,10,2
+Zarasų r.,2015,10,2
+Utenos apskritis,2015,10,15
+Šalčininkų r.,2015,10,3
+Širvintų r.,2015,10,2
+Švenčionių r.,2015,10,11
+Trakų r.,2015,10,8
+Ukmergės r.,2015,10,10
+Vilniaus r.,2015,10,11
+Vilnius,2015,10,86
+Vilniaus apskritis,2015,10,131
+Alytaus r.,2015,11,0
+Alytus,2015,11,1
+Druskininkai,2015,11,1
+Lazdijų r.,2015,11,0
+Varėnos r.,2015,11,1
+Alytaus apskritis,2015,11,3
+Birštonas,2015,11,2
+Jonavos r.,2015,11,4
+Kaišiadorių r.,2015,11,1
+Kaunas,2015,11,25
+Kauno r.,2015,11,8
+Kėdainių r.,2015,11,5
+Prienų r.,2015,11,1
+Raseinių r.,2015,11,2
+Kauno apskritis,2015,11,48
+Klaipėda,2015,11,5
+Klaipėdos r.,2015,11,2
+Kretingos r.,2015,11,2
+Neringa,2015,11,0
+Palanga,2015,11,2
+Šilutės r.,2015,11,1
+Skuodo r.,2015,11,1
+Klaipėdos apskritis,2015,11,13
+Marijampolės r.,2015,11,5
+Šakių r.,2015,11,2
+Vilkaviškio r.,2015,11,2
+Marijampolės apskritis,2015,11,9
+Biržų r.,2015,11,8
+Kupiškio r.,2015,11,8
+Panevėžio r.,2015,11,4
+Panevėžys,2015,11,19
+Pasvalio r.,2015,11,0
+Rokiškio r.,2015,11,8
+Panevėžio apskritis,2015,11,47
+Akmenės r.,2015,11,2
+Joniškio r.,2015,11,2
+Kelmės r.,2015,11,3
+Radviliškio r.,2015,11,1
+Šiauliai,2015,11,1
+Šiaulių r.,2015,11,1
+Šiaulių apskritis,2015,11,15
+Jurbarko r.,2015,11,0
+Šilalės r.,2015,11,1
+Tauragės r.,2015,11,4
+Tauragės apskritis,2015,11,5
+Mažeikių r.,2015,11,1
+Plungės r.,2015,11,7
+Telšių r.,2015,11,3
+Telšių apskritis,2015,11,11
+Anykščių r.,2015,11,4
+Ignalinos r.,2015,11,2
+Molėtų r.,2015,11,1
+Utenos r.,2015,11,0
+Visaginas,2015,11,0
+Zarasų r.,2015,11,0
+Utenos apskritis,2015,11,7
+Šalčininkų r.,2015,11,1
+Širvintų r.,2015,11,0
+Švenčionių r.,2015,11,3
+Trakų r.,2015,11,3
+Ukmergės r.,2015,11,3
+Vilniaus r.,2015,11,10
+Vilnius,2015,11,42
+Vilniaus apskritis,2015,11,62
+Alytaus r.,2015,12,0
+Alytus,2015,12,0
+Druskininkai,2015,12,0
+Lazdijų r.,2015,12,0
+Varėnos r.,2015,12,0
+Alytaus apskritis,2015,12,0
+Birštonas,2015,12,0
+Jonavos r.,2015,12,1
+Kaišiadorių r.,2015,12,0
+Kaunas,2015,12,7
+Kauno r.,2015,12,2
+Kėdainių r.,2015,12,1
+Prienų r.,2015,12,1
+Raseinių r.,2015,12,1
+Kauno apskritis,2015,12,13
+Klaipėda,2015,12,3
+Klaipėdos r.,2015,12,0
+Kretingos r.,2015,12,1
+Neringa,2015,12,0
+Palanga,2015,12,1
+Šilutės r.,2015,12,0
+Skuodo r.,2015,12,0
+Klaipėdos apskritis,2015,12,5
+Marijampolės r.,2015,12,2
+Šakių r.,2015,12,0
+Vilkaviškio r.,2015,12,1
+Marijampolės apskritis,2015,12,3
+Biržų r.,2015,12,3
+Kupiškio r.,2015,12,1
+Panevėžio r.,2015,12,2
+Panevėžys,2015,12,6
+Pasvalio r.,2015,12,0
+Rokiškio r.,2015,12,6
+Panevėžio apskritis,2015,12,18
+Akmenės r.,2015,12,0
+Joniškio r.,2015,12,1
+Kelmės r.,2015,12,3
+Radviliškio r.,2015,12,0
+Šiauliai,2015,12,4
+Šiaulių r.,2015,12,2
+Šiaulių apskritis,2015,12,12
+Jurbarko r.,2015,12,1
+Šilalės r.,2015,12,0
+Tauragės r.,2015,12,2
+Tauragės apskritis,2015,12,3
+Mažeikių r.,2015,12,0
+Plungės r.,2015,12,1
+Telšių r.,2015,12,0
+Telšių apskritis,2015,12,1
+Anykščių r.,2015,12,5
+Ignalinos r.,2015,12,3
+Molėtų r.,2015,12,2
+Utenos r.,2015,12,5
+Visaginas,2015,12,1
+Zarasų r.,2015,12,1
+Utenos apskritis,2015,12,17
+Šalčininkų r.,2015,12,0
+Širvintų r.,2015,12,1
+Švenčionių r.,2015,12,0
+Trakų r.,2015,12,0
+Ukmergės r.,2015,12,2
+Vilniaus r.,2015,12,4
+Vilnius,2015,12,29
+Vilniaus apskritis,2015,12,36
