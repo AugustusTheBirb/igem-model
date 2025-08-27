@@ -45,7 +45,7 @@ df = df.reset_index()
 
 df = sort_values(df)
 
-df[["month", "year"]] = df["stebejimo_laikas"].str.split("-", n=1, expand=True)
+df[["year", "month"]] = df["stebejimo_laikas"].str.split("-", n=1, expand=True)
 
 df = df.drop(columns=["stebejimo_laikas"])
 
