@@ -33,7 +33,7 @@ def group_values(df):
 
 
 df = pd.read_csv(
-    "Matavimas.csv", usecols=[6, 7, 8, 9, 10, 11, 15, 16, 17, 18],
+    "data/Matavimas.csv", usecols=[6, 7, 8, 9, 10, 11, 15, 16, 17, 18],
     # nrows=100,
 )
 
