@@ -33,14 +33,21 @@ def group_values(df):
 
 
 df = pd.read_csv(
-    "Matavimas.csv", usecols=[6, 7, 8, 9, 10, 11, 15, 16, 17, 18], nrows=10000
+    "Matavimas.csv", usecols=[6, 7, 8, 9, 10, 11, 15, 16, 17, 18],
+    # nrows=100,
 )
 
 df["stebejimo_laikas"] = df["stebejimo_laikas"].apply(format_date)
 
 df = group_values(df)
 
+df = df.reset_index()
+
 df = sort_values(df)
 
+df[["month", "year"]] = df["stebejimo_laikas"].str.split("-", n=1, expand=True)
+
+df = df.drop(columns=["stoties_kodas", "stebejimo_laikas"])
+
 # print(df.to_string())
-df.to_csv("processed.csv")
+df.to_csv("data/processed_meteo.csv", index=None)
